@@ -1,0 +1,78 @@
+{% extends 'base.html' %} {% block content%}
+
+<a
+  href="/category"
+  class="text-decoration-none d-flex align-items-center"
+  style="color: black"
+>
+  <span
+    class="btn-outline-dark rounded-2"
+    style="display: inline-block; border: 1px solid; padding: 18px"
+  >
+    <i class="fa-solid fa-arrow-left"></i>
+  </span>
+  <span style="display: flex; flex-direction: column; margin-left: 10px">
+    <span style="display: inline-block; font-size: 14px"
+      >Back to Category List</span
+    >
+    <span style="display: inline-block; font-size: 19px; font-weight: bold"
+      >Detail category</span
+    >
+  </span>
+</a>
+
+<br />
+<div
+  class="card"
+  style="
+    width: 18rem;
+    margin-top: 20px;
+    padding-top: 20px;
+    padding-left: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  "
+>
+  <p><strong>Code:</strong> {{ category.code }}</p>
+  <p><strong>Name:</strong> {{ category.name }}</p>
+</div>
+<br />
+<table
+  id="example"
+  class="table table-striped table-bordered"
+  style="width: 100%"
+>
+  <thead class="table-light">
+    <tr>
+      <th>Kode Produk</th>
+      <th>Nama Produk</th>
+      <th style="width: 10%">Action</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for product in products %}
+    <tr>
+      <td>{{product.code}}</td>
+      <td>{{product.name}}</td>
+      <td>
+        <button
+          type="button"
+          class="btn btn-outline-warning"
+          onclick="location.href='/product/edit/{{product.code}}';"
+        >
+          <i class="fa-solid fa-pencil"></i>
+        </button>
+        <a
+          type="button"
+          class="btn btn-outline-danger"
+          href="/product/delete/{{product.code}}"
+          onclick="return confirm('Anda yakin mau menghapus data ini?');"
+          ><i class="fa-solid fa-trash"></i
+        ></a>
+      </td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
+
+{% endblock %}

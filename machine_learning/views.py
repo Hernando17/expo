@@ -7,6 +7,7 @@ from django.contrib.auth.forms import AuthenticationForm
 from .forms import ProductForm, CategoryForm, UserRegistry, CustomerForm, OrderForm
 from django.db import transaction
 
+@login_required
 def index(request):
     category_count = Category.objects.count()
     product_count = Product.objects.count()
@@ -96,6 +97,14 @@ def category_edit(request, code):
         form = CategoryForm(instance=category)
     
     return render(request, 'category/edit.html', {'form' : form})
+
+@login_required
+def category_detail(request, code):
+    category = Category.objects.get(code=code)
+    # products = Product.objects.get(code=code).product_set.all()
+    products = Product.objects.filter(category=category)
+    print(products, "productssssssssssss")
+    return render(request, 'category/detail.html', {'category' : category, 'products' : products})
 
 @login_required
 def category_delete(request, code):

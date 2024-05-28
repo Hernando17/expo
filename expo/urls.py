@@ -35,6 +35,7 @@ urlpatterns = [
     path('category/create', views.category_create, name='category_create'),
     path('category/edit/<str:code>', views.category_edit, name='category_edit'),
     path('category/delete/<str:code>',views.category_delete, name='category_delete'),
+    path('category/detail/<str:code>', views.category_detail, name='category_detail'),
 
     path('customer/', views.customer_index, name='customer_list'),
     path('customer/create', views.customer_create, name='customer_create'),

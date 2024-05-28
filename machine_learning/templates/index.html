@@ -1,0 +1,169 @@
+{% extends 'base.html' %} {% block content%}
+<h1>Dashboard</h1>
+
+{% for message in messages %}
+<div class="alert alert-{{ message.tags }}">{{ message }}</div>
+{% endfor %}
+
+<div class="row">
+  <div class="col">
+    <div class="card" style="width: 15rem">
+      <div class="card-header" style="background-color: #6910a8">
+        <div class="d-flex justify-content-between align-items-center">
+          <div>
+            <i class="fa-solid fa-box fa-2xl" style="color: #ffffff"></i>
+          </div>
+          <div>
+            <p
+              class="card-title text-right text-white"
+              style="text-align: right"
+            >
+              Product
+            </p>
+            <h3
+              class="card-text text-right text-white"
+              style="text-align: right"
+            >
+              {{ product_count }}
+            </h3>
+          </div>
+        </div>
+      </div>
+
+      <div class="card-body py-2">
+        <div class="d-flex justify-content-between align-items-center">
+          <a
+            href="/product/"
+            class="text-decoration-none"
+            style="color: #6910a8"
+            >View Details</a
+          >
+          <a href="/product/" class="rounded-pill"
+            ><i class="fa-solid fa-arrow-right" style="color: #6910a8"></i
+          ></a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="col">
+    <div class="card" style="width: 15rem">
+      <div class="card-header" style="background-color: #8c07dd">
+        <div class="d-flex justify-content-between align-items-center">
+          <div>
+            <i class="fa-solid fa-list fa-2xl" style="color: #ffffff"></i>
+          </div>
+          <div>
+            <p
+              class="card-title text-right text-white"
+              style="text-align: right"
+            >
+              Category
+            </p>
+            <h3
+              class="card-text text-right text-white"
+              style="text-align: right"
+            >
+              {{ category_count }}
+            </h3>
+          </div>
+        </div>
+      </div>
+
+      <div class="card-body py-2">
+        <div class="d-flex justify-content-between align-items-center">
+          <a
+            href="/category/"
+            class="text-decoration-none"
+            style="color: #8c07dd"
+            >View Details</a
+          >
+          <a href="/category/" class="rounded-pill"
+            ><i class="fa-solid fa-arrow-right" style="color: #8c07dd"></i
+          ></a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="col">
+    <div class="card" style="width: 15rem">
+      <div class="card-header" style="background-color: #9f21e3">
+        <div class="d-flex justify-content-between align-items-center">
+          <div>
+            <i class="fa-solid fa-user fa-2xl" style="color: #ffffff"></i>
+          </div>
+          <div>
+            <p
+              class="card-title text-right text-white"
+              style="text-align: right"
+              style="text-align: right"
+            >
+              Customer
+            </p>
+            <h3
+              class="card-text text-right text-white"
+              style="text-align: right"
+              style="text-align: right"
+            >
+              {{ customer_count }}
+            </h3>
+          </div>
+        </div>
+      </div>
+
+      <div class="card-body py-2">
+        <div class="d-flex justify-content-between align-items-center">
+          <a
+            href="/customer/"
+            class="text-decoration-none"
+            style="color: #9f21e3"
+            >View Details</a
+          >
+          <a href="/customer/" class="rounded-pill"
+            ><i class="fa-solid fa-arrow-right" style="color: #9f21e3"></i
+          ></a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="col">
+    <div class="card" style="width: 15rem">
+      <div class="card-header" style="background-color: #b333e9">
+        <div class="d-flex justify-content-between align-items-center">
+          <div>
+            <i class="fa-solid fa-percent fa-2xl" style="color: #ffffff"></i>
+          </div>
+          <div>
+            <p
+              class="card-title text-right text-white"
+              style="text-align: right"
+            >
+              Order
+            </p>
+            <h3
+              class="card-text text-right text-white"
+              style="text-align: right"
+            >
+              {{ customer_count }}
+            </h3>
+          </div>
+        </div>
+      </div>
+
+      <div class="card-body py-2">
+        <div class="d-flex justify-content-between align-items-center">
+          <a href="/order/" class="text-decoration-none" style="color: #b333e9"
+            >View Details</a
+          >
+          <a href="/order/" class="rounded-pill"
+            ><i class="fa-solid fa-arrow-right" style="color: #b333e9"></i
+          ></a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+{% endblock %}

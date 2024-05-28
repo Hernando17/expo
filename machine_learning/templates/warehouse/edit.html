@@ -1,0 +1,42 @@
+{% extends 'base.html' %} 
+{% block content%}
+<center>
+  <br />
+  <h3>Edit Warehouse</h3>
+</center>
+<br />
+<div class="container">
+  {% if submitted %}
+  <div class="alert alert-success">
+    <strong>Warehouse updated successfully!</strong>
+  </div>
+
+  {% else %} 
+
+  <form method="POST">
+    {% csrf_token %} 
+    {{ form.as_p }} 
+
+    <input
+    type="button"
+    onclick="window.history.back()"
+    value="Cancel"
+    class="btn"
+    style="background-opacity: 0; color: black; outline: 1px solid black"
+  />
+  <input
+    type="submit"
+    value="Submit"
+    class="btn"
+    style="
+      background-color: #5932ea;
+      color: white;
+      padding-left: 25px;
+      padding-right: 25px;
+    "
+  />
+  </form>
+
+  {% endif %}
+</div>
+{% endblock %}

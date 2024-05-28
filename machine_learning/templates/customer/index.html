@@ -1,0 +1,56 @@
+{% extends 'base.html' %} {% block content%}
+<h1>Customers</h1>
+<br />
+<a
+  href="/customer/create"
+  class="btn"
+  style="background-color: #5932ea; color: white"
+  >Add New Customer</a
+>
+<br />
+{% for message in messages %}
+<div class="alert alert-{{ message.tags }}">{{ message }}</div>
+{% endfor %}
+<br />
+<table
+  id="example"
+  class="table table-striped table-bordered"
+  style="width: 100%"
+>
+  <thead class="table-light">
+    <tr>
+      <th>Full Name</th>
+      <th>Email</th>
+      <th>Phone Number</th>
+      <th>Address</th>
+      <th>Action</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for customer in data %}
+    <tr>
+      <td>{{customer.name}}</td>
+      <td>{{customer.email}}</td>
+      <td>{{customer.mobile}}</td>
+      <td>{{customer.address}}</td>
+      <td>
+        <button
+          type="button"
+          class="btn btn-outline-warning"
+          onclick="location.href='/customer/edit/{{customer.id}}';"
+        >
+          <i class="fa-solid fa-pencil"></i>
+        </button>
+        <a
+          type="button"
+          class="btn btn-outline-danger"
+          href="/customer/delete/{{customer.id}}"
+          onclick="return confirm('Are you sure you want to delete this customer?');"
+          ><i class="fa-solid fa-trash"></i
+        ></a>
+      </td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
+{% endblock %}

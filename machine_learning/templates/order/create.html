@@ -1,0 +1,46 @@
+{% extends 'base.html' %} 
+{% block content %}
+<a
+  href="/order"
+  class="text-decoration-none d-flex align-items-center"
+  style="color: black"
+>
+  <span
+    class="btn-outline-dark rounded-2"
+    style="display: inline-block; border: 1px solid; padding: 18px"
+  >
+    <i class="fa-solid fa-arrow-left"></i>
+  </span>
+  <span style="display: flex; flex-direction: column; margin-left: 10px">
+    <span style="display: inline-block; font-size: 14px"
+      >Back to Order List</span
+    >
+    <span style="display: inline-block; font-size: 19px; font-weight: bold"
+      >Add a new order</span
+    >
+  </span>
+</a>
+<br />
+
+<form method="POST" >
+  {% csrf_token %} {{ form.as_p }}
+  <input
+    type="button"
+    onclick="window.history.back()"
+    value="Cancel"
+    class="btn"
+    style="background-opacity: 0; color: black; outline: 1px solid black"
+  />
+  <input
+    type="submit"
+    value="Add"
+    class="btn"
+    style="
+      background-color: #5932ea;
+      color: white;
+      padding-left: 25px;
+      padding-right: 25px;
+    "
+  />
+</form>
+{% endblock %}

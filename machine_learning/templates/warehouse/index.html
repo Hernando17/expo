@@ -1,0 +1,57 @@
+{% extends 'base.html' %} {% block content%}
+<h1>Warehouses</h1>
+<br />
+<a
+  href="/warehouse/create"
+  class="btn"
+  style="background-color: #5932ea; color: white"
+  >Add New Warehouse</a
+>
+<br />
+{% for message in messages %}
+<div class="alert alert-{{ message.tags }}">{{ message }}</div>
+{% endfor %}
+<br />
+<table
+  id="example"
+  class="table table-striped table-bordered"
+  style="width: 100%"
+>
+  <thead class="table-light">
+    <tr>
+      <th>Warehouse Name</th>
+      <th>Location</th>
+      <th>Person In Charge</th>
+      <th>Mobile</th>
+      <th>Action</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for warehouse in data %}
+    <tr>
+      <td>{{warehouse.name}}</td>
+      <td>{{warehouse.location}}</td>
+      <td>{{warehouse.pic}}</td>
+      <td>{{warehouse.mobile}}</td>
+      <td>
+        <button
+          type="button"
+          class="btn btn-outline-warning"
+          onclick="location.href='/warehouse/edit/{{warehouse.name}}';"
+        >
+          <i class="fa-solid fa-pencil"></i>
+        </button>
+        <a
+          type="button"
+          class="btn btn-outline-danger"
+          href="/warehouse/delete/{{warehouse.name}}"
+          onclick="return confirm('Are you sure you want to delete this warehouse?');"
+          ><i class="fa-solid fa-trash"></i
+        ></a>
+      </td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
+
+{% endblock %}

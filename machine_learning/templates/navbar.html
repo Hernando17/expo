@@ -1,0 +1,191 @@
+<nav
+  style="
+    height: 100vh;
+    width: 306px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: white;
+    overflow-x: hidden;
+    transition: 0.5s;
+    padding-left: 28px;
+    padding-right: 28px;
+    padding-top: 36px;
+  "
+>
+  <a
+    class="navbar-brand fs-4 fw-bold text-center"
+    style="margin-left-4px"
+    href="/"
+    >Machine Learning</a
+  >
+
+  <div style="margin-x: 28px; margin-top: 52px">
+    <a
+      class="nav-link mb-3 d-flex justify-content-between align-items-center rounded-3 {% if request.path == '/' %}active{% endif %}"
+      style="padding-left: 11px; font-size: 18px; padding: 11px"
+      href="/"
+    >
+      <p class="m-0">
+        <i
+          class="fa-solid fa-house fa-xs"
+          style="outline: 1px solid black; margin-right: 5px"
+        ></i>
+        Dashboard
+      </p>
+      <i class="fa-solid fa-chevron-right fa-xs"></i>
+    </a>
+    <a
+      class="nav-link mb-3 d-flex justify-content-between align-items-center rounded-3 {% if request.path == '/product/' %}active{% endif %}"
+      style="padding-left: 11px; font-size: 18px; padding: 11px"
+      href="/product/"
+    >
+      <p class="m-0">
+        <i
+          class="fa-solid fa-box fa-xs"
+          style="outline: 1px solid black; margin-right: 13px"
+        ></i
+        >Product
+      </p>
+      <i class="fa-solid fa-chevron-right fa-xs"></i>
+    </a>
+    <a
+      class="nav-link mb-3 d-flex justify-content-between align-items-center rounded-3 {% if request.path == '/category/' %}active{% endif %}"
+      style="padding-left: 11px; font-size: 18px; padding: 11px"
+      href="/category/"
+    >
+      <p class="m-0">
+        <i
+          class="fa-solid fa-list fa-xs"
+          style="outline: 1px solid black; margin-right: 5px"
+        ></i>
+        Category
+      </p>
+      <i class="fa-solid fa-chevron-right fa-xs"></i>
+    </a>
+    {% comment %}
+    <a
+      class="nav-link mb-3 d-flex justify-content-between align-items-center rounded-3 {% if request.path == '/' %}active{% endif %}"
+      style="padding-left: 11px; font-size: 18px; padding: 11px"
+      href="/"
+    >
+      <p class="m-0">
+        <i
+          class="fa-solid fa-percent fa-xs"
+          style="outline: 1px solid black; margin-right: 13px"
+        ></i
+        >Sales
+      </p>
+      <i class="fa-solid fa-chevron-right fa-xs"></i>
+    </a>
+    {% endcomment %}
+    <a
+      class="nav-link mb-3 d-flex justify-content-between align-items-center rounded-3 {% if request.path == '/customer/' %}active{% endif %}"
+      style="padding-left: 11px; font-size: 18px; padding: 11px"
+      href="/customer/"
+    >
+      <p class="m-0">
+        <i
+          class="fa-solid fa-percent fa-xs"
+          style="outline: 1px solid black; margin-right: 13px"
+        ></i
+        >Customers
+      </p>
+      <i class="fa-solid fa-chevron-right fa-xs"></i>
+    </a>
+    <!-- <a
+      class="nav-link mb-3 d-flex justify-content-between align-items-center rounded-3"
+      style="padding-left: 11px; font-size: 18px; padding: 11px"
+      href="/warehouse/"
+    >
+      <p class="m-0">
+        <i
+          class="fa-solid fa-percent fa-xs"
+          style="outline: 1px solid black; margin-right: 13px"
+        ></i
+        >Warehouses
+      </p>
+      <i class="fa-solid fa-chevron-right fa-xs"></i>
+    </a> -->
+    <a
+      class="nav-link mb-3 d-flex justify-content-between align-items-center rounded-3 {% if request.path == '/order/' %}active{% endif %}"
+      style="padding-left: 11px; font-size: 18px; padding: 11px"
+      href="/order/"
+    >
+      <p class="m-0">
+        <i
+          class="fa-solid fa-percent fa-xs"
+          style="outline: 1px solid black; margin-right: 13px"
+        ></i
+        >Orders
+      </p>
+      <i class="fa-solid fa-chevron-right fa-xs"></i>
+    </a>
+
+    <div
+      class="position-absolute bottom-0 start-0 p-3"
+      style="width: 270px; margin-left: 18px"
+    >
+      <ul class="navbar-nav">
+        <li
+          class="nav-item"
+          style="
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            width: 100%;
+          "
+        >
+          <span>
+            <a
+              class="active"
+              aria-current="page"
+              href="{% url 'user' %}"
+              style="
+                text-decoration: none;
+                color: black;
+                font-size: 16px;
+                font-weight: 500;
+                {% comment %} margin-right: 5px; {% endcomment %}
+              "
+            >
+              <i class="fa-solid fa-user" style="margin-right: 20px"></i>
+            </a>
+            <a
+              class=""
+              href="{% url 'user' %}"
+              style="
+                text-decoration: none;
+                color: black;
+                font-size: 16px;
+                font-weight: 500;
+                margin-right: 20px;
+              "
+            >
+              {{ user.username }}
+            </a>
+          </span>
+          <a
+            class=""
+            href="{% url 'logout' %}"
+            onclick="return confirm('Are you sure you want to logout?');"
+          >
+            <i
+              class="fa-solid fa-right-from-bracket"
+              style="margin-left: 25px; color: #ff0000"
+            ></i>
+          </a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+<style>
+  .nav-link:hover,
+  .nav-link.active {
+    background-color: #5932ea !important;
+    color: white !important;
+  }
+</style>

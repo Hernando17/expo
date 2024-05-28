@@ -1,0 +1,18 @@
+{% extends 'base.html' %}
+{% block title %}{{ register }} {% endblock %}
+{% load crispy_forms_tags %}
+{% block content %}
+<div class="container">
+    <div class="row">
+        <div class="col-md-6 offset-md-2">
+            <h3>Create Account</h3>
+            <hr>
+            <form method="POST">
+                {% csrf_token %}
+                {{ form | crispy }}
+                <input class="btn" type="submit" value="Sign Up" style="background-color: #5932ea; color: #ffffff;">
+            </form>
+        </div>
+    </div>
+</div>
+{% endblock %}

@@ -1,69 +1,28 @@
 {% extends 'base.html' %} {% block content%}
-<center>
-  <br />
-  <h3>Edit Class Room</h3>
-</center>
+<a
+  href="/product/"
+  class="text-decoration-none d-flex align-items-center"
+  style="color: black"
+>
+  <span
+    class="btn-outline-dark rounded-2"
+    style="display: inline-block; border: 1px solid; padding: 18px"
+  >
+    <i class="fa-solid fa-arrow-left"></i>
+  </span>
+  <span style="display: flex; flex-direction: column; margin-left: 10px">
+    <span style="display: inline-block; font-size: 14px"
+      >Back to Product List</span
+    >
+    <span style="display: inline-block; font-size: 19px; font-weight: bold"
+      >Edit Product</span
+    >
+  </span>
+</a>
 <br />
-<div class="container">
-  {% comment %} {% if form.errors %} {% for field in form %} {% for error in
-  field.errors %}
-  <div class="alert alert-danger">
-    <strong>{{ error|escape }}</strong>
-  </div>
-  {% endfor %} {% endfor %} {% for error in form.non_field_errors %}
-  <div class="alert alert-danger">
-    <strong>{{ error|escape }}</strong>
-  </div>
-  {% endfor %} {% endif %} {% endcomment %} {% if submitted %}
-  <div class="alert alert-success">
-    <strong>Product added successfully!</strong>
-  </div>
-
-  {% else %} {% comment %}
-  <div class="alert alert-info">
-    <strong>Please enter the product details.</strong>
-  </div>
-  {% endcomment %}
 
   <form method="POST">
-    {% csrf_token %} {{ form.as_p }} {% comment %}
-    <tr>
-      <td>Product Code</td>
-      <td>
-        <input type="number" name="code" value="" />
-      </td>
-    </tr>
-    <tr>
-      <td>Name</td>
-      <td>
-        <input type="text" name="name" value="" />
-      </td>
-    </tr>
-    <tr>
-      <td>Price</td>
-      <td>
-        <input type="number" name="price" value="" />
-      </td>
-    </tr>
-    <tr>
-      <td>Stock</td>
-      <td>
-        <input type="number" name="stock" value="" />
-      </td>
-    </tr>
-    {% endcomment %} {% comment %}
-    <tr>
-      <td>Category</td>
-      <td></td>
-      <td>
-        <select name="category">
-          {% for category in category %}
-          <option value="{{category.code}}">{{category.name}}</option>
-          {% endfor %}
-        </select>
-      </td>
-    </tr>
-    {% endcomment %}
+    {% csrf_token %} {{ form.as_p }} 
     <input
     type="button"
     onclick="window.history.back()"
@@ -84,6 +43,5 @@
   />
   </form>
 
-  {% endif %}
 </div>
 {% endblock %}

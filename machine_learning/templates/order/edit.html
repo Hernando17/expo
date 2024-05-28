@@ -1,7 +1,6 @@
-{% extends 'base.html' %} 
-{% block content %}
+{% extends 'base.html' %} {% block content %}
 <a
-  href="/order"
+  href="/order/"
   class="text-decoration-none d-flex align-items-center"
   style="color: black"
 >
@@ -22,7 +21,7 @@
 </a>
 <br />
 
-<form method="POST" >
+<form method="POST">
   {% csrf_token %} {{ form.as_p }}
   <input
     type="button"

@@ -34,6 +34,19 @@ def register(request):
     context = {"register": "Register", "form": form}
     return render(request, "user/register.html", context)
 
+def anonymous_required(function=None, redirect_url=None):
+    def _decorator(view_func):
+        def _view(request, *args, **kwargs):
+            if request.user.is_authenticated:
+                return redirect(redirect_url if redirect_url else '/')
+            else:
+                return view_func(request, *args, **kwargs)
+        return _view
+    if function:
+        return _decorator(function)
+    return _decorator
+
+@anonymous_required(redirect_url='/')
 def login_view(request):
     if request.method == "POST":
         username = request.POST['username']
@@ -44,6 +57,7 @@ def login_view(request):
             messages.success(request, "You have successfully logged in.")
             return redirect('/')
         else:
+            messages.error(request, "Invalid username or password.")
             form = AuthenticationForm()
     else:
         form = AuthenticationForm()

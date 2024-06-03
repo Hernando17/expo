@@ -9,7 +9,7 @@
 >
 <br />
 {% for message in messages %}
-<div class="alert alert-{{ message.tags }}">{{ message }}</div>
+<div class="alert alert-{{ message.tags }}" style="margin-top: 20px;">{{ message }}</div>
 {% endfor %}
 <br />
 <table
@@ -20,9 +20,12 @@
   <thead class="table-light">
     <tr>
       <th>Full Name</th>
+      <th>Gender</th> 
       <th>Email</th>
       <th>Phone Number</th>
       <th>Address</th>
+      <th>Customer Type</th> 
+      
       <th style="width: 7%">Action</th>
     </tr>
   </thead>
@@ -30,9 +33,11 @@
     {% for customer in data %}
     <tr>
       <td>{{customer.name}}</td>
+      <td>{{customer.gender}}</td> 
       <td>{{customer.email}}</td>
       <td>{{customer.mobile}}</td>
       <td>{{customer.address}}</td>
+      <td>{{customer.customer_type}}</td> 
       <td>
         <button
           type="button"

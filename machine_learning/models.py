@@ -3,6 +3,32 @@ from django.contrib.auth.models import User
 from django.core.exceptions import ValidationError
 
 # Create your models here.
+CUSTOMER_TYPES = [
+    ('Member', 'Member'),
+    ('Regular', 'Regular'),
+]
+
+GENDER_CHOICES = [
+    ('Male', 'Male'),
+    ('Female', 'Female'),
+]
+
+PAYMENT_TYPES = [
+    ('Qris', 'Qris'),
+    ('Cash', 'Cash'),
+    ('Transfer', 'Transfer'),
+    ('Card', 'Card'),
+]
+Discount_CHOICES = [
+    ('0', '0'),
+    ('5', '5'),
+    ('10', '10'),
+    ('15', '15'),
+    ('20', '20'),
+    ('25', '25'),
+    ('30', '30'),
+]
+
 class UserProfile(models.Model):
     user = models.OneToOneField(User, on_delete=models.CASCADE)
     address = models.CharField(max_length=40)
@@ -76,6 +102,8 @@ class Customer(models.Model):
     email = models.EmailField(max_length=100, null=True, blank=True)
     mobile = models.CharField(max_length=15, null=True, blank=True)
     address = models.CharField(max_length=255, null=True, blank=True)
+    customer_type = models.CharField(max_length=25, choices=CUSTOMER_TYPES)
+    gender = models.CharField(max_length=25, choices=GENDER_CHOICES)
 
     def __str__(self):
         return self.name
@@ -83,9 +111,12 @@ class Customer(models.Model):
 class Order(models.Model):
     id = models.AutoField(primary_key=True)
     date = models.DateTimeField(auto_now_add=True)
+    time = models.TimeField(auto_now_add=True)
     product = models.ForeignKey(Product, on_delete=models.CASCADE, null=True)
     quantity = models.IntegerField(null=True)
     total_price = models.DecimalField(max_digits=10, decimal_places=2)
+    discount = models.CharField(max_length=10, choices=Discount_CHOICES, default='0')
+    payment_type = models.CharField(max_length=25, choices=PAYMENT_TYPES)
     # warehouse = models.ForeignKey(Warehouse, on_delete=models.CASCADE, blank=True, null=True)
     customer = models.ForeignKey(Customer, on_delete=models.CASCADE, blank=True, null=True)
 

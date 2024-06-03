@@ -24,7 +24,7 @@ class UserRegistry(UserCreationForm):
 class ProductForm(ModelForm):
     class Meta:
         model = Product
-        fields = ['code', 'name', 'price', 'quantity', 'category']
+        fields = ['code', 'name', 'category', 'price', 'quantity']
         labels = {
             'code' : 'Kode Produk',
             'name' : 'Nama Produk',
@@ -56,18 +56,23 @@ class CategoryForm(ModelForm):
 class CustomerForm(ModelForm):
     class Meta:
         model = Customer
-        fields = ['name', 'email', 'mobile', 'address']
+        fields = ['name', 'gender', 'email', 'mobile', 'address', 'customer_type']  
         labels = {
             'name' : 'Full Name',
-            'email' : 'Email',
+            'gender' : 'Gender',
+            'email' : 'email',
             'mobile' : 'Mobile',
-            'address' : 'Address'
+            'address' : 'Address',
+            'customer_type' : 'Customer Type', 
+            
         }
         widgets = {
             'name' : forms.TextInput(attrs={'class' : 'form-control'}),
+            'gender' : forms.Select(attrs={'class' : 'form-control'}),  
             'email' : forms.EmailInput(attrs={'class' : 'form-control'}),
             'mobile' : forms.TextInput(attrs={'class' : 'form-control'}),
             'address' : forms.TextInput(attrs={'class' : 'form-control'}),
+            'customer_type' : forms.Select(attrs={'class' : 'form-control'}), 
         }
 
 # class WarehouseForm(ModelForm):
@@ -90,14 +95,19 @@ class CustomerForm(ModelForm):
 class OrderForm(ModelForm):
     class Meta:
         model = Order
-        fields = ['product', 'quantity', 'customer']
+        fields = ['product', 'quantity', 'customer', 'payment_type', 'discount']
         labels = {
             'product': 'Product',
             'quantity': 'Quantity',
-            'customer': 'Customer'
+            'customer': 'Customer',
+            'payment_type': 'Payment Type',  
+            'discount': 'Discount'  
         }
         widgets = {
             'product': forms.Select(attrs={'class': 'form-control'}),
             'quantity': forms.NumberInput(attrs={'class': 'form-control'}),
             'customer': forms.Select(attrs={'class': 'form-control'}),
+            'payment_type': forms.Select(attrs={'class': 'form-control'}),  
+            'discount': forms.Select(attrs={'class': 'form-control'}),  
         }
+

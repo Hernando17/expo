@@ -9,7 +9,7 @@
 >
 <br />
 {% for message in messages %}
-<div class="alert alert-{{ message.tags }}">{{ message }}</div>
+<div class="alert alert-{{ message.tags }}" style="margin-top: 20px;">{{ message }}</div>
 {% endfor %}
 <br />
 <table
@@ -21,9 +21,9 @@
     <tr>
       <th>Kode Produk</th>
       <th>Nama Produk</th>
+      <th>Category</th>
       <th>Harga Produk</th>
       <th>Stok Produk</th>
-      <th>Category</th>
       <th style="width: 7%">Action</th>
     </tr>
   </thead>
@@ -32,9 +32,9 @@
     <tr>
       <td>{{product.code}}</td>
       <td>{{product.name}}</td>
+      <td>{{product.category}}</td>
       <td>{{product.price}}</td>
       <td>{{product.quantity}}</td>
-      <td>{{product.category}}</td>
       <td>
         <button
           type="button"

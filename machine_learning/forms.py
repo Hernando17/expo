@@ -2,7 +2,7 @@ from django import forms
 from django.contrib.auth.models import User
 from django.contrib.auth.forms import UserCreationForm
 from django.forms import ModelForm
-from .models import *
+from .models import Order, Product, Category, Customer, UserProfile
 
 class UserRegistry(UserCreationForm):
     email = forms.EmailField()
@@ -24,20 +24,20 @@ class UserRegistry(UserCreationForm):
 class ProductForm(ModelForm):
     class Meta:
         model = Product
-        fields = ['code', 'name', 'category', 'price', 'quantity']
+        fields = ['code', 'name', 'product_category', 'unit_price', 'quantity']
         labels = {
-            'code' : 'Kode Produk',
-            'name' : 'Nama Produk',
-            'price' : 'Harga Produk',
-            'quantity' : 'Stok Produk',
-            'category' : 'Kategori Produk',
+            'code' : 'Product Code',
+            'name' : 'Product Name',
+            'unit_price' : 'Unit Price',
+            'quantity' : 'Product Stock',
+            'product_category' : 'Product Category',
         }
         widgets = {
             'code' : forms.TextInput(attrs={'class' : 'form-control'}),
             'name' : forms.TextInput(attrs={'class' : 'form-control'}),
-            'price' : forms.NumberInput(attrs={'class' : 'form-control'}),
+            'unit_price' : forms.NumberInput(attrs={'class' : 'form-control'}),
             'quantity' : forms.NumberInput(attrs={'class' : 'form-control'}),
-            'category' : forms.Select(attrs={'class' : 'form-control'}),
+            'product_category' : forms.Select(attrs={'class' : 'form-control'}),
         }
 
 class CategoryForm(ModelForm):
@@ -45,8 +45,8 @@ class CategoryForm(ModelForm):
         model = Category
         fields = ['code', 'name']
         labels = {
-            'code' : 'Kode Kategori',
-            'name' : 'Nama Kategori'
+            'code' : 'Category Code',
+            'name' : 'Category Name'
         }
         widgets = {
             'code' : forms.TextInput(attrs={'class' : 'form-control'}),
@@ -60,7 +60,7 @@ class CustomerForm(ModelForm):
         labels = {
             'name' : 'Full Name',
             'gender' : 'Gender',
-            'email' : 'email',
+            'email' : 'Email',
             'mobile' : 'Mobile',
             'address' : 'Address',
             'customer_type' : 'Customer Type', 

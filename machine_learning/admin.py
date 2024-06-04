@@ -9,13 +9,13 @@ class CategoryAdmin(ImportExportModelAdmin):
 
 class ProductAdmin(ImportExportModelAdmin):
     model = Product
-    list_display = ("code", "name", "price", "quantity", "uom", "category")
-    list_filter = ["category"]
+    list_display = ("code", "name", "unit_price", "quantity", "uom", "product_category")
+    list_filter = ["product_category"]
     search_fields = ["name"]
 
 class OrderAdmin(ImportExportModelAdmin):
     model = Order
-    list_display = ("id", "date", "product", "quantity", "total_price")
+    list_display = ("id", "date", "product", "quantity", "total")
     list_filter = ["date"]
     search_fields = ["product"]
 

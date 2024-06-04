@@ -25,6 +25,8 @@ urlpatterns = [
     path('login/', views.login_view, name='login'),
     path("user/", views.user, name="user"),
     path('logout/', views.logout_view, name='logout'),
+    path('test/', views.test, name='test'),
+    path('predictor/', views.predictor, name = 'predictor'),
 
     path('product/', views.product_index, name='product_list'),
     path('product/create', views.product_create, name='product_create'),

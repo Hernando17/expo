@@ -6,6 +6,11 @@ from .models import Product, Category, Customer, Order
 from django.contrib.auth.forms import AuthenticationForm
 from .forms import ProductForm, CategoryForm, UserRegistry, CustomerForm, OrderForm
 from django.db import transaction
+import pickle
+import os
+import numpy as np
+from django.http import HttpResponse
+from sklearn.preprocessing import LabelEncoder
 
 @login_required
 def index(request):
@@ -284,16 +289,97 @@ def order_create(request):
                 if instance.quantity > product.quantity:
                     messages.error(request, 'Insufficient product quantity.')
                     return render(request, "order/create.html", {"title": "Orders", "orders": orders, "form": form})
-
+                    
                 product.quantity -= instance.quantity
                 product.save()
 
+                # Load the model and LabelEncoder
+                model = load('satisfaction_model.joblib')
+                label_enc = LabelEncoder()
+
+                # Prepare the data for prediction
+                customer_type = instance.customer.customer_type
+                gender = instance.customer.gender
+                product_category = instance.product.product_category
+                unit_price = instance.product.unit_price
+                quantity = instance.quantity
+                payment_type = instance.payment_type
+                total = instance.total()
+                discount = instance.discount
+
+                # Transform the input data using LabelEncoder
+                customer_type = label_enc.fit_transform([customer_type])[0]
+                gender = label_enc.fit_transform([gender])[0]
+                product_category = label_enc.fit_transform([product_category])[0]
+                payment_type = label_enc.fit_transform([payment_type])[0]
+
+                # Make a prediction
+                y_pred = model.predict([[customer_type, gender, product_category, unit_price, quantity, payment_type, total, discount]])
+
+                prediction = round(y_pred[0], 3)
+                instance.prediction = prediction
+
+                # Categorize the prediction
+                if prediction <= 3:
+                    satisfaction = "Not Satisfied"
+                elif 4 <= prediction <= 6:
+                    satisfaction = "Quite Satisfied"
+                elif 7 <= prediction <= 8:
+                    satisfaction = "Satisfied"
+                else:  # 9 <= prediction <= 10
+                    satisfaction = "Very Satisfied"
+        
+                instance.satisfaction = satisfaction
+
                 instance.save()
-            return redirect("order_list")
+
+                return redirect("order_list")
     else:
         form = OrderForm()
     context = {"title": "Orders", "orders": orders, "form": form}
     return render(request, "order/create.html", context)
+
+def make_prediction(instance):
+    # Load the model and LabelEncoder
+    model = load('satisfaction_model.joblib')
+    label_enc = LabelEncoder()
+
+    # Prepare the data for prediction
+    customer_type = instance.customer.customer_type
+    gender = instance.customer.gender
+    product_category = instance.product.product_category
+    unit_price = instance.product.unit_price
+    quantity = instance.quantity
+    payment_type = instance.payment_type
+    total = instance.total()
+    discount = instance.discount
+
+    # Transform the input data using LabelEncoder
+    customer_type = label_enc.fit_transform([customer_type])[0]
+    gender = label_enc.fit_transform([gender])[0]
+    product_category = label_enc.fit_transform([product_category])[0]
+    payment_type = label_enc.fit_transform([payment_type])[0]
+
+    # Make a prediction
+    y_pred = model.predict([[customer_type, gender, product_category, unit_price, quantity, payment_type, total, discount]])
+
+
+    prediction = round(y_pred[0], 3)
+    instance.prediction = prediction
+
+    # Categorize the prediction
+    if prediction <= 3:
+        satisfaction = "Not Satisfied"
+    elif 4 <= prediction <= 6:
+        satisfaction = "Quite Satisfied"
+    elif 7 <= prediction <= 8:
+        satisfaction = "Satisfied"
+    else:  # 9 <= prediction <= 10
+        satisfaction = "Very Satisfied"
+
+    instance.satisfaction = satisfaction
+
+    instance.save()
 
 @login_required
 def order_edit(request, order_id):
@@ -322,6 +408,8 @@ def order_edit(request, order_id):
                 product.quantity = product.quantity - updated_quantity + (original_quantity if original_product == updated_product else 0)
                 product.save()
 
+                make_prediction(updated_order)
+
                 updated_order.save()
 
                 return redirect('order_list')
@@ -330,8 +418,40 @@ def order_edit(request, order_id):
     return render(request, 'order/edit.html', {'form': form})
 
 @login_required
-def order_delete(request, id):
-    order = Order.objects.get(id=id)
+def order_delete(request, order_id):
+    order = Order.objects.get(id=order_id)
     order.delete()
     messages.success(request, 'order deleted successfully.')
     return redirect("/order/")
+
+def test(request):
+    return render(request, 'test.html')
+
+from django.shortcuts import render
+
+from joblib import load
+model = load('satisfaction_model.joblib')
+
+label_enc = LabelEncoder()
+
+def predictor(request):
+    if request.method == 'POST':
+        customer_type = request.POST['customer_type']
+        gender = request.POST['gender']
+        product_category = request.POST['product_category']
+        unit_price = float(request.POST['unit_price'])
+        quantity = int(request.POST['quantity'])
+        payment_type = request.POST['payment_type']
+        total = float(request.POST['total'])
+        discount = float(request.POST['discount'])
+
+        # Transform the input data using LabelEncoder
+        customer_type = label_enc.fit_transform([customer_type])[0]
+        gender = label_enc.fit_transform([gender])[0]
+        product_category = label_enc.fit_transform([product_category])[0]
+        payment_type = label_enc.fit_transform([payment_type])[0]
+
+        y_pred = model.predict([[customer_type, gender, product_category, unit_price, quantity, payment_type, total, discount]])
+
+        return render(request, 'test.html', {'result' : y_pred})
+    return render(request, 'test.html')

@@ -1,0 +1,2287 @@
+Customer Type,Gender,Product Category,Unit Price,Quantity,Total,Date,Time,Payment,Discount,Rating
+Regular,Male,Fruits,10000,10,100000,4/24/2024,18:55,Cash,30,9
+Regular,Female,Bakery,22300,10,223000,4/24/2024,18:55,Cash,20,8
+Regular,Female,Seafood,90900,12,1090800,4/24/2024,18:55,Cash,15,5
+Regular,Female,Dairy Product,25800,13,335400,4/24/2024,18:56,Card,10,6
+Member,Female,Snack,7900,10,79000,4/24/2024,18:56,Cash,30,9
+Regular,Male,Beverages,17800,10,178000,4/24/2024,18:56,Cash,10,6
+Regular,Female,Bakery,22300,11,245300,4/24/2024,18:56,Qris,20,8
+Regular,Male,Kitchen Consumption,9300,11,102300,4/24/2024,18:56,Cash,30,9
+Regular,Female,Bakery,24800,11,272800,4/24/2024,19:20,Cash,15,6
+Regular,Female,Bakery,9800,9,88200,4/24/2024,19:20,Cash,15,6
+Regular,Male,Snack,7900,5,39500,4/25/2024,8:31,Cash,5,5
+Regular,Female,Seafood,69800,2,139600,4/25/2024,8:34,Card,5,3
+Member,Male,Fruits,8400,5,42000,4/25/2024,8:35,Cash,0,4
+Member,Female,Beverages,8700,11,95700,4/25/2024,8:41,Cash,5,4
+Regular,Male,Meat,56000,1,56000,4/25/2024,8:44,Card,10,5
+Member,Male,Snack,7900,7,55300,4/25/2024,8:48,Card,5,5
+Regular,Male,Bakery,7900,2,15800,4/25/2024,9:01,Transfer,0,3
+Regular,Female,Instant Food,10200,14,142800,4/25/2024,9:25,Transfer,15,5
+Regular,Female,Kitchen Consumption,13400,5,67000,4/25/2024,9:26,Card,10,5
+Member,Male,Dairy Product,43700,2,87400,4/25/2024,9:55,Qris,0,5
+Regular,Male,Kitchen Consumption,29200,12,350400,4/25/2024,11:00,Cash,15,6
+Member,Male,Vegetables,17600,10,176000,4/25/2024,11:13,Cash,20,7
+Regular,Female,Snack,9000,13,117000,4/25/2024,11:17,Transfer,30,9
+Member,Male,Beverages,11000,14,154000,4/25/2024,11:25,Cash,30,9
+Member,Male,Dairy Product,43700,1,43700,4/25/2024,11:46,Qris,20,8
+Regular,Male,Fruits,9600,12,115200,4/25/2024,12:04,Card,20,8
+Member,Female,Vegetables,30700,11,337700,4/25/2024,12:13,Qris,20,7
+Member,Male,Fruits,4000,11,44000,4/25/2024,12:36,Transfer,15,6
+Member,Male,Dairy Product,34000,2,68000,4/25/2024,12:48,Qris,0,3
+Regular,Female,Fruits,9600,13,124800,4/25/2024,13:05,Cash,15,6
+Member,Male,Seafood,80700,9,726300,4/25/2024,13:30,Cash,10,5
+Regular,Male,Fruits,7500,10,75000,4/25/2024,13:47,Cash,15,5
+Member,Male,Dessert,11000,9,99000,4/25/2024,14:15,Transfer,10,6
+Regular,Male,Fruits,10000,9,90000,4/25/2024,14:18,Card,10,6
+Regular,Female,Fruits,8900,5,44500,4/25/2024,14:28,Cash,0,5
+Regular,Female,Dairy Product,43700,2,87400,4/25/2024,15:23,Cash,5,4
+Member,Female,Fruits,13100,11,144100,4/25/2024,15:24,Transfer,20,8
+Member,Female,Instant Food,7100,10,71000,4/25/2024,15:30,Cash,10,5
+Member,Male,Seafood,44000,10,440000,4/25/2024,15:50,Transfer,15,6
+Regular,Male,Beverages,8700,13,113100,4/25/2024,16:30,Qris,15,6
+Member,Female,Dairy Product,32800,12,393600,4/25/2024,16:43,Card,10,5
+Regular,Male,Bakery,13200,8,105600,4/25/2024,16:44,Card,10,5
+Regular,Female,Fruits,6300,11,69300,4/25/2024,16:45,Card,15,6
+Member,Male,Snack,7700,14,107800,4/25/2024,17:39,Qris,5,5
+Regular,Male,Meat,87900,4,351600,4/25/2024,17:58,Transfer,10,5
+Regular,Male,Snack,7600,12,91200,4/25/2024,17:59,Qris,30,9
+Member,Female,Vegetables,17600,10,176000,4/25/2024,18:14,Cash,10,6
+Regular,Female,Fruits,7500,1,7500,4/25/2024,19:12,Qris,5,4
+Member,Male,Vegetables,16900,1,16900,4/25/2024,19:55,Transfer,5,5
+Regular,Male,Beverages,12000,10,120000,4/25/2024,20:28,Cash,10,5
+Member,Female,Meat,56000,10,560000,4/25/2024,20:35,Cash,10,5
+Regular,Female,Dessert,7400,3,22200,4/25/2024,20:38,Cash,0,5
+Regular,Male,Dairy Product,34000,9,306000,4/25/2024,20:39,Cash,15,6
+Member,Male,Meat,89600,11,985600,4/25/2024,20:42,Qris,5,3
+Member,Female,Instant Food,7100,2,14200,4/25/2024,21:04,Cash,5,5
+Member,Male,Vegetables,16900,2,33800,4/25/2024,21:25,Transfer,0,5
+Member,Male,Dessert,8700,2,17400,4/25/2024,21:33,Transfer,0,5
+Member,Female,Bakery,43000,7,301000,4/25/2024,21:38,Transfer,15,6
+Regular,Male,Kitchen Consumption,13400,13,174200,4/25/2024,21:41,Qris,15,6
+Member,Male,Instant Food,3400,13,44200,4/25/2024,21:57,Transfer,30,9
+Member,Male,Bakery,9800,1,9800,4/26/2024,8:08,Cash,5,3
+Regular,Male,Dessert,12300,9,110700,4/26/2024,8:28,Card,10,5
+Member,Male,Kitchen Consumption,24000,8,192000,4/26/2024,8:53,Card,10,6
+Regular,Female,Fruits,9500,2,19000,4/26/2024,8:59,Qris,0,4
+Member,Male,Seafood,90900,1,90900,4/26/2024,9:34,Cash,0,5
+Regular,Female,Dairy Product,22300,13,289900,4/26/2024,9:37,Transfer,15,6
+Member,Female,Kitchen Consumption,29200,1,29200,4/26/2024,9:54,Cash,10,5
+Regular,Male,Dairy Product,34000,3,102000,4/26/2024,9:59,Cash,0,3
+Regular,Male,Vegetables,12000,11,132000,4/26/2024,10:02,Cash,5,5
+Member,Female,Snack,12000,6,72000,4/26/2024,10:12,Cash,10,5
+Regular,Female,Beverages,14500,5,72500,4/26/2024,10:28,Qris,0,4
+Member,Female,Vegetables,30700,10,307000,4/26/2024,10:50,Card,10,6
+Regular,Male,Fruits,8900,5,44500,4/26/2024,10:54,Qris,15,5
+Member,Male,Bakery,13200,9,118800,4/26/2024,11:10,Transfer,15,6
+Regular,Male,Snack,12000,5,60000,4/26/2024,11:49,Transfer,5,3
+Member,Female,Kitchen Consumption,13100,10,131000,4/26/2024,11:53,Transfer,15,6
+Member,Male,Seafood,80700,13,1049100,4/26/2024,12:33,Cash,10,6
+Regular,Male,Snack,28000,7,196000,4/26/2024,12:37,Cash,30,10
+Regular,Male,Vegetables,16900,8,135200,4/26/2024,12:38,Transfer,10,6
+Member,Male,Beverages,7800,10,78000,4/26/2024,12:51,Qris,20,7
+Member,Male,Dessert,21000,1,21000,4/26/2024,13:05,Transfer,10,6
+Regular,Male,Instant Food,10300,4,41200,4/26/2024,13:07,Cash,0,4
+Member,Female,Snack,8300,9,74700,4/26/2024,13:10,Qris,10,5
+Regular,Female,Seafood,88700,14,1241800,4/26/2024,13:25,Qris,30,9
+Regular,Male,Seafood,41200,2,82400,4/26/2024,13:30,Card,15,6
+Member,Male,Beverages,12000,5,60000,4/26/2024,13:34,Card,10,5
+Member,Female,Snack,7900,8,63200,4/26/2024,13:51,Card,10,6
+Regular,Female,Dessert,19000,5,95000,4/26/2024,13:55,Transfer,5,5
+Member,Female,Bakery,8000,11,88000,4/26/2024,13:59,Cash,15,6
+Member,Female,Vegetables,29700,9,267300,4/26/2024,14:04,Cash,30,10
+Regular,Male,Instant Food,10300,13,133900,4/26/2024,14:40,Qris,15,6
+Regular,Male,Beverages,12000,11,132000,4/26/2024,15:33,Card,30,9
+Member,Male,Instant Food,15800,10,158000,4/26/2024,15:46,Qris,10,6
+Member,Male,Snack,7900,8,63200,4/26/2024,15:49,Card,10,5
+Regular,Male,Vegetables,11700,12,140400,4/26/2024,16:15,Qris,15,6
+Member,Male,Fruits,9600,9,86400,4/26/2024,16:23,Cash,30,9
+Regular,Male,Bakery,12000,11,132000,4/26/2024,16:38,Cash,5,5
+Member,Female,Instant Food,15800,10,158000,4/26/2024,17:19,Cash,30,10
+Member,Female,Seafood,67800,10,678000,4/26/2024,17:25,Card,10,6
+Regular,Male,Bakery,9800,5,49000,4/26/2024,17:52,Card,5,4
+Member,Male,Seafood,41200,2,82400,4/26/2024,18:38,Transfer,5,4
+Regular,Male,Snack,8300,2,16600,4/26/2024,18:39,Cash,15,6
+Regular,Female,Bakery,21400,1,21400,4/26/2024,18:51,Card,30,10
+Regular,Female,Snack,7600,6,45600,4/26/2024,18:56,Cash,0,5
+Regular,Male,Vegetables,30700,13,399100,4/26/2024,19:20,Qris,30,9
+Member,Female,Dairy Product,25800,14,361200,4/26/2024,19:32,Qris,30,9
+Regular,Female,Seafood,41900,5,209500,4/26/2024,19:37,Cash,10,5
+Member,Female,Fruits,12300,14,172200,4/26/2024,21:11,Cash,30,9
+Member,Female,Bakery,8000,1,8000,4/26/2024,21:25,Cash,10,6
+Regular,Male,Bakery,22300,14,312200,4/27/2024,8:14,Cash,15,5
+Member,Male,Vegetables,9200,10,92000,4/27/2024,8:20,Card,10,5
+Regular,Male,Vegetables,9200,14,128800,4/27/2024,8:47,Card,20,8
+Member,Male,Fruits,9500,12,114000,4/27/2024,9:22,Qris,20,8
+Regular,Male,Dessert,14400,9,129600,4/27/2024,10:25,Qris,15,5
+Member,Female,Dessert,17000,13,221000,4/27/2024,10:53,Card,30,9
+Member,Female,Beverages,11000,12,132000,4/27/2024,10:58,Qris,30,9
+Member,Female,Snack,9000,4,36000,4/27/2024,11:14,Cash,0,4
+Member,Female,Fruits,6300,5,31500,4/27/2024,11:21,Transfer,5,3
+Regular,Female,Vegetables,17600,13,228800,4/27/2024,11:25,Transfer,15,6
+Regular,Female,Fruits,13100,10,131000,4/27/2024,11:37,Card,10,5
+Member,Female,Beverages,12100,1,12100,4/27/2024,11:54,Qris,5,5
+Regular,Female,Kitchen Consumption,9300,8,74400,4/27/2024,11:57,Card,30,10
+Regular,Male,Fruits,9500,5,47500,4/27/2024,12:08,Cash,0,3
+Member,Female,Bakery,12100,13,157300,4/27/2024,12:16,Cash,15,6
+Regular,Female,Fruits,13100,14,183400,4/27/2024,12:28,Transfer,30,10
+Regular,Male,Instant Food,10300,10,103000,4/27/2024,12:40,Transfer,10,6
+Regular,Female,Kitchen Consumption,13400,12,160800,4/27/2024,12:57,Qris,10,6
+Member,Female,Kitchen Consumption,2200,10,22000,4/27/2024,13:07,Card,15,5
+Member,Male,Seafood,67800,4,271200,4/27/2024,13:13,Cash,5,4
+Regular,Female,Dairy Product,43700,9,393300,4/27/2024,13:20,Qris,15,5
+Member,Male,Bakery,21400,6,128400,4/27/2024,13:24,Cash,5,5
+Regular,Female,Beverages,8700,9,78300,4/27/2024,13:37,Cash,20,7
+Member,Female,Seafood,44000,8,352000,4/27/2024,13:48,Card,10,6
+Regular,Female,Seafood,90900,6,545400,4/27/2024,13:58,Cash,10,6
+Regular,Male,Fruits,9600,9,86400,4/27/2024,14:22,Transfer,10,5
+Member,Female,Vegetables,17600,14,246400,4/27/2024,14:34,Transfer,15,6
+Regular,Male,Dairy Product,23300,7,163100,4/27/2024,14:57,Transfer,0,4
+Regular,Female,Vegetables,16900,4,67600,4/27/2024,15:09,Transfer,10,6
+Member,Female,Snack,8300,13,107900,4/27/2024,15:17,Cash,15,6
+Regular,Female,Dessert,14400,11,158400,4/27/2024,15:29,Qris,10,5
+Member,Male,Instant Food,10200,6,61200,4/27/2024,15:34,Qris,10,5
+Regular,Female,Dairy Product,24300,10,243000,4/27/2024,16:03,Transfer,30,10
+Member,Female,Dairy Product,23300,12,279600,4/27/2024,16:21,Qris,30,9
+Regular,Male,Dairy Product,42000,14,588000,4/27/2024,16:45,Qris,10,6
+Regular,Female,Bakery,8000,9,72000,4/27/2024,17:00,Card,10,6
+Member,Female,Bakery,8000,14,112000,4/27/2024,18:36,Qris,5,5
+Member,Female,Meat,40200,14,562800,4/27/2024,18:37,Cash,15,6
+Regular,Male,Fruits,9600,12,115200,4/27/2024,18:46,Card,15,6
+Member,Female,Beverages,8300,13,107900,4/27/2024,18:48,Cash,20,8
+Regular,Male,Kitchen Consumption,21300,2,42600,4/27/2024,19:03,Transfer,0,4
+Regular,Male,Kitchen Consumption,9800,8,78400,4/27/2024,19:23,Cash,15,5
+Member,Male,Kitchen Consumption,13100,6,78600,4/27/2024,19:40,Transfer,15,6
+Regular,Male,Snack,7600,14,106400,4/27/2024,19:55,Cash,30,9
+Regular,Female,Beverages,12100,13,157300,4/27/2024,20:12,Transfer,30,10
+Regular,Male,Vegetables,16900,11,185900,4/27/2024,21:13,Transfer,20,8
+Member,Male,Dairy Product,23300,3,69900,4/27/2024,21:20,Card,5,4
+Regular,Female,Beverages,8700,9,78300,4/27/2024,21:34,Qris,10,5
+Regular,Male,Dessert,9300,11,102300,4/27/2024,21:35,Cash,15,6
+Member,Female,Bakery,21400,5,107000,4/27/2024,21:47,Transfer,5,5
+Regular,Male,Bakery,12100,13,157300,4/28/2024,8:34,Cash,15,6
+Member,Female,Beverages,7800,8,62400,4/28/2024,8:43,Cash,10,6
+Member,Male,Dairy Product,21200,12,254400,4/28/2024,8:52,Cash,20,8
+Regular,Female,Fruits,8900,11,97900,4/28/2024,9:18,Transfer,5,5
+Member,Male,Beverages,7800,1,7800,4/28/2024,9:21,Qris,20,7
+Regular,Male,Kitchen Consumption,2200,10,22000,4/28/2024,9:23,Cash,30,9
+Regular,Female,Snack,9000,6,54000,4/28/2024,9:28,Cash,5,5
+Regular,Female,Snack,9000,14,126000,4/28/2024,9:37,Qris,20,8
+Regular,Male,Snack,12000,14,168000,4/28/2024,9:47,Transfer,15,6
+Member,Male,Dessert,21000,9,189000,4/28/2024,10:09,Cash,10,6
+Regular,Male,Beverages,7800,10,78000,4/28/2024,10:34,Transfer,15,6
+Member,Female,Bakery,9800,9,88200,4/28/2024,10:44,Card,10,5
+Regular,Male,Bakery,24800,9,223200,4/28/2024,11:06,Transfer,10,6
+Regular,Female,Dessert,19000,12,228000,4/28/2024,11:14,Transfer,20,7
+Member,Female,Beverages,17000,10,170000,4/28/2024,11:40,Cash,10,5
+Regular,Female,Seafood,88700,2,177400,4/28/2024,12:13,Transfer,20,8
+Member,Female,Dessert,21000,1,21000,4/28/2024,12:27,Cash,5,5
+Member,Male,Beverages,8300,4,33200,4/28/2024,12:30,Cash,10,5
+Member,Male,Seafood,69800,8,558400,4/28/2024,12:33,Card,30,10
+Regular,Female,Dessert,7400,9,66600,4/28/2024,12:34,Card,10,6
+Regular,Female,Beverages,6800,13,88400,4/28/2024,12:45,Card,20,7
+Regular,Female,Instant Food,15800,7,110600,4/28/2024,12:52,Transfer,5,4
+Member,Male,Snack,28000,14,392000,4/28/2024,13:20,Card,10,6
+Regular,Male,Dessert,8600,12,103200,4/28/2024,13:31,Transfer,10,5
+Member,Male,Snack,12000,10,120000,4/28/2024,13:52,Qris,10,6
+Regular,Male,Beverages,12100,9,108900,4/28/2024,14:00,Card,15,5
+Member,Male,Vegetables,63800,11,701800,4/28/2024,14:20,Cash,15,5
+Member,Male,Fruits,12300,11,135300,4/28/2024,14:27,Transfer,20,8
+Member,Male,Snack,12000,13,156000,4/28/2024,14:43,Card,15,6
+Regular,Male,Dessert,12300,14,172200,4/28/2024,15:26,Transfer,15,6
+Member,Female,Dairy Product,43700,7,305900,4/28/2024,15:40,Card,0,4
+Regular,Female,Fruits,13100,6,78600,4/28/2024,15:43,Card,5,4
+Member,Female,Fruits,9500,1,9500,4/28/2024,15:44,Transfer,0,5
+Regular,Male,Beverages,7800,4,31200,4/28/2024,16:12,Cash,0,5
+Regular,Female,Dessert,12300,9,110700,4/28/2024,16:54,Card,15,6
+Regular,Male,Snack,28000,7,196000,4/28/2024,17:01,Qris,0,3
+Member,Male,Fruits,8400,11,92400,4/28/2024,17:06,Card,15,6
+Regular,Female,Fruits,9500,10,95000,4/28/2024,17:18,Qris,15,6
+Member,Female,Bakery,24800,9,223200,4/28/2024,17:26,Qris,15,5
+Member,Female,Fruits,7500,9,67500,4/28/2024,17:31,Qris,10,5
+Regular,Female,Snack,9000,12,108000,4/28/2024,18:36,Cash,10,5
+Member,Male,Snack,12000,9,108000,4/28/2024,18:48,Qris,10,6
+Member,Female,Vegetables,9200,11,101200,4/28/2024,19:37,Cash,5,5
+Regular,Male,Beverages,11000,14,154000,4/28/2024,20:23,Qris,15,5
+Regular,Female,Vegetables,63800,11,701800,4/28/2024,20:39,Card,15,6
+Member,Female,Vegetables,63800,10,638000,4/28/2024,21:04,Qris,20,8
+Member,Male,Seafood,90900,12,1090800,4/28/2024,21:07,Transfer,30,9
+Regular,Male,Vegetables,30700,11,337700,4/28/2024,21:09,Qris,15,6
+Regular,Female,Meat,66300,13,861900,4/28/2024,21:28,Card,15,6
+Member,Female,Fruits,8400,12,100800,4/28/2024,21:46,Cash,5,5
+Member,Male,Vegetables,15200,12,182400,4/29/2024,8:34,Qris,15,6
+Member,Male,Snack,7000,13,91000,4/29/2024,8:43,Qris,15,6
+Regular,Female,Snack,12000,12,144000,4/29/2024,8:52,Card,30,9
+Member,Female,Meat,78900,14,1104600,4/29/2024,9:18,Card,10,6
+Regular,Male,Bakery,24800,11,272800,4/29/2024,9:21,Transfer,30,9
+Member,Female,Kitchen Consumption,6500,13,84500,4/29/2024,9:23,Card,15,6
+Member,Male,Snack,12000,10,120000,4/29/2024,9:28,Qris,30,10
+Member,Female,Meat,47000,7,329000,4/29/2024,9:37,Qris,5,4
+Regular,Female,Fruits,9600,5,48000,4/29/2024,9:47,Qris,0,5
+Member,Female,Bakery,12000,1,12000,4/29/2024,10:09,Card,10,6
+Member,Female,Bakery,43000,11,473000,4/29/2024,10:34,Cash,15,6
+Member,Male,Bakery,21400,12,256800,4/29/2024,10:44,Transfer,15,5
+Member,Male,Dessert,14400,8,115200,4/29/2024,11:06,Qris,10,6
+Regular,Female,Seafood,49400,9,444600,4/29/2024,11:14,Transfer,10,5
+Member,Male,Vegetables,29700,7,207900,4/29/2024,11:40,Cash,5,5
+Regular,Female,Snack,7700,9,69300,4/29/2024,12:13,Cash,30,10
+Regular,Female,Vegetables,30700,5,153500,4/29/2024,12:27,Card,5,4
+Member,Male,Vegetables,12000,11,132000,4/29/2024,12:30,Card,20,8
+Member,Female,Meat,66300,6,397800,4/29/2024,12:33,Qris,10,5
+Regular,Female,Beverages,8300,8,66400,4/29/2024,12:34,Cash,10,5
+Regular,Male,Instant Food,7350,4,29400,4/29/2024,12:45,Card,0,5
+Member,Female,Vegetables,16900,9,152100,4/29/2024,12:52,Cash,10,6
+Member,Female,Dairy Product,24300,4,97200,4/29/2024,13:20,Card,5,3
+Member,Male,Seafood,69800,8,558400,4/29/2024,13:31,Card,10,5
+Regular,Female,Dairy Product,43700,4,174800,4/29/2024,13:52,Qris,10,6
+Regular,Female,Dessert,17000,13,221000,4/29/2024,14:00,Transfer,15,6
+Member,Male,Bakery,21400,12,256800,4/29/2024,14:20,Card,20,8
+Member,Female,Dessert,9300,10,93000,4/29/2024,14:27,Cash,10,6
+Regular,Female,Dessert,17000,9,153000,4/29/2024,14:43,Card,10,5
+Member,Female,Vegetables,17600,12,211200,4/29/2024,15:26,Card,30,9
+Regular,Female,Seafood,49400,12,592800,4/29/2024,15:40,Card,20,8
+Regular,Female,Instant Food,6500,12,78000,4/29/2024,15:43,Card,15,5
+Regular,Female,Fruits,13100,10,105000,4/30/2024,18:01,Card,15,6
+Member,Male,Vegetables,30700,12,180000,4/30/2024,18:12,Transfer,15,6
+Regular,Male,Beverages,8700,10,78000,4/30/2024,18:23,Cash,10,6
+Member,Female,Dairy Product,43700,1,45000,4/30/2024,18:34,Qris,10,6
+Regular,Female,Bakery,13200,9,28800,4/30/2024,18:45,Card,15,6
+Member,Male,Snack,7900,12,76500,4/30/2024,18:56,Cash,15,5
+Regular,Male,Kitchen Consumption,29200,1,13500,4/30/2024,19:07,Transfer,5,5
+Member,Female,Dessert,19000,13,91000,4/30/2024,19:18,Cash,10,6
+Regular,Female,Seafood,41200,9,132000,4/30/2024,19:29,Qris,15,6
+Member,Male,Instant Food,15800,9,128000,4/30/2024,19:40,Card,10,5
+Regular,Female,Fruits,4000,1,162000,4/30/2024,19:51,Cash,20,8
+Member,Male,Dairy Product,43700,9,80000,4/30/2024,20:02,Qris,10,5
+Regular,Female,Bakery,7900,10,28000,4/30/2024,20:13,Card,10,6
+Member,Male,Snack,8300,13,150000,4/30/2024,20:24,Transfer,15,6
+Regular,Female,Kitchen Consumption,29200,12,136000,4/30/2024,20:35,Cash,15,6
+Member,Male,Dessert,8600,11,90000,4/30/2024,20:46,Qris,15,6
+Regular,Female,Seafood,88700,10,135000,4/30/2024,20:57,Card,10,5
+Member,Male,Instant Food,9800,1,57600,4/30/2024,21:08,Cash,5,3
+Regular,Female,Fruits,9600,2,41600,4/30/2024,21:19,Transfer,20,8
+Member,Male,Dairy Product,22300,4,99000,4/30/2024,21:30,Qris,5,5
+Regular,Female,Bakery,24800,7,84000,4/30/2024,21:41,Card,10,5
+Member,Male,Snack,9000,4,168000,4/30/2024,21:52,Cash,0,5
+Regular,Female,Kitchen Consumption,21300,8,130000,4/30/2024,22:03,Transfer,15,6
+Member,Male,Dessert,12300,10,64000,4/30/2024,22:14,Qris,10,6
+Regular,Female,Seafood,49400,10,168000,4/30/2024,22:25,Cash,30,9
+Member,Male,Instant Food,3400,14,140000,4/30/2024,22:36,Card,30,10
+Regular,Female,Fruits,8900,13,135000,4/30/2024,22:47,Transfer,15,6
+Member,Male,Dairy Product,32800,7,96000,4/30/2024,22:58,Qris,0,5
+Regular,Female,Bakery,7900,14,63000,5/1/2024,8:11,Card,15,6
+Member,Male,Snack,8300,4,65000,5/1/2024,8:22,Cash,20,8
+Regular,Female,Kitchen Consumption,10200,13,68000,5/1/2024,8:33,Transfer,5,5
+Member,Male,Dessert,8600,4,72000,5/1/2024,8:44,Qris,10,5
+Regular,Female,Seafood,67800,12,180000,5/1/2024,8:55,Cash,15,6
+Member,Male,Instant Food,7350,9,144000,5/1/2024,9:06,Card,10,6
+Regular,Female,Fruits,9500,1,70000,5/1/2024,9:17,Transfer,0,5
+Member,Male,Dairy Product,43700,4,38400,5/1/2024,9:28,Qris,5,5
+Regular,Female,Bakery,12000,6,27000,5/1/2024,9:39,Cash,15,6
+Member,Male,Snack,7000,14,76500,5/1/2024,9:50,Card,5,4
+Regular,Female,Kitchen Consumption,13100,11,40000,5/1/2024,10:01,Transfer,15,6
+Member,Male,Dessert,11000,13,144000,5/1/2024,10:12,Qris,15,5
+Regular,Female,Seafood,49400,9,144000,5/1/2024,10:23,Cash,10,6
+Member,Male,Instant Food,6900,9,55000,5/1/2024,10:34,Card,10,6
+Regular,Female,Fruits,13100,12,104000,5/1/2024,10:45,Transfer,5,5
+Member,Male,Dairy Product,34000,13,126000,5/1/2024,10:56,Qris,30,9
+Regular,Female,Bakery,12100,6,54000,5/1/2024,11:07,Cash,0,5
+Member,Male,Snack,23000,12,176000,5/1/2024,11:18,Card,20,7
+Regular,Female,Kitchen Consumption,10200,7,77000,5/1/2024,11:29,Transfer,5,4
+Member,Male,Dessert,9300,9,51000,5/1/2024,11:40,Qris,15,6
+Regular,Female,Seafood,90900,12,72000,5/1/2024,11:51,Cash,15,5
+Member,Male,Instant Food,37900,2,126000,5/1/2024,12:02,Card,20,7
+Regular,Female,Fruits,13100,11,40000,5/1/2024,12:13,Transfer,10,5
+Member,Male,Dairy Product,43700,11,56000,5/1/2024,12:24,Qris,30,9
+Regular,Female,Bakery,7900,4,54000,5/1/2024,12:35,Cash,15,5
+Member,Male,Snack,23000,10,77000,5/1/2024,12:46,Card,15,5
+Regular,Female,Kitchen Consumption,6500,11,96000,5/1/2024,12:57,Transfer,15,5
+Member,Male,Dessert,11000,11,24000,5/1/2024,13:08,Qris,20,7
+Regular,Female,Seafood,69800,13,176000,5/1/2024,13:19,Cash,30,9
+Member,Male,Instant Food,6500,3,75000,5/1/2024,13:30,Card,5,5
+Regular,Female,Fruits,8400,10,60000,5/1/2024,13:41,Transfer,10,5
+Member,Male,Dairy Product,42000,11,96000,5/1/2024,13:52,Qris,10,5
+Regular,Female,Bakery,8000,12,35000,5/1/2024,14:03,Cash,5,4
+Member,Male,Snack,8300,13,126000,5/1/2024,14:14,Card,10,6
+Regular,Female,Kitchen Consumption,24000,4,68000,5/1/2024,14:25,Transfer,0,5
+Member,Male,Dessert,8600,8,27000,5/1/2024,14:36,Qris,20,7
+Regular,Female,Seafood,129300,12,160000,5/1/2024,14:47,Cash,15,6
+Member,Male,Instant Food,15800,14,65000,5/1/2024,14:58,Card,20,8
+Regular,Female,Fruits,8400,10,54000,5/1/2024,15:09,Transfer,10,6
+Member,Male,Dairy Product,34000,1,56000,5/1/2024,15:20,Qris,0,5
+Regular,Female,Bakery,22300,8,42000,5/1/2024,15:31,Cash,20,8
+Member,Male,Snack,7900,10,108000,5/1/2024,15:42,Card,10,6
+Regular,Female,Kitchen Consumption,21300,6,56000,5/1/2024,15:53,Transfer,0,3
+Member,Male,Dessert,21000,11,16000,5/1/2024,16:04,Qris,15,5
+Regular,Female,Seafood,90900,12,133000,5/1/2024,16:15,Cash,20,7
+Member,Male,Instant Food,10300,1,48000,5/1/2024,16:26,Card,5,5
+Regular,Female,Fruits,4000,8,66000,5/1/2024,16:37,Transfer,10,6
+Member,Male,Dairy Product,23300,2,90000,5/1/2024,16:48,Qris,5,5
+Regular,Female,Bakery,12100,9,35000,5/1/2024,16:59,Cash,15,6
+Member,Male,Snack,7700,2,120000,5/1/2024,17:10,Card,0,4
+Regular,Female,Kitchen Consumption,24000,5,60000,5/1/2024,17:21,Transfer,30,9
+Member,Male,Dessert,21000,6,14000,5/1/2024,17:32,Qris,0,5
+Regular,Female,Seafood,41900,4,136000,5/1/2024,17:43,Cash,0,4
+Member,Male,Instant Food,3400,14,77000,5/1/2024,17:54,Card,20,7
+Regular,Female,Fruits,9600,9,78000,5/1/2024,18:05,Transfer,30,9
+Member,Male,Dairy Product,42000,10,54000,5/1/2024,18:16,Qris,10,5
+Regular,Female,Bakery,22300,13,28000,5/1/2024,18:27,Cash,20,7
+Member,Male,Snack,7000,5,144000,5/1/2024,18:38,Card,0,5
+Regular,Female,Kitchen Consumption,24000,12,60000,5/1/2024,18:49,Transfer,15,5
+Member,Male,Dessert,8600,11,27000,5/1/2024,19:00,Qris,15,5
+Regular,Female,Seafood,67800,4,128000,5/1/2024,19:11,Cash,5,5
+Member,Male,Instant Food,10300,9,56000,5/1/2024,19:22,Card,30,10
+Regular,Female,Fruits,8400,9,42000,5/1/2024,19:33,Transfer,15,6
+Member,Male,Dairy Product,22300,5,88000,5/1/2024,19:44,Qris,20,8
+Regular,Female,Bakery,12100,12,42000,5/1/2024,19:55,Cash,30,9
+Member,Male,Snack,7000,11,117000,5/1/2024,20:06,Card,10,5
+Regular,Female,Kitchen Consumption,9300,11,54000,5/1/2024,20:17,Transfer,15,6
+Member,Male,Dessert,12300,13,22000,5/1/2024,20:28,Qris,20,7
+Regular,Female,Seafood,44000,5,133000,5/1/2024,20:39,Cash,0,4
+Member,Male,Instant Food,6500,1,50000,5/1/2024,20:50,Card,10,5
+Regular,Female,Fruits,4000,3,96000,5/1/2024,21:01,Transfer,5,5
+Member,Male,Dairy Product,34000,11,81000,5/1/2024,21:12,Qris,5,5
+Regular,Female,Bakery,12000,2,30000,5/1/2024,21:23,Cash,20,8
+Member,Male,Snack,7000,9,96000,5/1/2024,21:34,Card,30,10
+Regular,Female,Kitchen Consumption,13100,8,64000,5/1/2024,21:45,Transfer,20,7
+Member,Male,Dessert,7400,4,30000,5/1/2024,21:56,Qris,0,5
+Regular,Female,Seafood,49400,2,136000,5/1/2024,22:07,Cash,30,10
+Member,Male,Instant Food,37900,11,55000,5/1/2024,22:18,Card,30,9
+Regular,Female,Fruits,6300,9,56000,5/1/2024,22:29,Transfer,20,7
+Member,Male,Dairy Product,22300,10,54000,5/1/2024,22:40,Qris,20,8
+Regular,Female,Bakery,12100,14,30000,5/1/2024,22:51,Cash,20,8
+Member,Male,Snack,9000,6,99000,5/1/2024,22:53,Card,0,5
+Regular,Female,Kitchen Consumption,9300,12,102000,5/1/2024,22:55,Transfer,15,6
+Regular,Male,Fruits,13100,10,42500,5/1/2024,8:00,Cash,10,6
+Regular,Female,Bakery,21400,6,19500,5/1/2024,8:01,Card,20,8
+Regular,Male,Seafood,88700,7,64000,5/1/2024,8:02,Cash,5,3
+Member,Female,Snack,28000,9,45000,5/1/2024,8:03,Qris,10,5
+Regular,Female,Dairy Product,42000,7,13000,5/1/2024,8:04,Cash,10,5
+Regular,Male,Instant Food,3400,2,53200,5/1/2024,8:05,Card,0,3
+Member,Female,Beverages,17800,8,70400,5/1/2024,8:06,Transfer,15,6
+Regular,Female,Vegetables,17600,11,15600,5/1/2024,8:07,Cash,5,4
+Regular,Male,Meat,87900,10,82500,5/1/2024,8:08,Cash,10,5
+Member,Male,Dessert,8600,8,111600,5/1/2024,8:09,Card,20,8
+Regular,Female,Bakery,43000,1,50400,5/1/2024,8:10,Cash,10,5
+Member,Male,Fruits,12300,10,30000,5/1/2024,8:11,Qris,20,8
+Regular,Female,Seafood,49400,1,102000,5/1/2024,8:12,Cash,20,7
+Regular,Male,Dairy Product,32800,7,116000,5/1/2024,8:13,Card,10,6
+Member,Female,Snack,7700,9,31000,5/1/2024,8:14,Transfer,20,7
+Regular,Male,Kitchen Consumption,6500,4,38400,5/1/2024,8:15,Cash,5,5
+Member,Male,Bakery,12000,9,55800,5/1/2024,8:16,Card,15,5
+Regular,Female,Snack,12000,14,8600,5/1/2024,8:17,Cash,20,8
+Regular,Male,Fruits,4000,8,99000,5/1/2024,8:18,Cash,15,5
+Member,Female,Seafood,129300,14,76500,5/1/2024,8:19,Card,20,7
+Regular,Male,Vegetables,11700,14,30400,5/1/2024,8:20,Cash,15,5
+Regular,Female,Instant Food,9800,9,71000,5/1/2024,8:21,Transfer,10,5
+Member,Male,Beverages,14500,12,120000,5/1/2024,8:22,Cash,15,6
+Member,Female,Dessert,17000,3,196000,5/1/2024,8:23,Qris,0,5
+Regular,Male,Bakery,24800,8,26100,5/1/2024,8:24,Card,15,6
+Regular,Female,Fruits,9500,8,30800,5/1/2024,8:25,Cash,15,6
+Regular,Female,Seafood,88700,8,37600,5/1/2024,8:26,Transfer,10,5
+Regular,Male,Dairy Product,23300,13,72000,5/1/2024,8:12,Card,30,9
+Regular,Female,Bakery,7900,7,31600,5/1/2024,8:25,Cash,10,5
+Member,Female,Instant Food,15800,8,144000,5/1/2024,8:36,Transfer,15,6
+Regular,Male,Seafood,90900,12,178800,5/1/2024,8:47,Card,30,9
+Member,Male,Fruits,8900,14,157500,5/1/2024,9:02,Cash,15,6
+Regular,Female,Snack,7700,1,22500,5/1/2024,9:15,Cash,15,6
+Regular,Male,Bakery,22300,2,49600,5/1/2024,9:28,Card,15,6
+Member,Female,Dairy Product,31300,12,22000,5/1/2024,9:39,Transfer,15,5
+Regular,Male,Vegetables,15200,9,39000,5/1/2024,9:52,Cash,10,6
+Regular,Male,Seafood,41200,1,42000,5/1/2024,10:05,Cash,10,5
+Member,Male,Bakery,7900,7,32400,5/1/2024,10:18,Card,15,6
+Regular,Female,Instant Food,7350,7,198000,5/1/2024,10:31,Cash,5,5
+Regular,Female,Seafood,41200,8,186000,5/1/2024,10:44,Transfer,10,6
+Member,Female,Fruits,9500,2,278000,5/1/2024,10:57,Card,30,9
+Regular,Male,Beverages,14500,12,32200,5/1/2024,11:10,Cash,10,6
+Member,Male,Kitchen Consumption,13100,9,109000,5/1/2024,11:23,Transfer,15,6
+Regular,Female,Dairy Product,42000,4,112500,5/1/2024,11:36,Cash,0,4
+Regular,Male,Bakery,12000,10,54400,5/1/2024,11:49,Card,20,8
+Member,Female,Snack,7900,2,13000,5/1/2024,12:02,Transfer,5,5
+Regular,Male,Fruits,7500,8,88500,5/1/2024,12:15,Cash,10,5
+Regular,Female,Instant Food,3400,12,336000,5/1/2024,12:28,Cash,15,6
+Member,Male,Seafood,88700,6,372000,5/1/2024,12:41,Card,10,5
+Regular,Female,Vegetables,29700,7,62000,5/1/2024,12:54,Cash,10,5
+Regular,Female,Beverages,8700,8,144000,5/1/2024,13:07,Transfer,10,6
+Member,Male,Snack,9000,13,99000,5/1/2024,13:20,Cash,20,8
+Regular,Female,Dairy Product,34000,14,134400,5/1/2024,13:33,Card,30,9
+Regular,Male,Bakery,13200,13,37100,5/1/2024,13:46,Cash,15,6
+Regular,Female,Fruits,8400,8,60000,5/2/2024,8:01,Cash,15,6
+Member,Male,Dairy Product,24300,12,54000,5/2/2024,8:12,Qris,15,5
+Regular,Female,Beverages,8300,9,91000,5/2/2024,8:23,Card,15,5
+Member,Male,Snack,7900,3,99000,5/2/2024,8:34,Transfer,10,5
+Regular,Female,Kitchen Consumption,13400,10,42000,5/2/2024,8:45,Cash,30,9
+Member,Male,Dessert,8700,13,40000,5/2/2024,8:56,Qris,5,5
+Regular,Female,Seafood,88700,13,88000,5/2/2024,9:07,Card,15,6
+Member,Male,Instant Food,6500,13,96000,5/2/2024,9:18,Cash,15,6
+Regular,Female,Fruits,4000,10,84000,5/2/2024,9:29,Transfer,15,6
+Member,Male,Dairy Product,22300,2,44000,5/2/2024,9:40,Qris,10,6
+Regular,Female,Bakery,12000,12,63000,5/2/2024,9:51,Card,15,5
+Member,Male,Snack,8300,11,48000,5/2/2024,10:02,Transfer,20,8
+Regular,Female,Kitchen Consumption,13400,1,85000,5/2/2024,10:13,Cash,0,4
+Member,Male,Dessert,8600,10,60000,5/2/2024,10:24,Qris,10,6
+Regular,Female,Seafood,88700,13,152000,5/2/2024,10:35,Card,20,8
+Member,Male,Instant Food,3400,5,70000,5/2/2024,10:46,Cash,10,6
+Regular,Female,Fruits,9600,8,78000,5/2/2024,10:57,Transfer,30,9
+Member,Male,Dairy Product,32800,10,90000,5/2/2024,11:08,Qris,10,5
+Regular,Female,Bakery,21400,14,32000,5/2/2024,11:19,Card,15,6
+Member,Male,Snack,23000,11,88000,5/2/2024,11:30,Transfer,30,9
+Regular,Female,Kitchen Consumption,13400,10,72000,5/2/2024,11:41,Cash,10,5
+Member,Male,Dessert,12300,9,50000,5/2/2024,11:52,Qris,10,6
+Regular,Female,Seafood,41900,10,102000,5/2/2024,12:03,Card,15,6
+Member,Male,Instant Food,6500,4,91000,5/2/2024,12:14,Cash,5,3
+Regular,Female,Fruits,7500,10,72000,5/2/2024,12:25,Transfer,15,6
+Member,Male,Dairy Product,43700,9,66000,5/2/2024,12:36,Qris,15,6
+Regular,Female,Bakery,12100,13,56000,5/2/2024,12:47,Card,30,9
+Member,Male,Snack,7600,7,135000,5/2/2024,12:58,Transfer,5,5
+Regular,Female,Kitchen Consumption,13100,2,55000,5/2/2024,13:09,Cash,10,5
+Member,Male,Dessert,12300,14,63000,5/2/2024,13:20,Qris,20,8
+Regular,Female,Seafood,67800,14,120000,5/2/2024,13:31,Card,5,5
+Member,Male,Instant Food,10300,6,80000,5/2/2024,13:42,Cash,5,5
+Regular,Female,Fruits,12300,10,70000,5/2/2024,13:53,Transfer,10,5
+Member,Male,Dairy Product,23300,8,104000,5/2/2024,14:04,Qris,10,5
+Regular,Female,Bakery,7900,8,42000,5/2/2024,14:15,Card,10,6
+Member,Male,Snack,7600,12,96000,5/2/2024,14:26,Transfer,15,5
+Regular,Female,Kitchen Consumption,21300,13,102000,5/2/2024,14:37,Cash,10,6
+Member,Male,Dessert,8700,4,44000,5/2/2024,14:48,Qris,10,6
+Regular,Female,Seafood,41200,9,90000,5/2/2024,14:59,Card,10,6
+Member,Male,Instant Food,9800,12,84000,5/2/2024,15:10,Cash,30,9
+Regular,Female,Fruits,9600,5,72000,5/2/2024,15:21,Transfer,0,5
+Member,Male,Dairy Product,25800,1,60000,5/2/2024,15:32,Qris,5,3
+Regular,Female,Bakery,22300,6,48000,5/2/2024,15:43,Card,0,5
+Member,Male,Snack,7600,8,70000,5/2/2024,15:54,Transfer,10,6
+Regular,Female,Kitchen Consumption,10200,9,96000,5/2/2024,16:05,Cash,30,9
+Member,Male,Dessert,19000,11,72000,5/2/2024,16:16,Qris,15,6
+Regular,Female,Seafood,41200,9,95000,5/2/2024,16:27,Card,10,5
+Member,Male,Instant Food,6500,2,68000,5/2/2024,16:38,Cash,30,9
+Regular,Female,Fruits,7500,11,99000,5/2/2024,16:49,Transfer,10,6
+Member,Male,Dairy Product,31300,9,60000,5/2/2024,17:00,Qris,10,5
+Regular,Female,Bakery,12000,12,35000,5/2/2024,17:11,Card,15,6
+Member,Male,Snack,28000,1,104000,5/2/2024,17:22,Transfer,5,5
+Regular,Female,Kitchen Consumption,29200,9,54000,5/2/2024,17:33,Cash,10,6
+Member,Male,Dessert,8700,14,75000,5/2/2024,17:44,Qris,30,10
+Regular,Female,Seafood,41200,14,80000,5/2/2024,17:55,Card,15,6
+Member,Male,Instant Food,37900,1,98000,5/2/2024,18:06,Cash,5,3
+Regular,Female,Fruits,12300,12,80000,5/2/2024,18:17,Transfer,15,6
+Member,Male,Dairy Product,32800,8,81000,5/2/2024,18:28,Qris,20,8
+Regular,Female,Bakery,9800,12,40000,5/2/2024,18:39,Card,15,6
+Member,Male,Snack,12000,12,72000,5/2/2024,18:50,Transfer,15,5
+Regular,Female,Kitchen Consumption,6500,4,78000,5/2/2024,19:01,Cash,0,5
+Member,Male,Dessert,17000,1,36000,5/2/2024,19:12,Qris,30,9
+Regular,Female,Seafood,69800,11,100000,5/2/2024,19:23,Card,30,9
+Member,Male,Instant Food,10200,1,84000,5/2/2024,19:34,Cash,15,6
+Regular,Female,Fruits,8900,9,96000,5/2/2024,19:45,Transfer,10,6
+Member,Male,Dairy Product,25800,13,55000,5/2/2024,19:56,Qris,15,6
+Regular,Female,Bakery,12000,2,63000,5/2/2024,20:07,Card,10,6
+Member,Male,Snack,7900,9,90000,5/2/2024,20:18,Transfer,30,9
+Regular,Female,Kitchen Consumption,2200,8,88000,5/2/2024,20:29,Cash,10,5
+Member,Male,Dessert,8600,4,63000,5/2/2024,20:40,Qris,5,5
+Regular,Female,Seafood,41200,9,90000,5/2/2024,20:51,Card,20,7
+Member,Male,Instant Food,7100,9,90000,5/2/2024,21:02,Cash,15,6
+Regular,Female,Fruits,8900,12,91000,5/2/2024,21:13,Transfer,20,7
+Member,Male,Dairy Product,32800,11,80000,5/2/2024,21:24,Qris,5,5
+Regular,Female,Bakery,13200,4,40000,5/2/2024,21:35,Card,20,8
+Member,Male,Snack,28000,11,84000,5/2/2024,21:46,Transfer,5,5
+Regular,Female,Kitchen Consumption,6500,10,54000,5/2/2024,21:57,Cash,10,5
+Member,Male,Dessert,8700,1,70000,5/2/2024,22:08,Qris,5,3
+Regular,Female,Seafood,88700,12,80000,5/2/2024,22:19,Card,15,6
+Member,Male,Instant Food,37900,1,98000,5/2/2024,22:30,Cash,5,5
+Regular,Female,Fruits,8400,13,80000,5/2/2024,22:41,Transfer,30,10
+Member,Male,Dairy Product,34000,9,54000,5/2/2024,22:52,Qris,10,6
+Member,Male,Snack,9000,11,90000,5/3/2024,8:02,Transfer,5,5
+Regular,Female,Kitchen Consumption,24000,6,88000,5/3/2024,8:13,Cash,30,9
+Member,Male,Dessert,8600,13,63000,5/3/2024,8:24,Qris,15,6
+Regular,Female,Seafood,69800,13,90000,5/3/2024,8:35,Card,30,10
+Member,Male,Instant Food,37900,2,90000,5/3/2024,8:46,Cash,0,4
+Regular,Female,Fruits,8400,13,91000,5/3/2024,8:57,Transfer,10,5
+Member,Male,Dairy Product,22300,11,80000,5/3/2024,9:08,Qris,15,5
+Regular,Female,Bakery,8000,4,40000,5/3/2024,9:19,Card,0,5
+Member,Male,Snack,28000,8,84000,5/3/2024,9:30,Transfer,10,6
+Regular,Female,Kitchen Consumption,10200,11,54000,5/3/2024,9:41,Cash,15,6
+Member,Male,Dessert,14400,8,70000,5/3/2024,9:52,Qris,10,6
+Regular,Female,Seafood,44000,12,72000,5/3/2024,10:03,Card,15,5
+Member,Male,Instant Food,3400,8,105000,5/3/2024,10:14,Cash,10,5
+Regular,Female,Fruits,6300,11,88000,5/3/2024,10:25,Transfer,15,6
+Member,Male,Dairy Product,43700,12,50000,5/3/2024,10:36,Qris,30,10
+Regular,Female,Bakery,7900,14,72000,5/3/2024,10:47,Card,30,9
+Member,Male,Snack,12000,9,84000,5/3/2024,10:58,Transfer,20,7
+Regular,Female,Kitchen Consumption,13400,6,54000,5/3/2024,11:09,Cash,0,5
+Member,Male,Dessert,12300,13,70000,5/3/2024,11:20,Qris,20,8
+Regular,Female,Seafood,44000,7,68000,5/3/2024,11:31,Card,10,5
+Member,Male,Instant Food,7350,11,91000,5/3/2024,11:42,Cash,10,6
+Regular,Female,Fruits,8900,11,96000,5/3/2024,11:53,Transfer,15,5
+Member,Male,Dairy Product,21200,5,50000,5/3/2024,12:04,Qris,5,5
+Regular,Female,Bakery,9800,3,63000,5/3/2024,12:15,Card,0,4
+Member,Male,Snack,28000,12,90000,5/3/2024,12:26,Transfer,10,6
+Regular,Female,Kitchen Consumption,6500,11,54000,5/3/2024,12:37,Cash,10,6
+Member,Male,Dessert,8700,9,63000,5/3/2024,12:48,Qris,15,5
+Regular,Female,Seafood,88700,7,90000,5/3/2024,12:59,Card,15,5
+Member,Male,Instant Food,15800,13,84000,5/3/2024,13:10,Cash,10,5
+Regular,Female,Fruits,10000,9,91000,5/3/2024,13:21,Transfer,10,6
+Member,Male,Dairy Product,31300,11,88000,5/3/2024,13:32,Qris,15,5
+Regular,Female,Bakery,12000,5,40000,5/3/2024,13:43,Card,0,5
+Member,Male,Snack,7900,10,108000,5/3/2024,13:54,Transfer,30,9
+Regular,Female,Kitchen Consumption,29200,6,78000,5/3/2024,14:05,Cash,20,8
+Member,Male,Dessert,21000,9,98000,5/3/2024,14:16,Qris,10,6
+Regular,Female,Seafood,41200,13,90000,5/3/2024,14:27,Card,30,9
+Member,Male,Instant Food,3400,10,72000,5/3/2024,14:38,Cash,20,8
+Regular,Female,Fruits,9600,8,91000,5/3/2024,14:49,Transfer,10,6
+Member,Male,Dairy Product,32800,1,72000,5/3/2024,15:00,Qris,5,4
+Regular,Female,Bakery,21400,6,63000,5/3/2024,15:11,Card,0,3
+Member,Male,Snack,23000,12,90000,5/3/2024,15:22,Transfer,20,7
+Regular,Female,Kitchen Consumption,6500,3,60000,5/3/2024,15:33,Cash,0,4
+Member,Male,Dessert,11000,12,63000,5/3/2024,15:44,Qris,15,6
+Regular,Female,Seafood,90900,8,85000,5/3/2024,15:55,Card,20,7
+Member,Male,Instant Food,3400,13,90000,5/3/2024,16:06,Cash,30,9
+Regular,Female,Fruits,13100,12,88000,5/3/2024,16:17,Transfer,20,7
+Member,Male,Dairy Product,43700,13,50000,5/3/2024,16:28,Qris,15,6
+Regular,Female,Bakery,7900,12,72000,5/3/2024,16:39,Card,15,5
+Member,Male,Snack,7900,13,72000,5/3/2024,16:50,Transfer,15,5
+Regular,Female,Kitchen Consumption,24000,4,66000,5/3/2024,17:01,Cash,10,6
+Member,Male,Dessert,17000,13,45000,5/3/2024,17:12,Qris,30,9
+Regular,Female,Seafood,69800,9,68000,5/3/2024,17:23,Card,10,5
+Member,Male,Instant Food,37900,8,91000,5/3/2024,17:34,Cash,10,6
+Regular,Female,Fruits,13100,13,96000,5/3/2024,17:45,Transfer,30,9
+Member,Male,Dairy Product,34000,5,72000,5/3/2024,17:56,Qris,10,5
+Regular,Female,Bakery,12000,13,40000,5/3/2024,18:07,Card,15,6
+Member,Male,Snack,7900,8,84000,5/3/2024,18:18,Transfer,30,9
+Regular,Female,Kitchen Consumption,21300,12,54000,5/3/2024,18:29,Cash,30,9
+Member,Male,Dessert,17000,8,70000,5/3/2024,18:40,Qris,10,6
+Regular,Female,Seafood,90900,13,72000,5/3/2024,18:51,Card,30,9
+Member,Male,Instant Food,9800,8,72000,5/3/2024,19:02,Cash,10,5
+Regular,Female,Fruits,9600,3,91000,5/3/2024,19:13,Transfer,10,5
+Member,Male,Dairy Product,34000,9,72000,5/3/2024,19:24,Qris,10,5
+Regular,Female,Bakery,22300,10,63000,5/3/2024,19:35,Card,20,8
+Member,Male,Snack,12000,8,90000,5/3/2024,19:46,Transfer,30,9
+Regular,Female,Kitchen Consumption,9300,3,54000,5/3/2024,19:57,Cash,5,5
+Member,Male,Dessert,7400,7,63000,5/3/2024,20:08,Qris,10,6
+Regular,Female,Seafood,88700,11,85000,5/3/2024,20:19,Card,30,9
+Member,Male,Instant Food,10200,11,78000,5/3/2024,20:30,Cash,30,9
+Regular,Female,Fruits,10000,12,96000,5/3/2024,20:41,Transfer,15,5
+Member,Male,Dairy Product,21200,9,72000,5/3/2024,20:52,Qris,10,6
+Regular,Female,Bakery,13200,14,63000,5/3/2024,21:03,Card,30,10
+Member,Male,Snack,12000,1,72000,5/3/2024,21:14,Transfer,5,5
+Regular,Female,Kitchen Consumption,9800,14,60000,5/3/2024,21:25,Cash,15,6
+Member,Male,Dessert,11000,9,98000,5/3/2024,21:36,Qris,15,5
+Regular,Female,Seafood,41900,6,85000,5/3/2024,21:47,Card,15,6
+Member,Male,Instant Food,10300,14,91000,5/3/2024,21:58,Cash,10,6
+Regular,Female,Fruits,8900,6,96000,5/3/2024,22:09,Transfer,10,6
+Member,Male,Dairy Product,43700,8,50000,5/3/2024,22:20,Qris,15,5
+Regular,Female,Bakery,8000,14,72000,5/3/2024,22:31,Card,15,6
+Member,Male,Snack,7000,8,84000,5/3/2024,22:42,Transfer,20,8
+Regular,Female,Kitchen Consumption,10200,11,54000,5/3/2024,22:53,Cash,15,6
+Member,Male,Dessert,11000,2,63000,5/3/2024,23:04,Qris,0,3
+Regular,Female,Seafood,80700,8,68000,5/3/2024,23:15,Card,10,6
+Member,Male,Instant Food,37900,10,84000,5/3/2024,23:26,Cash,10,5
+Regular,Female,Fruits,9500,11,91000,5/3/2024,23:37,Transfer,15,5
+Member,Male,Dairy Product,43700,13,80000,5/3/2024,23:48,Qris,15,6
+Regular,Female,Bakery,12100,5,63000,5/3/2024,23:59,Card,0,5
+Regular,Male,Fruits,13100,10,78000,5/4/2024,8:03,Cash,10,5
+Member,Female,Kitchen Consumption,13100,12,88000,5/4/2024,8:14,Card,30,9
+Regular,Male,Seafood,67800,12,108000,5/4/2024,8:25,Qris,15,6
+Member,Female,Dairy Product,43700,2,45000,5/4/2024,8:36,Transfer,10,5
+Regular,Male,Bakery,8000,12,64000,5/4/2024,8:47,Cash,5,5
+Member,Female,Snack,7000,7,135000,5/4/2024,8:58,Card,10,6
+Regular,Male,Fruits,12300,9,72000,5/4/2024,9:09,Qris,10,5
+Member,Female,Kitchen Consumption,9800,9,77000,5/4/2024,9:20,Transfer,20,7
+Regular,Male,Seafood,129300,14,153000,5/4/2024,9:31,Cash,20,7
+Member,Female,Dairy Product,43700,10,66000,5/4/2024,9:42,Card,15,6
+Regular,Male,Bakery,7900,13,42000,5/4/2024,9:53,Qris,15,6
+Member,Female,Snack,8300,2,96000,5/4/2024,10:04,Transfer,5,5
+Regular,Male,Fruits,9500,13,78000,5/4/2024,10:15,Cash,10,6
+Member,Female,Kitchen Consumption,9800,13,66000,5/4/2024,10:26,Card,15,5
+Regular,Male,Seafood,41900,13,90000,5/4/2024,10:37,Qris,5,5
+Member,Female,Dairy Product,21200,8,72000,5/4/2024,10:48,Transfer,30,10
+Regular,Male,Bakery,21400,2,56000,5/4/2024,10:59,Cash,5,4
+Member,Female,Snack,23000,1,90000,5/4/2024,11:10,Card,0,4
+Regular,Male,Fruits,4000,10,96000,5/4/2024,11:21,Qris,15,5
+Member,Female,Kitchen Consumption,13400,6,66000,5/4/2024,11:32,Transfer,10,5
+Regular,Male,Seafood,41200,1,85000,5/4/2024,11:43,Cash,10,6
+Member,Female,Dairy Product,24300,10,88000,5/4/2024,11:54,Card,15,6
+Regular,Male,Bakery,22300,4,49000,5/4/2024,12:05,Qris,5,4
+Member,Female,Snack,7000,11,96000,5/4/2024,12:16,Transfer,10,5
+Regular,Male,Fruits,7500,8,65000,5/4/2024,12:27,Cash,10,5
+Member,Female,Kitchen Consumption,9300,12,77000,5/4/2024,12:38,Card,10,5
+Regular,Male,Seafood,69800,14,108000,5/4/2024,12:49,Qris,30,9
+Member,Female,Dairy Product,31300,6,45000,5/4/2024,13:00,Transfer,0,4
+Regular,Male,Bakery,12100,1,48000,5/4/2024,13:11,Cash,5,5
+Member,Female,Snack,23000,12,60000,5/4/2024,13:22,Card,15,5
+Regular,Male,Fruits,10000,9,72000,5/4/2024,13:33,Qris,15,5
+Member,Female,Kitchen Consumption,9300,11,99000,5/4/2024,13:44,Transfer,30,9
+Regular,Male,Seafood,44000,2,119000,5/4/2024,13:55,Cash,10,6
+Regular,Female,Bakery,22300,8,40000,5/4/2024,14:03,Card,20,8
+Member,Male,Snack,12000,12,112000,5/4/2024,14:14,Transfer,20,8
+Regular,Female,Kitchen Consumption,24000,2,90000,5/4/2024,14:25,Cash,0,3
+Member,Male,Dessert,12300,11,63000,5/4/2024,14:36,Qris,15,6
+Regular,Female,Seafood,41200,12,85000,5/4/2024,14:47,Card,30,9
+Member,Male,Instant Food,6500,12,72000,5/4/2024,14:58,Cash,10,5
+Regular,Female,Fruits,9600,8,80000,5/4/2024,15:09,Transfer,20,7
+Member,Male,Dairy Product,32800,9,55000,5/4/2024,15:20,Qris,10,6
+Regular,Female,Bakery,13200,10,63000,5/4/2024,15:31,Card,15,6
+Member,Male,Snack,8300,9,90000,5/4/2024,15:42,Transfer,15,5
+Regular,Female,Kitchen Consumption,9300,4,54000,5/4/2024,15:49,Cash,15,6
+Member,Male,Dessert,8700,13,70000,5/4/2024,16:00,Qris,20,8
+Regular,Female,Seafood,88700,8,72000,5/4/2024,16:11,Card,30,9
+Member,Male,Instant Food,10200,6,105000,5/4/2024,16:22,Cash,15,5
+Regular,Female,Fruits,12300,10,88000,5/4/2024,16:33,Transfer,10,5
+Member,Male,Dairy Product,42000,13,50000,5/4/2024,16:44,Qris,30,9
+Regular,Female,Bakery,12000,13,72000,5/4/2024,16:55,Card,15,6
+Member,Male,Snack,8300,10,84000,5/4/2024,17:06,Transfer,20,7
+Regular,Female,Kitchen Consumption,13100,1,78000,5/4/2024,17:17,Cash,10,6
+Member,Male,Dessert,19000,13,63000,5/4/2024,17:28,Qris,15,5
+Regular,Female,Seafood,88700,6,85000,5/4/2024,17:39,Card,0,3
+Member,Male,Instant Food,10300,11,72000,5/4/2024,17:50,Cash,5,3
+Regular,Female,Fruits,7500,11,88000,5/4/2024,18:01,Transfer,30,9
+Member,Male,Dairy Product,42000,1,65000,5/4/2024,18:12,Qris,20,8
+Regular,Female,Bakery,22300,8,72000,5/4/2024,18:23,Card,10,6
+Member,Male,Snack,9000,13,72000,5/4/2024,18:34,Transfer,15,5
+Regular,Female,Kitchen Consumption,10200,10,66000,5/4/2024,18:45,Cash,10,5
+Member,Male,Dessert,8700,14,45000,5/4/2024,18:56,Qris,15,5
+Regular,Female,Seafood,41900,14,72000,5/4/2024,19:07,Card,15,6
+Member,Male,Instant Food,6500,14,84000,5/4/2024,19:18,Cash,30,9
+Regular,Female,Fruits,13100,5,96000,5/4/2024,19:29,Transfer,10,6
+Member,Male,Dairy Product,23300,6,55000,5/4/2024,19:40,Qris,5,4
+Regular,Female,Bakery,22300,10,63000,5/4/2024,19:51,Card,10,5
+Regular,Female,Kitchen Consumption,29200,10,88000,5/4/2024,19:53,Cash,15,5
+Member,Male,Dessert,12300,12,63000,5/4/2024,20:04,Qris,20,8
+Regular,Female,Seafood,80700,14,90000,5/4/2024,20:15,Card,30,9
+Member,Male,Instant Food,7350,12,78000,5/4/2024,20:26,Cash,15,6
+Regular,Female,Fruits,13100,9,88000,5/4/2024,20:37,Transfer,15,6
+Member,Male,Dairy Product,42000,9,60000,5/4/2024,20:48,Qris,10,6
+Regular,Female,Bakery,24800,13,72000,5/4/2024,20:59,Card,30,10
+Member,Male,Snack,12000,3,104000,5/4/2024,21:10,Transfer,10,6
+Regular,Female,Kitchen Consumption,10200,12,84000,5/4/2024,21:21,Cash,10,6
+Member,Male,Dessert,7400,2,63000,5/4/2024,21:32,Qris,20,7
+Regular,Female,Seafood,67800,1,68000,5/4/2024,21:43,Card,5,5
+Member,Male,Instant Food,10200,9,78000,5/4/2024,21:54,Cash,15,6
+Regular,Female,Fruits,10000,1,72000,5/4/2024,22:05,Transfer,5,5
+Member,Male,Dairy Product,31300,8,60000,5/4/2024,22:16,Qris,10,6
+Regular,Female,Bakery,22300,9,35000,5/4/2024,22:27,Card,15,6
+Member,Male,Snack,8300,7,84000,5/4/2024,22:38,Transfer,10,5
+Member,Male,Beverages,17800,9,75000,5/5/2024,9:05,Card,10,5
+Regular,Female,Dairy Product,22300,8,26000,5/5/2024,9:18,Cash,10,6
+Member,Male,Fruits,10000,14,72000,5/5/2024,9:35,Qris,5,4
+Member,Female,Vegetables,29700,8,100000,5/5/2024,9:48,Transfer,30,9
+Regular,Male,Seafood,49400,13,180000,5/5/2024,10:05,Card,20,8
+Member,Female,Instant Food,6900,10,63000,5/5/2024,10:15,Cash,20,7
+Regular,Male,Snack,9000,9,50000,5/5/2024,10:32,Qris,15,5
+Member,Female,Bakery,13200,9,36000,5/5/2024,10:45,Transfer,10,6
+Regular,Male,Kitchen Consumption,9800,1,153000,5/5/2024,10:58,Card,5,5
+Member,Female,Dessert,11000,10,66000,5/5/2024,11:10,Qris,15,6
+Member,Male,Dairy Product,43700,10,15000,5/5/2024,11:22,Transfer,10,5
+Regular,Female,Beverages,17800,3,120000,5/5/2024,11:35,Cash,10,5
+Regular,Male,Fruits,7500,6,60000,5/5/2024,11:48,Card,0,5
+Member,Female,Vegetables,30700,9,50000,5/5/2024,12:05,Qris,10,6
+Member,Male,Seafood,67800,12,108000,5/5/2024,12:15,Transfer,15,6
+Regular,Female,Instant Food,10200,10,77000,5/5/2024,12:28,Cash,10,6
+Member,Male,Snack,12000,11,104000,5/5/2024,12:45,Card,5,4
+Regular,Female,Bakery,43000,4,70000,5/5/2024,13:02,Qris,15,5
+Member,Male,Kitchen Consumption,2200,13,72000,5/5/2024,13:15,Transfer,30,9
+Regular,Female,Dessert,12300,13,60000,5/5/2024,13:28,Card,15,6
+Member,Male,Dairy Product,23300,1,81000,5/5/2024,13:35,Qris,0,5
+Member,Female,Beverages,12000,12,160000,5/5/2024,13:48,Transfer,20,8
+Regular,Male,Fruits,8400,10,56000,5/5/2024,14:05,Cash,10,6
+Regular,Female,Vegetables,15200,2,90000,5/5/2024,14:18,Card,20,8
+Member,Male,Seafood,129300,9,88000,5/5/2024,14:28,Qris,10,5
+Regular,Female,Instant Food,37900,10,85000,5/5/2024,14:45,Transfer,10,5
+Member,Male,Snack,8300,11,150000,5/5/2024,15:02,Cash,15,5
+Regular,Female,Bakery,22300,8,105000,5/5/2024,15:18,Card,10,5
+Member,Male,Kitchen Consumption,29200,10,104000,5/5/2024,15:35,Qris,10,5
+Member,Female,Dessert,7400,8,105000,5/5/2024,15:50,Transfer,15,6
+Regular,Male,Dairy Product,42000,6,110000,5/5/2024,16:05,Cash,5,5
+Member,Female,Beverages,8700,1,48000,5/5/2024,16:18,Card,5,4
+Regular,Male,Fruits,6300,8,150000,5/5/2024,16:35,Qris,30,9
+Member,Female,Vegetables,16900,9,133000,5/5/2024,16:50,Transfer,20,8
+Regular,Male,Seafood,90900,11,135000,5/5/2024,17:05,Cash,15,5
+Member,Female,Instant Food,7100,2,112000,5/5/2024,17:18,Card,10,6
+Member,Male,Snack,7600,9,108000,5/5/2024,17:32,Qris,15,6
+Regular,Female,Bakery,7900,13,120000,5/5/2024,17:48,Transfer,30,9
+Regular,Male,Kitchen Consumption,2200,9,63000,5/5/2024,18:05,Cash,20,7
+Member,Female,Dessert,9300,10,36000,5/5/2024,18:15,Card,30,9
+Member,Male,Dairy Product,23300,2,17000,5/5/2024,18:28,Qris,10,5
+Regular,Female,Beverages,6800,1,182000,5/5/2024,18:45,Transfer,20,7
+Member,Male,Fruits,7500,11,200000,5/5/2024,19:05,Cash,15,6
+Member,Female,Vegetables,29700,8,90000,5/5/2024,19:18,Card,10,5
+Regular,Male,Seafood,69800,13,120000,5/5/2024,19:35,Qris,15,5
+Member,Female,Instant Food,37900,14,125000,5/5/2024,19:50,Transfer,30,9
+Regular,Male,Snack,7600,10,66000,5/5/2024,20:05,Cash,15,5
+Member,Female,Bakery,7900,11,36000,5/5/2024,20:15,Card,10,6
+Regular,Male,Kitchen Consumption,29200,12,88000,5/5/2024,20:32,Qris,15,5
+Member,Female,Dessert,8600,8,63000,5/5/2024,20:50,Transfer,10,5
+Regular,Male,Dairy Product,31300,13,84000,5/5/2024,21:05,Cash,15,6
+Member,Female,Beverages,11000,10,90000,5/5/2024,21:18,Card,20,8
+Regular,Male,Fruits,8400,10,80000,5/5/2024,21:35,Qris,10,5
+Member,Female,Vegetables,9200,11,75000,5/5/2024,21:48,Transfer,15,6
+Member,Male,Seafood,49400,12,190000,5/5/2024,22:05,Cash,15,6
+Regular,Female,Instant Food,10300,13,138000,5/5/2024,22:18,Card,10,5
+Member,Male,Snack,7700,9,126000,5/5/2024,22:35,Qris,15,5
+Member,Female,Bakery,9800,3,128000,5/5/2024,22:50,Transfer,30,9
+Regular,Male,Kitchen Consumption,24000,12,105000,5/5/2024,23:05,Cash,15,6
+Member,Female,Dessert,19000,11,33000,5/5/2024,23:18,Card,15,5
+Regular,Male,Dairy Product,22300,8,48000,5/5/2024,23:32,Qris,15,6
+Member,Female,Beverages,6800,6,22000,5/5/2024,23:50,Transfer,0,4
+Regular,Male,Fruits,4000,1,136000,5/6/2024,9:05,Cash,10,6
+Member,Female,Vegetables,11200,8,117000,5/6/2024,9:18,Card,10,5
+Regular,Male,Seafood,49400,8,110000,5/6/2024,9:35,Qris,10,6
+Member,Female,Instant Food,6900,10,112000,5/6/2024,9:48,Transfer,10,5
+Member,Male,Snack,7700,14,144000,5/6/2024,10:05,Cash,30,9
+Regular,Female,Bakery,22300,1,50000,5/6/2024,10:18,Card,0,4
+Member,Male,Kitchen Consumption,24000,13,72000,5/6/2024,10:35,Qris,15,6
+Regular,Female,Dessert,21000,2,90000,5/6/2024,10:48,Transfer,10,5
+Member,Male,Dairy Product,31300,8,52000,5/6/2024,11:05,Cash,10,6
+Regular,Female,Beverages,17800,10,22000,5/6/2024,11:18,Card,20,8
+Member,Male,Fruits,13100,13,104000,5/6/2024,11:35,Qris,20,8
+Regular,Female,Vegetables,63800,10,81000,5/6/2024,11:48,Transfer,10,5
+Member,Male,Seafood,80700,9,170000,5/6/2024,12:05,Cash,10,5
+Regular,Female,Instant Food,7100,14,105000,5/6/2024,12:18,Card,20,7
+Member,Male,Snack,7700,13,66000,5/6/2024,12:35,Qris,30,9
+Regular,Female,Bakery,21400,13,70000,5/6/2024,12:48,Transfer,15,6
+Member,Male,Kitchen Consumption,13400,8,76000,5/6/2024,13:05,Cash,20,8
+Regular,Female,Dessert,17000,12,63000,5/6/2024,13:18,Card,15,5
+Member,Male,Dairy Product,34000,2,28000,5/6/2024,13:32,Qris,10,6
+Regular,Female,Beverages,8700,14,18000,5/6/2024,13:48,Transfer,30,9
+Member,Male,Fruits,12300,13,120000,5/6/2024,14:05,Cash,15,6
+Regular,Female,Vegetables,11700,9,117000,5/6/2024,14:18,Card,10,6
+Member,Male,Seafood,80700,7,260000,5/6/2024,14:35,Qris,5,5
+Regular,Female,Instant Food,3400,11,147000,5/6/2024,14:48,Transfer,10,5
+Member,Male,Snack,7700,14,90000,5/6/2024,15:05,Cash,15,5
+Regular,Female,Bakery,12100,11,95000,5/6/2024,15:18,Card,30,9
+Member,Male,Kitchen Consumption,6500,6,84000,5/6/2024,15:35,Qris,0,5
+Regular,Female,Dessert,19000,3,75000,5/6/2024,15:48,Transfer,5,5
+Member,Male,Dairy Product,43700,1,34000,5/6/2024,16:05,Cash,0,4
+Regular,Female,Beverages,7800,2,15000,5/6/2024,16:18,Card,15,5
+Member,Male,Fruits,4000,10,104000,5/6/2024,16:35,Qris,15,6
+Regular,Female,Vegetables,16900,12,81000,5/6/2024,16:48,Transfer,20,8
+Member,Male,Seafood,69800,11,250000,5/6/2024,17:05,Cash,15,5
+Regular,Female,Instant Food,7100,8,112000,5/6/2024,17:18,Card,10,6
+Regular,Male,Snack,7700,6,72000,5/6/2024,17:35,Qris,0,5
+Regular,Female,Bakery,7900,11,90000,5/6/2024,17:48,Transfer,30,9
+Regular,Male,Kitchen Consumption,9300,5,84000,5/6/2024,18:05,Cash,5,4
+Member,Female,Dessert,19000,12,54000,5/6/2024,18:15,Card,10,5
+Member,Male,Dairy Product,21200,11,34000,5/6/2024,18:28,Qris,30,9
+Regular,Female,Beverages,17800,2,26000,5/6/2024,18:45,Transfer,0,5
+Member,Male,Fruits,13100,7,160000,5/6/2024,19:05,Cash,30,9
+Member,Female,Vegetables,11700,11,135000,5/6/2024,19:18,Card,15,6
+Regular,Male,Seafood,67800,13,300000,5/6/2024,19:35,Qris,20,7
+Member,Female,Instant Food,6900,1,175000,5/6/2024,19:50,Transfer,0,4
+Regular,Male,Snack,9000,11,132000,5/6/2024,20:05,Cash,5,5
+Member,Female,Bakery,13200,10,90000,5/6/2024,20:15,Card,10,6
+Regular,Male,Kitchen Consumption,13400,8,44000,5/6/2024,20:32,Qris,20,7
+Member,Female,Dessert,21000,14,27000,5/6/2024,20:50,Transfer,5,4
+Regular,Male,Dairy Product,34000,6,28000,5/6/2024,21:05,Cash,10,5
+Member,Female,Beverages,12000,4,18000,5/6/2024,21:18,Card,5,3
+Regular,Male,Fruits,9500,11,160000,5/6/2024,21:35,Qris,10,5
+Member,Female,Vegetables,11200,8,225000,5/6/2024,21:48,Transfer,10,5
+Member,Male,Seafood,90900,14,190000,5/6/2024,22:05,Cash,5,5
+Regular,Female,Instant Food,3400,2,161000,5/6/2024,22:18,Card,0,4
+Member,Male,Snack,9000,4,84000,5/6/2024,22:35,Qris,0,3
+Member,Female,Bakery,43000,8,80000,5/6/2024,22:50,Transfer,10,6
+Regular,Male,Kitchen Consumption,2200,7,60000,5/6/2024,23:05,Cash,20,8
+Member,Female,Dessert,14400,2,33000,5/6/2024,23:18,Card,5,5
+Regular,Male,Dairy Product,25800,7,48000,5/6/2024,23:32,Qris,0,5
+Member,Female,Beverages,11000,10,22000,5/6/2024,23:50,Transfer,30,9
+Member,Male,Beverages,6800,2,20000,5/7/2024,8:05,Cash,10,6
+Regular,Female,Dairy Product,22300,9,24000,5/7/2024,8:15,QRIS,10,5
+Member,Male,Fruits,9500,14,50000,5/7/2024,8:22,Transfer,20,8
+Regular,Male,Vegetables,12000,2,24500,5/7/2024,8:35,Card,0,4
+Member,Female,Seafood,41200,1,42000,5/7/2024,8:50,Cash,20,8
+Member,Male,Dairy Product,22300,11,36000,5/7/2024,9:10,QRIS,5,5
+Regular,Female,Dessert,11000,5,66000,5/7/2024,9:25,Cash,0,5
+Member,Female,Bakery,22300,11,26000,5/7/2024,9:35,Card,30,9
+Regular,Male,Snack,12000,10,37500,5/7/2024,9:48,Transfer,15,6
+Member,Male,Instant Food,37900,8,126000,5/7/2024,10:02,QRIS,30,9
+Regular,Female,Beverages,17000,13,40200,5/7/2024,10:17,Cash,20,8
+Member,Male,Fruits,13100,9,176000,5/7/2024,10:32,Card,10,6
+Regular,Female,Dairy Product,42000,8,135000,5/7/2024,10:48,Transfer,15,6
+Member,Male,Vegetables,29700,11,12300,5/7/2024,11:00,QRIS,30,9
+Member,Female,Seafood,49400,13,70000,5/7/2024,11:15,Cash,30,10
+Regular,Male,Instant Food,7100,4,25000,5/7/2024,11:25,Card,10,6
+Member,Female,Dessert,11000,1,120000,5/7/2024,11:40,QRIS,10,5
+Member,Male,Bakery,12100,2,72000,5/7/2024,11:55,Cash,0,4
+Regular,Female,Vegetables,12000,10,11600,5/7/2024,12:08,Transfer,10,5
+Member,Male,Fruits,13100,12,116000,5/7/2024,12:20,Card,20,8
+Regular,Female,Beverages,14500,1,38700,5/7/2024,12:35,QRIS,0,5
+Member,Male,Dairy Product,34000,12,60900,5/7/2024,12:50,Cash,10,6
+Regular,Female,Seafood,80700,6,33000,5/7/2024,13:05,Card,15,6
+Member,Male,Dessert,14400,9,39000,5/7/2024,13:20,Transfer,10,6
+Regular,Female,Fruits,8400,11,60000,5/7/2024,13:35,Cash,30,9
+Member,Male,Vegetables,16900,2,60000,5/7/2024,13:48,Card,0,5
+Regular,Female,Dairy Product,43700,5,27600,5/7/2024,14:00,QRIS,5,5
+Member,Male,Beverages,17000,13,132000,5/7/2024,14:15,Transfer,15,6
+Regular,Female,Instant Food,7350,8,50000,5/7/2024,14:28,Cash,20,7
+Member,Male,Bakery,12100,5,24000,5/7/2024,14:40,Card,5,4
+Regular,Female,Dessert,7400,11,94500,5/7/2024,14:55,QRIS,20,7
+Member,Male,Fruits,13100,11,140000,5/7/2024,15:05,Transfer,10,6
+Regular,Female,Beverages,8300,14,56000,5/7/2024,15:20,Cash,5,3
+Member,Male,Seafood,69800,2,72000,5/7/2024,15:35,Card,0,4
+Regular,Female,Dairy Product,25800,11,66000,5/7/2024,15:50,Transfer,15,6
+Member,Male,Dessert,11000,10,81000,5/7/2024,16:00,QRIS,10,5
+Regular,Female,Instant Food,37900,14,50000,5/7/2024,16:15,Cash,15,6
+Member,Male,Bakery,13200,3,90000,5/7/2024,16:30,Card,15,6
+Regular,Female,Fruits,8900,1,10800,5/7/2024,16:45,Transfer,0,4
+Member,Male,Beverages,17800,13,84000,5/7/2024,16:58,QRIS,30,9
+Regular,Female,Vegetables,9200,1,13400,5/7/2024,17:10,Cash,5,5
+Member,Male,Dairy Product,31300,11,116000,5/7/2024,17:25,Card,15,5
+Regular,Female,Dessert,14400,14,126000,5/7/2024,17:40,Transfer,15,5
+Member,Male,Bakery,21400,14,60000,5/7/2024,17:55,QRIS,15,5
+Regular,Female,Seafood,49400,12,43500,5/7/2024,18:10,Cash,15,6
+Member,Male,Instant Food,15800,9,30000,5/7/2024,18:25,Card,10,5
+Regular,Female,Fruits,4000,8,48000,5/7/2024,18:40,Transfer,30,9
+Member,Male,Vegetables,63800,9,28000,5/7/2024,18:50,QRIS,10,6
+Regular,Female,Beverages,12000,11,44000,5/7/2024,19:05,Cash,15,5
+Member,Male,Dairy Product,23300,10,40200,5/7/2024,19:20,Card,10,6
+Regular,Female,Seafood,41900,13,96000,5/7/2024,19:35,Transfer,30,9
+Member,Male,Dessert,21000,1,44000,5/7/2024,19:50,QRIS,15,5
+Regular,Female,Bakery,12100,14,62500,5/7/2024,20:05,Cash,5,5
+Member,Male,Instant Food,3400,11,136000,5/7/2024,20:20,Card,20,8
+Regular,Female,Fruits,4000,4,27000,5/7/2024,20:35,Transfer,0,4
+Member,Male,Vegetables,12000,12,70000,5/7/2024,20:50,QRIS,30,9
+Regular,Female,Beverages,17000,11,13400,5/7/2024,21:00,Cash,15,6
+Member,Male,Seafood,69800,10,120000,5/7/2024,21:10,Card,15,5
+Regular,Female,Dairy Product,21200,9,47500,5/7/2024,21:20,Transfer,10,6
+Member,Male,Dessert,8600,12,25200,5/7/2024,21:30,QRIS,30,9
+Regular,Female,Instant Food,7100,13,40000,5/7/2024,21:40,Cash,15,6
+Member,Male,Fruits,8400,8,70000,5/7/2024,21:50,Card,20,7
+Regular,Female,Vegetables,63800,12,7000,5/7/2024,22:00,Transfer,10,6
+Member,Male,Bakery,8000,12,37500,5/7/2024,22:10,QRIS,20,7
+Regular,Female,Beverages,14500,1,20000,5/7/2024,22:20,Cash,30,9
+Member,Male,Seafood,41200,8,238000,5/7/2024,22:30,Card,15,5
+Regular,Female,Dessert,19000,3,121500,5/7/2024,22:40,Transfer,0,5
+Member,Male,Instant Food,3400,10,120000,5/7/2024,22:50,QRIS,10,5
+Regular,Female,Bakery,43000,14,110000,5/7/2024,23:00,Cash,5,5
+Member,Male,Fruits,7500,10,18000,5/7/2024,23:10,Card,15,5
+Regular,Female,Vegetables,16900,12,8700,5/7/2024,23:20,Transfer,30,9
+Member,Male,Beverages,14500,9,75000,5/7/2024,23:30,QRIS,20,7
+Regular,Female,Seafood,80700,5,82000,5/7/2024,23:40,Cash,10,5
+Member,Male,Dairy Product,25800,8,25500,5/7/2024,23:50,Card,15,6
+Regular,Female,Fruits,4000,13,20400,5/8/2024,8:00,Transfer,15,6
+Member,Male,Instant Food,6500,13,72000,5/8/2024,8:07,QRIS,10,5
+Regular,Female,Vegetables,30700,2,16800,5/8/2024,8:15,Cash,0,5
+Member,Male,Bakery,22300,12,77000,5/8/2024,8:25,Card,5,5
+Regular,Female,Beverages,7800,13,50000,5/8/2024,8:28,Transfer,30,10
+Member,Male,Dairy Product,32800,8,80000,5/8/2024,8:30,QRIS,15,6
+Regular,Female,Dessert,14400,1,43200,5/8/2024,8:57,Cash,20,8
+Member,Male,Fruits,12300,14,70000,5/8/2024,9:03,Card,20,8
+Regular,Female,Vegetables,15200,10,15400,5/8/2024,9:06,Transfer,10,5
+Member,Male,Seafood,44000,8,135000,5/8/2024,9:28,QRIS,10,5
+Regular,Female,Dairy Product,32800,11,80000,5/8/2024,9:47,Cash,15,6
+Member,Male,Beverages,6800,4,78000,5/8/2024,9:49,Card,10,5
+Regular,Female,Dessert,11000,13,92000,5/8/2024,10:20,Transfer,15,6
+Member,Male,Bakery,24800,11,56000,5/8/2024,10:25,QRIS,20,7
+Regular,Female,Instant Food,6500,5,12000,5/8/2024,10:41,Cash,10,6
+Member,Male,Fruits,6300,13,59500,5/8/2024,10:43,Card,10,6
+Regular,Female,Vegetables,17600,10,75000,5/8/2024,10:44,Transfer,10,5
+Member,Male,Dairy Product,24300,11,22000,5/8/2024,10:50,QRIS,15,6
+Regular,Female,Beverages,12000,14,72000,5/8/2024,10:57,Cash,15,5
+Member,Male,Dessert,7400,12,40500,5/8/2024,11:08,Card,15,5
+Regular,Female,Seafood,44000,11,26800,5/8/2024,11:11,Transfer,30,9
+Member,Male,Instant Food,10200,5,21500,5/8/2024,11:20,QRIS,20,8
+Regular,Female,Fruits,6300,10,10000,5/8/2024,11:35,Cash,10,6
+Member,Male,Vegetables,9200,11,60000,5/8/2024,11:46,Card,15,5
+Regular,Female,Dairy Product,24300,1,8400,5/8/2024,11:54,Transfer,10,6
+Member,Male,Beverages,8700,9,48000,5/8/2024,12:14,QRIS,20,7
+Regular,Female,Dessert,17000,2,90000,5/8/2024,12:17,Cash,10,5
+Member,Male,Seafood,41900,12,140000,5/8/2024,12:27,Card,30,9
+Regular,Female,Bakery,43000,10,42000,5/8/2024,12:36,Transfer,15,5
+Member,Male,Instant Food,7100,13,135000,5/8/2024,12:51,QRIS,30,10
+Regular,Female,Fruits,6300,2,60000,5/8/2024,12:55,Cash,20,7
+Member,Male,Vegetables,15200,9,48000,5/8/2024,12:56,Card,15,6
+Regular,Female,Dairy Product,43700,5,19000,5/8/2024,13:07,Transfer,5,5
+Member,Male,Beverages,12000,7,72000,5/8/2024,13:30,QRIS,30,10
+Regular,Female,Seafood,80700,2,46900,5/8/2024,13:35,Cash,10,5
+Member,Male,Dessert,11000,8,108000,5/8/2024,13:43,Card,10,6
+Regular,Female,Instant Food,3400,1,14000,5/8/2024,13:59,Transfer,10,5
+Member,Male,Fruits,7500,8,33500,5/8/2024,14:00,QRIS,10,5
+Regular,Female,Vegetables,16900,5,42000,5/8/2024,14:44,Cash,15,6
+Member,Male,Dairy Product,43700,13,40000,5/8/2024,14:49,Card,5,5
+Regular,Female,Beverages,8300,12,72000,5/8/2024,14:53,Transfer,5,5
+Member,Male,Seafood,88700,5,65000,5/8/2024,15:01,QRIS,0,5
+Regular,Female,Dessert,21000,9,27000,5/8/2024,15:06,Cash,30,10
+Member,Male,Bakery,24800,12,105000,5/8/2024,15:33,Card,20,8
+Regular,Female,Instant Food,37900,12,48000,5/8/2024,15:35,Transfer,20,7
+Member,Male,Fruits,9500,8,12000,5/8/2024,15:38,QRIS,15,6
+Regular,Female,Vegetables,12000,9,24000,5/8/2024,15:51,Cash,10,6
+Member,Male,Beverages,8300,12,51000,5/8/2024,16:41,Card,10,6
+Regular,Female,Seafood,129300,12,54000,5/8/2024,17:06,Transfer,5,3
+Member,Male,Dessert,21000,10,55000,5/8/2024,17:24,QRIS,15,6
+Regular,Female,Bakery,43000,7,6000,5/8/2024,17:35,Cash,5,3
+Member,Male,Instant Food,7100,8,76000,5/8/2024,17:41,Card,10,5
+Regular,Female,Fruits,12300,9,14000,5/8/2024,17:45,Transfer,15,5
+Member,Male,Vegetables,16900,1,20100,5/8/2024,17:56,QRIS,20,8
+Regular,Female,Beverages,12100,1,40000,5/8/2024,17:58,Cash,10,5
+Member,Male,Seafood,49400,11,60000,5/8/2024,18:16,Card,5,5
+Regular,Female,Dairy Product,23300,9,72000,5/8/2024,18:46,Transfer,10,5
+Member,Male,Dessert,9300,8,39000,5/8/2024,19:04,QRIS,10,6
+Regular,Female,Bakery,7900,12,77000,5/8/2024,19:07,Cash,10,6
+Member,Male,Instant Food,3400,6,100000,5/8/2024,19:19,Card,15,6
+Regular,Female,Fruits,13100,12,28000,5/8/2024,19:30,Transfer,10,5
+Member,Male,Vegetables,15200,12,88000,5/8/2024,19:38,QRIS,15,5
+Regular,Female,Beverages,17000,9,48000,5/8/2024,19:39,Cash,15,6
+Member,Male,Seafood,80700,14,96000,5/8/2024,19:42,Card,15,6
+Regular,Female,Dairy Product,42000,4,63000,5/8/2024,20:09,Transfer,15,6
+Member,Male,Dessert,8600,11,38000,5/8/2024,20:18,QRIS,15,6
+Regular,Female,Bakery,21400,10,24000,5/8/2024,20:20,Cash,20,8
+Member,Male,Instant Food,7350,13,104000,5/8/2024,20:32,Card,15,6
+Regular,Female,Fruits,9600,2,21000,5/8/2024,20:43,Transfer,10,6
+Member,Male,Vegetables,30700,5,45000,5/8/2024,20:45,QRIS,0,4
+Regular,Female,Beverages,17000,14,72000,5/8/2024,20:46,Cash,20,7
+Member,Male,Seafood,88700,8,128000,5/8/2024,20:49,Card,30,9
+Regular,Female,Dessert,11000,12,28000,5/8/2024,21:05,Transfer,30,10
+Member,Male,Dairy Product,42000,14,175000,5/8/2024,21:06,QRIS,5,4
+Regular,Female,Instant Food,10300,12,45000,5/8/2024,21:10,Cash,30,9
+Member,Male,Bakery,22300,8,36000,5/8/2024,21:18,Card,15,6
+Regular,Female,Fruits,8900,12,102000,5/8/2024,21:25,Transfer,30,9
+Member,Male,Vegetables,12000,5,84000,5/8/2024,21:42,QRIS,10,6
+Regular,Female,Dairy Product,25800,9,28000,5/8/2024,21:59,Cash,30,9
+Member,Male,Beverages,12100,13,115000,5/8/2024,22:00,Card,10,6
+Regular,Female,Seafood,88700,11,210000,5/9/2024,8:02,Transfer,15,6
+Member,Male,Dessert,19000,3,54000,5/9/2024,8:03,QRIS,30,10
+Regular,Female,Bakery,12100,10,24000,5/9/2024,8:13,Cash,30,9
+Member,Male,Instant Food,6500,14,91000,5/9/2024,8:18,Card,5,4
+Regular,Female,Fruits,9600,10,25000,5/9/2024,8:25,Transfer,10,5
+Member,Male,Vegetables,17600,7,34000,5/9/2024,8:29,QRIS,0,5
+Regular,Female,Dairy Product,32800,7,18000,5/9/2024,8:41,Cash,10,5
+Member,Male,Beverages,6800,14,88000,5/9/2024,8:42,Card,15,6
+Regular,Female,Dessert,19000,1,215000,5/9/2024,8:46,Transfer,0,4
+Member,Male,Bakery,7900,10,72000,5/9/2024,8:52,QRIS,20,8
+Regular,Female,Instant Food,10300,11,84000,5/9/2024,8:54,Cash,5,5
+Member,Male,Fruits,8900,8,68000,5/9/2024,9:04,Card,15,6
+Regular,Female,Vegetables,11700,2,75000,5/9/2024,9:27,Transfer,0,5
+Member,Male,Seafood,90900,12,18000,5/9/2024,9:36,QRIS,30,10
+Regular,Female,Beverages,8300,13,70000,5/9/2024,9:42,Cash,30,9
+Member,Male,Dessert,7400,13,34000,5/9/2024,9:56,Card,15,6
+Regular,Female,Bakery,21400,13,65000,5/9/2024,10:01,Transfer,20,8
+Member,Male,Instant Food,7350,12,63000,5/9/2024,10:10,QRIS,15,6
+Regular,Female,Fruits,9600,7,46000,5/9/2024,10:13,Cash,10,6
+Member,Male,Vegetables,9200,14,98000,5/9/2024,10:45,Card,30,9
+Regular,Female,Dairy Product,42000,12,32000,5/9/2024,10:48,Transfer,20,7
+Member,Male,Beverages,17800,8,55000,5/9/2024,10:54,QRIS,10,6
+Regular,Female,Seafood,49400,6,90000,5/9/2024,10:55,Cash,5,4
+Member,Male,Dessert,17000,13,133000,5/9/2024,11:13,Card,15,5
+Regular,Female,Bakery,13200,11,225000,5/9/2024,11:23,Transfer,30,9
+Member,Male,Instant Food,10300,10,30000,5/9/2024,11:35,QRIS,30,9
+Regular,Female,Fruits,4000,10,14000,5/9/2024,12:08,Cash,15,5
+Member,Male,Vegetables,11200,14,72000,5/9/2024,12:35,Card,20,7
+Regular,Female,Dairy Product,21200,10,77000,5/9/2024,12:43,Transfer,10,6
+Member,Male,Beverages,11000,9,125000,5/9/2024,12:44,QRIS,20,8
+Regular,Female,Seafood,67800,13,72000,5/9/2024,12:57,Cash,15,5
+Member,Male,Dessert,9300,14,46000,5/9/2024,13:04,Card,15,6
+Regular,Female,Bakery,21400,10,56000,5/9/2024,13:15,Transfer,15,6
+Member,Male,Instant Food,6500,11,18000,5/9/2024,13:21,QRIS,15,5
+Regular,Female,Fruits,9600,2,72000,5/9/2024,13:41,Cash,10,6
+Member,Male,Vegetables,11700,8,17000,5/9/2024,13:44,Card,30,9
+Regular,Female,Dairy Product,21200,6,90000,5/9/2024,13:55,Transfer,10,6
+Member,Male,Beverages,8700,14,54000,5/9/2024,14:07,QRIS,20,8
+Regular,Female,Seafood,80700,5,49000,5/9/2024,14:12,Cash,5,5
+Member,Male,Dessert,17000,13,60000,5/9/2024,14:20,Card,30,10
+Regular,Female,Bakery,13200,2,16000,5/9/2024,14:26,Transfer,10,5
+Member,Male,Instant Food,7100,4,57000,5/9/2024,14:33,QRIS,10,5
+Regular,Female,Fruits,8400,10,175000,5/9/2024,14:35,Cash,15,5
+Member,Male,Vegetables,63800,7,22000,5/9/2024,14:48,Card,10,5
+Regular,Female,Dairy Product,23300,13,120000,5/9/2024,15:03,Transfer,10,6
+Member,Male,Beverages,8700,6,60000,5/9/2024,15:12,QRIS,5,5
+Regular,Female,Seafood,90900,10,175000,5/9/2024,15:14,Cash,30,9
+Member,Male,Dessert,21000,11,10000,5/9/2024,15:18,Card,30,10
+Regular,Female,Bakery,24800,8,56000,5/9/2024,15:44,Transfer,15,6
+Member,Male,Instant Food,7100,13,54000,5/9/2024,16:02,QRIS,15,5
+Regular,Female,Fruits,8400,13,51000,5/9/2024,16:12,Cash,5,5
+Member,Male,Vegetables,29700,4,49000,5/9/2024,16:16,Card,5,4
+Regular,Female,Dairy Product,25800,9,22000,5/9/2024,16:38,Transfer,10,6
+Member,Male,Beverages,8700,8,100000,5/9/2024,16:52,QRIS,10,6
+Regular,Female,Seafood,44000,13,84000,5/9/2024,17:16,Cash,15,6
+Member,Male,Dessert,12300,10,51000,5/9/2024,17:21,Card,30,9
+Regular,Female,Bakery,9800,1,18000,5/9/2024,17:23,Transfer,0,5
+Member,Male,Instant Food,10300,12,24000,5/9/2024,17:55,QRIS,15,5
+Regular,Female,Fruits,4000,2,50000,5/9/2024,18:00,Cash,5,3
+Member,Male,Vegetables,30700,9,68000,5/9/2024,18:43,Card,15,5
+Regular,Female,Dairy Product,24300,10,26000,5/9/2024,18:51,Transfer,15,6
+Member,Male,Beverages,17000,8,63000,5/9/2024,19:02,QRIS,10,5
+Regular,Female,Seafood,67800,9,90000,5/9/2024,19:19,Cash,10,5
+Member,Male,Dessert,8600,7,64000,5/9/2024,19:32,Card,0,4
+Male,Regular,Bakery,24800,14,347200,5/9/2024,19:56,Qris,20,7
+Female,Regular,Dairy Product,24300,6,145800,5/9/2024,19:57,Card,5,5
+Male,Member,Dessert,17000,10,170000,5/9/2024,20:01,Cash,15,6
+Male,Member,Seafood,90900,12,1090800,5/9/2024,20:11,Card,15,6
+Female,Member,Dairy Product,43700,6,262200,5/9/2024,20:35,Cash,10,5
+Female,Regular,Beverages,12000,6,72000,5/9/2024,20:38,Card,0,5
+Male,Regular,Fruits,7500,9,67500,5/9/2024,20:51,Transfer,30,9
+Female,Member,Dessert,14400,9,129600,5/9/2024,20:55,Card,10,6
+Female,Regular,Snack,28000,2,56000,5/9/2024,21:25,Transfer,0,5
+Female,Regular,Fruits,8400,11,92400,5/9/2024,21:33,Qris,15,5
+Female,Regular,Dairy Product,32800,5,164000,5/9/2024,21:41,Card,20,7
+Male,Regular,Kitchen Consumption,21300,11,234300,5/9/2024,21:42,Transfer,15,5
+Male,Regular,Fruits,10000,1,10000,5/9/2024,21:43,Card,10,6
+Male,Regular,Snack,7900,13,102700,5/9/2024,21:46,Qris,15,6
+Male,Member,Snack,28000,8,224000,5/9/2024,21:47,Qris,10,6
+Male,Member,Seafood,69800,8,558400,5/9/2024,21:56,Transfer,15,6
+Male,Regular,Dessert,17000,13,221000,5/10/2024,8:05,Transfer,5,5
+Female,Regular,Kitchen Consumption,24000,12,288000,5/10/2024,8:10,Qris,5,5
+Male,Member,Snack,7900,2,15800,5/10/2024,8:29,Transfer,5,4
+Male,Regular,Snack,9000,1,9000,5/10/2024,8:57,Cash,20,8
+Male,Regular,Bakery,21400,11,235400,5/10/2024,9:01,Card,15,6
+Male,Regular,Beverages,17000,2,34000,5/10/2024,9:33,Transfer,15,6
+Male,Member,Dessert,14400,10,144000,5/10/2024,9:41,Cash,15,6
+Female,Member,Snack,7700,13,100100,5/10/2024,9:42,Qris,15,6
+Male,Member,Snack,28000,2,56000,5/10/2024,9:43,Transfer,30,10
+Female,Member,Bakery,9800,11,107800,5/10/2024,9:59,Qris,30,9
+Male,Regular,Dairy Product,21200,6,127200,5/10/2024,10:05,Card,10,6
+Female,Member,Bakery,43000,10,430000,5/10/2024,10:07,Qris,15,5
+Female,Regular,Instant Food,3400,7,23800,5/10/2024,10:34,Transfer,30,9
+Male,Regular,Seafood,88700,11,975700,5/10/2024,10:44,Card,15,6
+Male,Regular,Seafood,44000,9,396000,5/10/2024,10:53,Card,15,6
+Male,Regular,Dessert,7400,4,29600,5/10/2024,11:04,Cash,30,10
+Male,Member,Kitchen Consumption,21300,9,191700,5/10/2024,11:20,Card,10,6
+Female,Member,Dessert,12300,4,49200,5/10/2024,11:28,Transfer,0,5
+Male,Member,Seafood,44000,8,352000,5/10/2024,11:31,Qris,10,6
+Male,Regular,Kitchen Consumption,9800,9,88200,5/10/2024,11:38,Cash,15,5
+Female,Member,Kitchen Consumption,13400,2,26800,5/10/2024,12:12,Cash,20,7
+Female,Regular,Beverages,11000,13,143000,5/10/2024,12:20,Card,30,9
+Female,Member,Fruits,9600,9,86400,5/10/2024,12:24,Card,10,6
+Male,Regular,Seafood,129300,12,1551600,5/10/2024,12:27,Transfer,5,5
+Male,Regular,Seafood,41900,1,41900,5/10/2024,12:37,Card,5,3
+Female,Regular,Bakery,9800,8,78400,5/10/2024,12:43,Card,10,5
+Female,Member,Fruits,8400,13,109200,5/10/2024,12:59,Qris,15,6
+Female,Regular,Bakery,12000,8,96000,5/10/2024,13:26,Transfer,30,9
+Female,Member,Beverages,8700,13,113100,5/10/2024,13:51,Cash,30,9
+Female,Member,Seafood,49400,8,395200,5/10/2024,13:53,Transfer,30,9
+Female,Regular,Snack,12000,10,120000,5/10/2024,13:55,Qris,10,5
+Female,Member,Snack,28000,9,252000,5/10/2024,13:58,Card,10,5
+Male,Member,Instant Food,7100,2,14200,5/10/2024,14:12,Card,5,5
+Female,Member,Kitchen Consumption,13100,1,13100,5/10/2024,14:25,Qris,5,5
+Female,Member,Dairy Product,22300,13,289900,5/10/2024,14:32,Qris,15,6
+Male,Member,Beverages,8300,4,33200,5/10/2024,14:44,Card,5,5
+Male,Regular,Instant Food,7350,10,73500,5/10/2024,14:50,Cash,10,6
+Female,Member,Seafood,44000,9,396000,5/10/2024,14:51,Cash,10,6
+Male,Regular,Bakery,13200,11,145200,5/10/2024,15:10,Qris,15,5
+Female,Regular,Dessert,19000,8,152000,5/10/2024,15:14,Transfer,20,7
+Male,Regular,Seafood,67800,10,678000,5/10/2024,15:37,Transfer,10,6
+Male,Member,Snack,28000,9,252000,5/10/2024,15:56,Qris,10,5
+Male,Regular,Seafood,69800,9,628200,5/10/2024,16:17,Cash,30,9
+Female,Regular,Dairy Product,25800,10,258000,5/10/2024,16:25,Cash,10,6
+Male,Regular,Dairy Product,24300,11,267300,5/10/2024,16:32,Cash,5,5
+Female,Regular,Snack,7700,9,69300,5/10/2024,16:43,Card,10,5
+Female,Regular,Instant Food,7100,8,56800,5/10/2024,16:44,Cash,10,5
+Male,Member,Dessert,17000,13,221000,5/10/2024,16:47,Cash,20,8
+Female,Regular,Seafood,67800,10,678000,5/10/2024,16:57,Qris,30,9
+Female,Regular,Dessert,17000,1,17000,5/10/2024,17:03,Card,15,5
+Female,Member,Fruits,4000,13,52000,5/10/2024,17:15,Card,10,5
+Male,Member,Beverages,17000,10,170000,5/10/2024,17:32,Qris,10,6
+Female,Member,Vegetables,15200,2,30400,5/10/2024,17:33,Qris,20,8
+Male,Member,Beverages,8300,4,33200,5/10/2024,17:51,Cash,30,9
+Female,Regular,Snack,7700,14,107800,5/10/2024,18:05,Transfer,15,6
+Male,Member,Dessert,7400,4,29600,5/10/2024,18:06,Transfer,0,4
+Male,Member,Dessert,7400,12,88800,5/10/2024,18:09,Cash,15,5
+Female,Member,Beverages,12100,4,48400,5/10/2024,18:17,Qris,5,3
+Male,Member,Fruits,6300,1,6300,5/10/2024,18:20,Qris,5,5
+Female,Regular,Bakery,24800,14,347200,5/10/2024,18:33,Qris,10,6
+Female,Member,Dessert,19000,2,38000,5/10/2024,18:34,Transfer,5,5
+Female,Member,Dairy Product,22300,12,267600,5/10/2024,18:43,Cash,20,8
+Male,Regular,Instant Food,7350,8,58800,5/10/2024,18:48,Card,10,5
+Female,Regular,Dairy Product,24300,13,315900,5/10/2024,18:58,Card,5,5
+Female,Member,Dessert,11000,11,121000,5/10/2024,19:12,Cash,15,6
+Male,Member,Snack,7700,2,15400,5/10/2024,19:17,Qris,20,7
+Male,Member,Bakery,12000,7,84000,5/10/2024,19:24,Card,5,5
+Female,Regular,Snack,7000,13,91000,5/10/2024,19:33,Cash,15,5
+Female,Regular,Meat,87900,8,703200,5/10/2024,19:53,Qris,10,6
+Male,Member,Fruits,4000,8,32000,5/10/2024,20:10,Cash,10,5
+Male,Member,Fruits,9500,10,95000,5/10/2024,20:15,Transfer,15,6
+Male,Member,Snack,7000,10,70000,5/10/2024,20:19,Cash,10,5
+Male,Member,Seafood,129300,6,775800,5/10/2024,20:27,Qris,15,6
+Female,Regular,Kitchen Consumption,21300,1,21300,5/10/2024,20:36,Transfer,0,4
+Female,Member,Beverages,14500,9,130500,5/10/2024,20:51,Qris,10,6
+Female,Member,Bakery,9800,6,58800,5/10/2024,20:53,Qris,15,6
+Female,Member,Seafood,44000,8,352000,5/10/2024,21:14,Cash,10,5
+Male,Regular,Meat,40200,2,80400,5/10/2024,21:30,Transfer,5,4
+Female,Regular,Kitchen Consumption,24000,13,312000,5/10/2024,21:38,Card,20,8
+Female,Regular,Fruits,8400,12,100800,5/10/2024,21:49,Transfer,15,6
+Female,Member,Dessert,7400,2,14800,5/11/2024,8:10,Qris,10,6
+Female,Regular,Bakery,7900,2,15800,5/11/2024,8:16,Cash,5,3
+Male,Member,Seafood,129300,12,1551600,5/11/2024,8:24,Transfer,15,6
+Male,Member,Seafood,44000,1,44000,5/11/2024,8:33,Qris,5,5
+Female,Member,Bakery,8000,6,48000,5/11/2024,9:15,Cash,10,6
+Female,Member,Dessert,8700,14,121800,5/11/2024,9:23,Transfer,20,7
+Male,Member,Fruits,12300,8,98400,5/11/2024,9:42,Qris,15,5
+Male,Member,Seafood,90900,13,1181700,5/11/2024,9:56,Transfer,15,5
+Male,Member,Meat,89600,2,179200,5/11/2024,10:05,Card,5,4
+Female,Regular,Dessert,8600,11,94600,5/11/2024,10:06,Qris,15,6
+Male,Regular,Fruits,8900,11,97900,5/11/2024,10:15,Transfer,15,6
+Male,Regular,Vegetables,16900,9,152100,5/11/2024,10:17,Qris,20,7
+Female,Regular,Snack,7600,11,83600,5/11/2024,10:35,Cash,20,7
+Male,Regular,Kitchen Consumption,13400,8,107200,5/11/2024,10:46,Card,10,6
+Male,Regular,Meat,80600,11,886600,5/11/2024,11:13,Transfer,15,6
+Male,Regular,Bakery,22300,9,200700,5/11/2024,11:25,Cash,30,10
+Male,Regular,Seafood,67800,10,678000,5/11/2024,11:43,Card,15,5
+Female,Member,Kitchen Consumption,2200,1,2200,5/11/2024,11:45,Card,5,4
+Male,Regular,Snack,8300,8,66400,5/11/2024,11:49,Qris,10,5
+Male,Regular,Snack,12000,1,12000,5/11/2024,12:00,Card,10,6
+Male,Member,Kitchen Consumption,6500,9,58500,5/11/2024,12:16,Qris,15,5
+Female,Regular,Dairy Product,23300,13,302900,5/11/2024,12:19,Card,20,8
+Male,Member,Bakery,9800,1,9800,5/11/2024,12:24,Card,0,5
+Female,Member,Seafood,80700,10,807000,5/11/2024,12:32,Card,30,9
+Male,Member,Meat,56000,3,168000,5/11/2024,12:45,Transfer,0,4
+Female,Member,Meat,56000,8,448000,5/11/2024,12:54,Card,10,6
+Male,Member,Kitchen Consumption,21300,1,21300,5/11/2024,13:01,Transfer,0,3
+Male,Regular,Dairy Product,34000,7,238000,5/11/2024,13:05,Cash,5,4
+Female,Member,Instant Food,10300,9,92700,5/11/2024,13:12,Transfer,10,6
+Female,Member,Fruits,13100,5,65500,5/11/2024,13:32,Card,30,9
+Female,Regular,Kitchen Consumption,13100,8,104800,5/11/2024,13:38,Card,10,6
+Male,Regular,Fruits,12300,8,98400,5/11/2024,13:48,Qris,15,5
+Female,Member,Beverages,6800,12,81600,5/11/2024,14:05,Transfer,10,5
+Male,Regular,Dairy Product,32800,7,229600,5/11/2024,14:16,Card,5,4
+Female,Regular,Beverages,17000,9,153000,5/11/2024,14:40,Card,10,5
+Male,Member,Bakery,43000,11,473000,5/11/2024,14:45,Card,15,5
+Male,Regular,Instant Food,37900,12,454800,5/11/2024,14:47,Card,30,9
+Male,Member,Seafood,41900,12,502800,5/11/2024,14:48,Card,15,5
+Male,Regular,Meat,66300,10,663000,5/11/2024,14:49,Cash,15,6
+Male,Regular,Bakery,43000,1,43000,5/11/2024,14:54,Cash,15,6
+Female,Member,Kitchen Consumption,29200,10,292000,5/11/2024,14:57,Card,10,6
+Female,Member,Bakery,21400,11,235400,5/11/2024,15:18,Transfer,30,9
+Male,Member,Beverages,6800,8,54400,5/11/2024,15:31,Transfer,15,5
+Female,Regular,Vegetables,11700,10,117000,5/11/2024,15:49,Transfer,10,5
+Female,Regular,Instant Food,10300,7,72100,5/11/2024,15:51,Qris,10,5
+Male,Member,Instant Food,10300,6,61800,5/11/2024,15:52,Qris,0,4
+Female,Member,Kitchen Consumption,9300,1,9300,5/11/2024,15:57,Card,5,4
+Female,Regular,Meat,37800,13,491400,5/11/2024,16:04,Card,15,6
+Male,Member,Seafood,44000,9,396000,5/11/2024,16:17,Card,15,5
+Female,Regular,Vegetables,12000,10,120000,5/11/2024,16:20,Qris,10,6
+Female,Regular,Fruits,6300,8,50400,5/11/2024,16:34,Qris,20,7
+Male,Regular,Instant Food,6500,12,78000,5/11/2024,16:39,Card,15,6
+Female,Member,Dairy Product,32800,8,262400,5/11/2024,16:40,Qris,10,5
+Female,Member,Beverages,14500,8,116000,5/11/2024,16:44,Card,15,6
+Female,Member,Dairy Product,25800,9,232200,5/11/2024,16:55,Qris,10,6
+Female,Regular,Vegetables,11200,8,89600,5/11/2024,17:29,Transfer,10,6
+Male,Regular,Fruits,6300,6,37800,5/11/2024,17:31,Qris,10,5
+Female,Regular,Meat,122400,2,244800,5/11/2024,17:33,Cash,10,5
+Male,Regular,Beverages,6800,9,61200,5/11/2024,17:49,Card,30,9
+Female,Member,Fruits,10000,14,140000,5/11/2024,17:55,Qris,15,5
+Male,Regular,Fruits,9600,13,124800,5/11/2024,18:25,Card,15,6
+Female,Regular,Fruits,7500,8,60000,5/11/2024,19:08,Transfer,10,6
+Female,Member,Kitchen Consumption,13100,1,13100,5/11/2024,19:10,Qris,10,5
+Male,Member,Dessert,7400,7,51800,5/11/2024,19:15,Cash,10,5
+Male,Member,Dessert,8700,12,104400,5/11/2024,19:48,Qris,15,6
+Male,Member,Dessert,8600,1,8600,5/11/2024,20:04,Card,15,6
+Female,Regular,Instant Food,6500,12,78000,5/11/2024,20:11,Transfer,15,5
+Male,Member,Seafood,41200,12,494400,5/11/2024,20:16,Cash,20,7
+Female,Regular,Bakery,12100,7,84700,5/11/2024,20:28,Cash,5,5
+Male,Regular,Dessert,7400,8,59200,5/11/2024,20:29,Cash,10,5
+Male,Member,Vegetables,11200,6,67200,5/11/2024,20:35,Cash,5,4
+Female,Member,Dessert,11000,12,132000,5/11/2024,20:45,Card,15,6
+Female,Member,Dessert,21000,4,84000,5/11/2024,20:59,Cash,0,3
+Male,Regular,Dairy Product,42000,5,210000,5/11/2024,21:04,Cash,5,4
+Male,Regular,Meat,47000,8,376000,5/11/2024,21:06,Card,20,7
+Male,Regular,Instant Food,9800,3,29400,5/11/2024,21:09,Card,20,7
+Male,Regular,Dairy Product,22300,1,22300,5/11/2024,21:10,Qris,0,4
+Male,Member,Beverages,17000,8,136000,5/11/2024,21:17,Card,10,5
+Female,Regular,Instant Food,10300,5,51500,5/11/2024,21:48,Transfer,10,6
+Male,Regular,Seafood,41900,13,544700,5/11/2024,21:52,Cash,10,6
+Female,Regular,Instant Food,7100,2,14200,5/12/2024,8:07,Card,15,6
+Male,Regular,Dessert,8700,13,113100,5/12/2024,8:17,Cash,30,9
+Female,Member,Snack,23000,14,322000,5/12/2024,8:19,Cash,10,5
+Female,Regular,Snack,28000,1,28000,5/12/2024,8:32,Card,20,8
+Female,Member,Snack,23000,1,23000,5/12/2024,8:38,Cash,5,5
+Female,Member,Kitchen Consumption,2200,11,24200,5/12/2024,8:40,Card,20,8
+Male,Member,Instant Food,6900,5,34500,5/12/2024,8:53,Transfer,10,6
+Male,Member,Instant Food,3400,9,30600,5/12/2024,8:55,Cash,15,5
+Female,Regular,Snack,7600,12,91200,5/12/2024,9:01,Card,15,6
+Female,Member,Seafood,41900,13,544700,5/12/2024,9:10,Cash,5,5
+Male,Member,Meat,122400,13,1591200,5/12/2024,9:12,Qris,20,7
+Female,Member,Meat,37800,12,453600,5/12/2024,9:20,Card,5,5
+Female,Regular,Seafood,41200,11,453200,5/12/2024,9:25,Card,30,10
+Male,Member,Dessert,8600,12,103200,5/12/2024,9:44,Card,30,9
+Male,Regular,Seafood,88700,14,1241800,5/12/2024,10:04,Qris,10,6
+Female,Member,Seafood,41900,2,83800,5/12/2024,10:13,Cash,15,6
+Female,Member,Snack,7700,11,84700,5/12/2024,10:30,Transfer,20,7
+Female,Member,Kitchen Consumption,29200,9,262800,5/12/2024,10:51,Qris,10,6
+Male,Regular,Dessert,21000,6,126000,5/12/2024,11:04,Transfer,5,3
+Female,Regular,Bakery,12000,2,24000,5/12/2024,11:15,Qris,0,3
+Female,Regular,Beverages,8300,13,107900,5/12/2024,11:24,Transfer,15,6
+Female,Member,Seafood,80700,13,1049100,5/12/2024,11:26,Card,15,5
+Female,Regular,Fruits,9500,12,114000,5/12/2024,11:50,Qris,20,8
+Female,Member,Seafood,44000,13,572000,5/12/2024,12:00,Qris,20,8
+Male,Regular,Bakery,22300,10,223000,5/12/2024,12:07,Qris,10,6
+Male,Member,Vegetables,16900,2,33800,5/12/2024,12:32,Card,15,6
+Female,Regular,Instant Food,7350,9,66150,5/12/2024,12:44,Qris,20,8
+Male,Member,Instant Food,7100,11,78100,5/12/2024,12:45,Qris,15,5
+Male,Member,Snack,28000,3,84000,5/12/2024,12:56,Qris,5,5
+Male,Regular,Fruits,9500,4,38000,5/12/2024,12:58,Transfer,0,4
+Female,Member,Beverages,12100,8,96800,5/12/2024,13:19,Cash,15,5
+Male,Member,Snack,28000,14,392000,5/12/2024,13:30,Transfer,15,6
+Female,Member,Snack,28000,13,364000,5/12/2024,13:33,Transfer,20,8
+Male,Regular,Kitchen Consumption,10200,5,51000,5/12/2024,13:49,Qris,10,6
+Male,Regular,Dairy Product,32800,1,32800,5/12/2024,14:15,Cash,0,3
+Female,Member,Snack,23000,13,299000,5/12/2024,14:25,Qris,30,9
+Female,Member,Dessert,7400,8,59200,5/12/2024,14:27,Transfer,10,6
+Male,Member,Dairy Product,24300,7,170100,5/12/2024,14:31,Transfer,5,5
+Male,Member,Snack,12000,9,108000,5/12/2024,14:32,Qris,10,6
+Female,Regular,Vegetables,9200,9,82800,5/12/2024,15:05,Transfer,10,6
+Male,Member,Dairy Product,32800,13,426400,5/12/2024,15:26,Transfer,15,6
+Female,Member,Beverages,17000,10,170000,5/12/2024,15:29,Card,20,7
+Female,Member,Bakery,8000,12,96000,5/12/2024,16:08,Cash,10,6
+Male,Regular,Seafood,44000,10,440000,5/12/2024,16:20,Qris,20,7
+Female,Regular,Bakery,22300,11,245300,5/12/2024,16:25,Card,15,6
+Male,Member,Meat,89600,7,627200,5/12/2024,16:37,Cash,10,5
+Male,Member,Fruits,13100,13,170300,5/12/2024,16:59,Transfer,15,6
+Female,Regular,Bakery,12100,4,48400,5/12/2024,17:01,Qris,10,6
+Male,Member,Snack,7900,8,63200,5/12/2024,17:29,Cash,10,6
+Female,Member,Dairy Product,22300,14,312200,5/12/2024,17:34,Qris,15,5
+Male,Member,Beverages,12100,8,96800,5/12/2024,17:41,Transfer,15,6
+Female,Regular,Bakery,13200,1,13200,5/12/2024,17:49,Card,30,9
+Male,Member,Bakery,22300,1,22300,5/12/2024,18:05,Cash,20,8
+Male,Member,Instant Food,6900,3,20700,5/12/2024,18:18,Transfer,15,6
+Female,Member,Vegetables,63800,8,510400,5/12/2024,18:19,Transfer,15,5
+Female,Member,Dessert,17000,14,238000,5/12/2024,18:36,Card,15,5
+Male,Member,Beverages,17000,13,221000,5/12/2024,18:38,Cash,15,6
+Female,Regular,Seafood,44000,2,88000,5/12/2024,18:43,Cash,20,8
+Female,Member,Bakery,9800,12,117600,5/12/2024,18:50,Card,30,9
+Female,Regular,Instant Food,37900,13,492700,5/12/2024,18:51,Transfer,20,7
+Male,Member,Fruits,6300,3,18900,5/12/2024,18:52,Transfer,20,8
+Male,Member,Seafood,67800,12,813600,5/12/2024,18:53,Cash,20,7
+Female,Member,Vegetables,16900,13,219700,5/12/2024,18:56,Transfer,15,6
+Female,Regular,Meat,47000,11,517000,5/12/2024,19:02,Qris,15,5
+Female,Member,Seafood,69800,11,767800,5/12/2024,19:05,Card,30,9
+Male,Member,Seafood,129300,9,1163700,5/12/2024,19:53,Transfer,15,5
+Male,Regular,Seafood,88700,10,887000,5/12/2024,20:03,Cash,10,6
+Female,Member,Meat,80600,10,806000,5/12/2024,20:05,Card,10,6
+Male,Member,Bakery,22300,9,200700,5/12/2024,20:15,Qris,15,6
+Female,Member,Dessert,14400,7,100800,5/12/2024,20:19,Qris,5,3
+Female,Member,Dairy Product,42000,9,378000,5/12/2024,20:24,Qris,30,9
+Male,Member,Vegetables,15200,12,182400,5/12/2024,20:31,Transfer,15,6
+Male,Regular,Beverages,6800,9,61200,5/12/2024,20:50,Cash,30,9
+Male,Regular,Snack,7700,8,61600,5/12/2024,21:03,Card,10,6
+Male,Regular,Snack,7600,9,68400,5/12/2024,21:07,Transfer,10,5
+Female,Member,Kitchen Consumption,21300,2,42600,5/12/2024,21:19,Qris,0,5
+Female,Member,Beverages,6800,8,54400,5/12/2024,21:20,Qris,30,9
+Female,Regular,Dairy Product,24300,8,194400,5/12/2024,21:36,Transfer,10,6
+Male,Regular,Dessert,14400,11,158400,5/12/2024,21:40,Qris,20,8
+Male,Member,Vegetables,12000,5,60000,5/12/2024,21:42,Qris,10,6
+Male,Regular,Dairy Product,22300,11,245300,5/13/2024,8:19,Cash,20,8
+Female,Member,Vegetables,17600,2,35200,5/13/2024,8:21,Qris,0,5
+Female,Regular,Dessert,9300,11,102300,5/13/2024,8:45,Cash,15,6
+Male,Regular,Vegetables,12000,11,132000,5/13/2024,8:47,Cash,15,6
+Male,Regular,Vegetables,29700,3,89100,5/13/2024,8:48,Transfer,10,5
+Female,Regular,Dessert,17000,11,187000,5/13/2024,8:54,Card,20,8
+Female,Regular,Dairy Product,34000,14,476000,5/13/2024,9:28,Qris,30,9
+Male,Regular,Beverages,17000,14,238000,5/13/2024,9:37,Cash,20,7
+Female,Member,Seafood,41200,8,329600,5/13/2024,9:40,Cash,10,5
+Male,Member,Dessert,21000,5,105000,5/13/2024,9:41,Cash,10,6
+Male,Member,Dairy Product,24300,10,243000,5/13/2024,9:52,Qris,20,8
+Female,Member,Meat,56000,9,504000,5/13/2024,10:12,Transfer,10,5
+Female,Member,Snack,12000,7,84000,5/13/2024,10:13,Qris,10,5
+Female,Regular,Kitchen Consumption,2200,8,17600,5/13/2024,10:24,Card,20,8
+Female,Regular,Kitchen Consumption,24000,14,336000,5/13/2024,10:26,Transfer,20,8
+Male,Regular,Meat,47000,8,376000,5/13/2024,10:31,Qris,10,6
+Male,Regular,Dessert,8700,5,43500,5/13/2024,10:48,Transfer,10,5
+Male,Regular,Dairy Product,31300,12,375600,5/13/2024,10:52,Transfer,20,7
+Male,Regular,Bakery,9800,12,117600,5/13/2024,10:54,Transfer,15,6
+Male,Member,Dessert,8600,1,8600,5/13/2024,11:01,Card,10,6
+Female,Regular,Dairy Product,43700,14,611800,5/13/2024,11:16,Cash,15,5
+Male,Member,Fruits,8400,2,16800,5/13/2024,11:18,Qris,0,4
+Female,Member,Kitchen Consumption,2200,3,6600,5/13/2024,11:20,Transfer,30,10
+Male,Member,Snack,7000,9,63000,5/13/2024,11:31,Qris,10,5
+Female,Regular,Seafood,88700,12,1064400,5/13/2024,11:42,Cash,15,6
+Female,Regular,Vegetables,11700,1,11700,5/13/2024,11:50,Transfer,5,3
+Male,Member,Instant Food,37900,13,492700,5/13/2024,11:56,Cash,20,8
+Male,Regular,Snack,9000,2,18000,5/13/2024,11:57,Transfer,10,5
+Female,Member,Dairy Product,22300,8,178400,5/13/2024,12:37,Transfer,15,6
+Female,Regular,Fruits,10000,11,110000,5/13/2024,12:41,Transfer,15,6
+Female,Regular,Instant Food,37900,10,379000,5/13/2024,12:49,Cash,10,6
+Male,Member,Seafood,44000,13,572000,5/13/2024,13:11,Qris,30,9
+Female,Regular,Bakery,7900,11,86900,5/13/2024,13:35,Cash,20,7
+Male,Member,Bakery,24800,5,124000,5/13/2024,13:43,Qris,10,6
+Female,Regular,Seafood,129300,8,1034400,5/13/2024,14:46,Transfer,15,6
+Female,Regular,Dessert,17000,1,17000,5/13/2024,14:52,Card,20,8
+Female,Regular,Kitchen Consumption,6500,11,71500,5/13/2024,15:07,Transfer,15,5
+Male,Member,Kitchen Consumption,29200,11,321200,5/13/2024,15:12,Cash,5,5
+Male,Regular,Seafood,41900,10,419000,5/13/2024,15:19,Card,10,5
+Male,Regular,Dairy Product,24300,14,340200,5/13/2024,15:30,Qris,30,9
+Female,Member,Bakery,24800,2,49600,5/13/2024,15:50,Card,10,6
+Female,Regular,Kitchen Consumption,24000,7,168000,5/13/2024,15:52,Cash,0,5
+Male,Member,Dairy Product,24300,2,48600,5/13/2024,15:54,Cash,5,3
+Female,Regular,Snack,7900,1,7900,5/13/2024,16:03,Transfer,5,5
+Male,Member,Fruits,10000,1,10000,5/13/2024,16:14,Transfer,30,9
+Male,Member,Dessert,12300,8,98400,5/13/2024,16:23,Cash,10,5
+Male,Regular,Fruits,8400,5,42000,5/13/2024,16:26,Qris,0,3
+Male,Regular,Dessert,21000,8,168000,5/13/2024,16:33,Qris,10,6
+Female,Regular,Kitchen Consumption,21300,7,149100,5/13/2024,16:46,Transfer,5,5
+Female,Member,Dessert,21000,6,126000,5/13/2024,16:51,Qris,10,6
+Male,Regular,Bakery,7900,10,79000,5/13/2024,17:04,Qris,20,7
+Female,Member,Meat,78900,11,867900,5/13/2024,17:13,Cash,20,8
+Female,Member,Meat,78900,7,552300,5/13/2024,17:17,Card,10,5
+Female,Regular,Dairy Product,25800,9,232200,5/13/2024,17:21,Cash,10,6
+Male,Regular,Beverages,17000,11,187000,5/13/2024,17:25,Card,30,10
+Male,Regular,Snack,28000,1,28000,5/13/2024,17:37,Qris,0,5
+Female,Regular,Snack,12000,8,96000,5/13/2024,18:31,Cash,10,6
+Female,Regular,Dairy Product,42000,14,588000,5/13/2024,18:34,Cash,15,6
+Female,Member,Snack,7700,7,53900,5/13/2024,18:45,Cash,20,7
+Male,Regular,Kitchen Consumption,13100,10,131000,5/13/2024,18:50,Card,10,6
+Female,Regular,Dairy Product,32800,5,164000,5/13/2024,19:05,Qris,5,4
+Male,Member,Seafood,69800,2,139600,5/13/2024,19:15,Transfer,15,5
+Male,Member,Snack,9000,7,63000,5/13/2024,19:22,Qris,15,6
+Male,Regular,Bakery,43000,7,301000,5/13/2024,19:30,Cash,0,3
+Female,Member,Fruits,10000,10,100000,5/13/2024,19:53,Card,30,9
+Female,Member,Dairy Product,21200,2,42400,5/13/2024,19:56,Cash,5,4
+Female,Regular,Kitchen Consumption,24000,8,192000,5/13/2024,19:59,Cash,10,6
+Female,Regular,Seafood,88700,8,709600,5/13/2024,20:12,Cash,15,6
+Female,Member,Snack,23000,7,161000,5/13/2024,20:41,Cash,15,5
+Female,Member,Dessert,8600,1,8600,5/13/2024,20:42,Card,0,5
+Female,Regular,Snack,7700,6,46200,5/13/2024,20:49,Card,10,6
+Male,Regular,Meat,78900,8,631200,5/13/2024,20:54,Cash,15,6
+Female,Member,Beverages,12100,11,133100,5/13/2024,21:04,Card,10,6
+Male,Regular,Fruits,10000,10,100000,5/13/2024,21:05,Qris,30,10
+Female,Regular,Kitchen Consumption,2200,13,28600,5/13/2024,21:06,Qris,5,5
+Male,Regular,Seafood,69800,9,628200,5/13/2024,21:11,Transfer,10,6
+Female,Regular,Fruits,4000,2,8000,5/13/2024,21:13,Card,10,6
+Male,Regular,Vegetables,29700,14,415800,5/13/2024,21:21,Transfer,15,6
+Female,Member,Beverages,8700,7,60900,5/13/2024,21:34,Qris,0,5
+Female,Member,Seafood,80700,8,645600,5/13/2024,21:45,Cash,15,6
+Male,Member,Seafood,90900,9,818100,5/14/2024,8:16,Cash,15,6
+Male,Regular,Beverages,17000,10,170000,5/14/2024,8:18,Cash,15,6
+Female,Regular,Instant Food,9800,2,19600,5/14/2024,8:43,Card,0,4
+Male,Member,Dessert,19000,9,171000,5/14/2024,8:57,Transfer,10,6
+Male,Regular,Bakery,21400,9,192600,5/14/2024,9:01,Qris,10,5
+Male,Member,Seafood,44000,5,220000,5/14/2024,9:10,Cash,0,4
+Male,Member,Dessert,11000,8,88000,5/14/2024,9:11,Card,15,5
+Male,Regular,Fruits,9500,6,57000,5/14/2024,9:12,Card,5,5
+Male,Regular,Kitchen Consumption,10200,8,81600,5/14/2024,9:20,Qris,10,5
+Male,Member,Dessert,8600,11,94600,5/14/2024,9:22,Cash,15,6
+Male,Member,Dairy Product,34000,13,442000,5/14/2024,9:29,Qris,30,10
+Male,Member,Snack,12000,10,120000,5/14/2024,9:35,Transfer,20,8
+Male,Member,Meat,80600,9,725400,5/14/2024,9:39,Cash,10,5
+Female,Member,Snack,12000,6,72000,5/14/2024,9:56,Cash,0,5
+Male,Regular,Beverages,14500,10,145000,5/14/2024,10:04,Transfer,20,8
+Male,Regular,Kitchen Consumption,13400,12,160800,5/14/2024,10:27,Transfer,15,6
+Male,Member,Fruits,13100,5,65500,5/14/2024,10:37,Transfer,0,4
+Female,Member,Dessert,12300,2,24600,5/14/2024,10:51,Card,10,5
+Female,Member,Kitchen Consumption,9800,8,78400,5/14/2024,10:56,Qris,10,5
+Male,Member,Beverages,17800,10,178000,5/14/2024,11:04,Qris,30,9
+Male,Regular,Meat,87900,12,1054800,5/14/2024,11:11,Card,15,6
+Female,Regular,Kitchen Consumption,9300,9,83700,5/14/2024,11:18,Cash,10,5
+Female,Member,Seafood,88700,12,1064400,5/14/2024,11:32,Transfer,20,7
+Female,Regular,Dessert,7400,9,66600,5/14/2024,11:39,Transfer,10,5
+Female,Member,Seafood,49400,5,247000,5/14/2024,11:51,Qris,10,5
+Male,Regular,Seafood,69800,5,349000,5/14/2024,11:57,Cash,10,5
+Male,Regular,Instant Food,7350,8,58800,5/14/2024,12:25,Qris,10,5
+Female,Regular,Bakery,8000,11,88000,5/14/2024,12:36,Qris,10,6
+Male,Member,Snack,12000,6,72000,5/14/2024,12:50,Card,10,6
+Female,Regular,Snack,7700,11,84700,5/14/2024,12:54,Card,30,10
+Female,Member,Kitchen Consumption,29200,9,262800,5/14/2024,13:03,Card,10,6
+Male,Member,Snack,7700,11,84700,5/14/2024,13:04,Transfer,20,7
+Male,Member,Meat,87900,12,1054800,5/14/2024,13:38,Qris,5,4
+Male,Regular,Vegetables,11200,7,78400,5/14/2024,14:05,Transfer,30,9
+Female,Member,Meat,89600,13,1164800,5/14/2024,14:12,Qris,30,9
+Male,Regular,Vegetables,30700,4,122800,5/14/2024,14:18,Transfer,0,5
+Female,Member,Instant Food,15800,5,79000,5/14/2024,14:27,Qris,5,5
+Male,Regular,Seafood,69800,11,767800,5/14/2024,14:32,Qris,30,9
+Female,Regular,Seafood,88700,13,1153100,5/14/2024,14:40,Qris,15,6
+Female,Regular,Seafood,41900,13,544700,5/14/2024,14:48,Card,30,9
+Female,Regular,Instant Food,7350,12,88200,5/14/2024,14:52,Qris,20,8
+Male,Regular,Seafood,41900,8,335200,5/14/2024,15:00,Cash,10,5
+Male,Regular,Snack,12000,10,120000,5/14/2024,15:13,Cash,10,5
+Male,Regular,Seafood,88700,13,1153100,5/14/2024,15:20,Qris,15,6
+Male,Member,Vegetables,30700,11,337700,5/14/2024,15:25,Cash,15,5
+Female,Regular,Seafood,67800,12,813600,5/14/2024,15:48,Cash,15,5
+Female,Regular,Vegetables,15200,14,212800,5/14/2024,15:50,Transfer,15,6
+Male,Member,Instant Food,6500,12,78000,5/14/2024,15:55,Cash,15,5
+Male,Regular,Seafood,41900,2,83800,5/14/2024,16:05,Cash,5,4
+Male,Regular,Snack,23000,2,46000,5/14/2024,16:19,Qris,5,5
+Male,Regular,Dairy Product,32800,1,32800,5/14/2024,16:24,Card,0,5
+Female,Regular,Snack,7000,9,63000,5/14/2024,16:36,Cash,15,5
+Female,Member,Dairy Product,32800,8,262400,5/14/2024,16:45,Transfer,15,6
+Female,Member,Dessert,19000,10,190000,5/14/2024,17:02,Cash,10,5
+Female,Member,Instant Food,10300,11,113300,5/14/2024,17:41,Card,30,10
+Female,Member,Vegetables,29700,1,29700,5/14/2024,18:02,Card,0,4
+Female,Regular,Instant Food,6900,10,69000,5/14/2024,18:08,Card,10,6
+Male,Member,Snack,7600,2,15200,5/14/2024,18:24,Card,5,5
+Male,Member,Vegetables,63800,9,574200,5/14/2024,18:26,Cash,30,9
+Female,Regular,Dairy Product,21200,11,233200,5/14/2024,18:30,Qris,10,5
+Male,Member,Vegetables,16900,1,16900,5/14/2024,18:43,Transfer,30,10
+Male,Member,Instant Food,10300,12,123600,5/14/2024,18:48,Card,15,5
+Female,Regular,Dessert,19000,9,171000,5/14/2024,19:00,Cash,15,6
+Female,Regular,Bakery,24800,9,223200,5/14/2024,19:02,Transfer,15,6
+Male,Member,Fruits,9600,8,76800,5/14/2024,19:21,Qris,10,6
+Male,Member,Vegetables,9200,6,55200,5/14/2024,19:25,Qris,5,4
+Male,Regular,Instant Food,3400,11,37400,5/14/2024,19:30,Transfer,5,3
+Male,Member,Dessert,11000,11,121000,5/14/2024,19:43,Cash,20,7
+Female,Regular,Seafood,69800,9,628200,5/14/2024,19:47,Qris,15,6
+Male,Member,Fruits,8400,11,92400,5/14/2024,19:55,Card,30,9
+Male,Member,Vegetables,16900,11,185900,5/14/2024,20:04,Card,15,6
+Female,Member,Fruits,8900,10,89000,5/14/2024,20:21,Cash,10,6
+Male,Member,Instant Food,15800,3,47400,5/14/2024,20:41,Cash,15,6
+Male,Regular,Vegetables,9200,2,18400,5/14/2024,20:47,Transfer,5,3
+Male,Regular,Beverages,7800,12,93600,5/14/2024,20:54,Card,30,9
+Female,Regular,Fruits,9500,2,19000,5/14/2024,20:55,Card,5,5
+Female,Regular,Dairy Product,24300,3,72900,5/14/2024,20:56,Transfer,15,5
+Male,Regular,Snack,7000,3,21000,5/14/2024,21:11,Cash,30,10
+Male,Member,Instant Food,7100,11,78100,5/14/2024,21:16,Card,15,5
+Male,Member,Fruits,7500,8,60000,5/14/2024,21:29,Card,10,5
+Female,Regular,Vegetables,29700,9,267300,5/15/2024,8:03,Qris,10,6
+Male,Regular,Meat,78900,10,789000,5/15/2024,8:06,Cash,15,6
+Female,Member,Meat,78900,12,946800,5/15/2024,8:28,Qris,15,6
+Female,Regular,Kitchen Consumption,29200,10,292000,5/15/2024,8:34,Qris,30,9
+Female,Regular,Seafood,67800,2,135600,5/15/2024,8:50,Cash,0,5
+Female,Regular,Dessert,21000,9,189000,5/15/2024,9:27,Card,15,5
+Male,Member,Snack,7700,12,92400,5/15/2024,9:47,Cash,30,9
+Female,Member,Vegetables,12000,12,144000,5/15/2024,9:57,Cash,15,5
+Female,Regular,Kitchen Consumption,24000,4,96000,5/15/2024,10:01,Cash,5,4
+Female,Regular,Meat,47000,13,611000,5/15/2024,10:02,Transfer,30,9
+Female,Member,Kitchen Consumption,13400,12,160800,5/15/2024,10:08,Qris,30,9
+Male,Member,Snack,7000,8,56000,5/15/2024,10:11,Transfer,20,7
+Female,Regular,Bakery,21400,4,85600,5/15/2024,10:32,Transfer,0,5
+Male,Member,Fruits,7500,1,7500,5/15/2024,10:39,Qris,20,8
+Female,Regular,Meat,78900,10,789000,5/15/2024,10:47,Cash,10,6
+Male,Member,Beverages,6800,10,68000,5/15/2024,10:56,Qris,30,9
+Female,Regular,Fruits,9500,4,38000,5/15/2024,11:02,Qris,5,5
+Female,Member,Bakery,12000,13,156000,5/15/2024,11:09,Cash,15,6
+Male,Member,Bakery,13200,14,184800,5/15/2024,11:46,Transfer,15,6
+Male,Regular,Snack,12000,14,168000,5/15/2024,12:00,Qris,30,9
+Male,Member,Kitchen Consumption,29200,2,58400,5/15/2024,12:22,Transfer,30,9
+Male,Regular,Snack,7700,8,61600,5/15/2024,12:34,Transfer,10,5
+Female,Member,Vegetables,63800,12,765600,5/15/2024,12:36,Transfer,15,6
+Male,Regular,Bakery,9800,8,78400,5/15/2024,12:56,Cash,15,5
+Male,Regular,Kitchen Consumption,21300,1,21300,5/15/2024,13:20,Qris,0,5
+Male,Regular,Kitchen Consumption,9300,11,102300,5/15/2024,13:26,Card,30,9
+Male,Regular,Beverages,12100,7,84700,5/15/2024,13:46,Qris,10,5
+Male,Member,Kitchen Consumption,24000,12,288000,5/15/2024,14:05,Qris,30,10
+Male,Regular,Meat,47000,9,423000,5/15/2024,14:11,Qris,10,5
+Male,Member,Dairy Product,32800,13,426400,5/15/2024,14:13,Transfer,10,5
+Male,Regular,Vegetables,29700,14,415800,5/15/2024,14:17,Card,15,6
+Male,Regular,Kitchen Consumption,2200,8,17600,5/15/2024,14:41,Qris,15,6
+Female,Member,Seafood,44000,6,264000,5/15/2024,14:44,Card,5,4
+Female,Regular,Seafood,41200,10,412000,5/15/2024,14:49,Qris,15,6
+Female,Member,Instant Food,3400,13,44200,5/15/2024,15:09,Cash,15,6
+Female,Member,Vegetables,16900,13,219700,5/15/2024,15:14,Card,15,6
+Female,Member,Seafood,44000,5,220000,5/15/2024,15:43,Cash,0,3
+Female,Member,Kitchen Consumption,2200,8,17600,5/15/2024,15:48,Qris,10,5
+Female,Member,Seafood,69800,4,279200,5/15/2024,15:52,Qris,10,6
+Male,Regular,Dessert,11000,14,154000,5/15/2024,16:00,Cash,15,6
+Female,Regular,Kitchen Consumption,13400,2,26800,5/15/2024,16:02,Cash,10,5
+Female,Member,Meat,47000,3,141000,5/15/2024,16:06,Card,0,5
+Male,Member,Meat,37800,12,453600,5/15/2024,16:14,Card,20,8
+Female,Member,Beverages,6800,12,81600,5/15/2024,16:15,Transfer,30,9
+Female,Regular,Kitchen Consumption,2200,9,19800,5/15/2024,16:21,Cash,10,5
+Male,Member,Beverages,14500,10,145000,5/15/2024,16:35,Transfer,10,5
+Female,Regular,Meat,80600,6,483600,5/15/2024,16:37,Cash,5,5
+Male,Regular,Bakery,9800,10,98000,5/15/2024,16:40,Card,15,6
+Male,Regular,Kitchen Consumption,9800,7,68600,5/15/2024,16:42,Transfer,5,4
+Female,Member,Beverages,17800,9,160200,5/15/2024,16:47,Card,15,5
+Female,Regular,Kitchen Consumption,6500,1,6500,5/15/2024,16:58,Cash,30,9
+Female,Member,Dessert,21000,3,63000,5/15/2024,17:00,Qris,10,6
+Male,Regular,Bakery,12100,9,108900,5/15/2024,17:02,Qris,10,6
+Male,Member,Meat,89600,8,716800,5/15/2024,17:19,Cash,15,6
+Female,Regular,Instant Food,7100,10,71000,5/15/2024,17:26,Qris,10,5
+Male,Member,Snack,8300,5,41500,5/15/2024,17:40,Qris,5,3
+Female,Member,Snack,12000,8,96000,5/15/2024,17:42,Transfer,10,6
+Male,Regular,Dessert,8700,7,60900,5/15/2024,18:14,Transfer,15,6
+Female,Member,Kitchen Consumption,13400,6,80400,5/15/2024,18:17,Qris,10,5
+Female,Regular,Vegetables,15200,8,121600,5/15/2024,18:51,Qris,10,6
+Female,Regular,Beverages,7800,11,85800,5/15/2024,18:58,Transfer,20,8
+Female,Member,Dessert,9300,14,130200,5/15/2024,19:02,Transfer,15,5
+Female,Member,Snack,7900,11,86900,5/15/2024,19:32,Card,10,5
+Female,Member,Bakery,21400,8,171200,5/15/2024,19:43,Transfer,30,9
+Male,Member,Beverages,8700,10,87000,5/15/2024,19:49,Cash,30,9
+Male,Regular,Bakery,7900,8,63200,5/15/2024,20:08,Transfer,15,6
+Female,Member,Beverages,14500,12,174000,5/15/2024,20:16,Qris,15,6
+Female,Member,Dairy Product,25800,2,51600,5/15/2024,20:21,Cash,15,6
+Female,Regular,Fruits,13100,8,104800,5/15/2024,20:36,Cash,15,6
+Male,Regular,Bakery,12100,1,12100,5/15/2024,20:52,Cash,5,5
+Male,Regular,Meat,78900,4,315600,5/15/2024,20:57,Card,10,5
+Female,Member,Dairy Product,24300,8,194400,5/15/2024,21:05,Cash,30,9
+Female,Regular,Dessert,19000,10,190000,5/15/2024,21:08,Card,10,6
+Female,Member,Snack,7700,6,46200,5/15/2024,21:15,Cash,10,5
+Female,Member,Dairy Product,22300,7,156100,5/15/2024,21:29,Cash,10,6
+Female,Regular,Snack,8300,12,99600,5/15/2024,21:41,Transfer,15,6
+Male,Regular,Fruits,10000,13,130000,5/15/2024,21:48,Cash,5,4
+Male,Member,Vegetables,15200,11,167200,5/15/2024,21:56,Cash,15,5
+Male,Regular,Snack,23000,9,207000,5/15/2024,21:58,Transfer,15,5
+Female,Regular,Instant Food,15800,1,15800,5/15/2024,22:00,Card,15,6
+Male,Member,Beverages,8700,4,34800,5/16/2024,8:08,Card,10,5
+Male,Member,Seafood,41900,1,41900,5/16/2024,8:25,Cash,10,6
+Male,Regular,Seafood,129300,14,1810200,5/16/2024,8:29,Card,15,6
+Female,Member,Beverages,8700,9,78300,5/16/2024,8:34,Cash,15,6
+Female,Member,Kitchen Consumption,6500,7,45500,5/16/2024,8:51,Transfer,0,3
+Male,Regular,Seafood,44000,9,396000,5/16/2024,9:00,Cash,20,7
+Female,Member,Meat,56000,2,112000,5/16/2024,10:03,Qris,5,5
+Female,Member,Meat,80600,8,644800,5/16/2024,10:06,Transfer,30,9
+Female,Member,Fruits,8900,12,106800,5/16/2024,10:12,Qris,15,6
+Female,Regular,Snack,7700,1,7700,5/16/2024,10:14,Cash,15,5
+Female,Member,Instant Food,6500,5,32500,5/16/2024,10:17,Qris,20,7
+Female,Member,Dessert,12300,11,135300,5/16/2024,10:26,Card,15,5
+Male,Regular,Snack,7000,5,35000,5/16/2024,10:32,Card,5,5
+Female,Member,Dairy Product,24300,12,291600,5/16/2024,10:43,Card,15,5
+Male,Regular,Kitchen Consumption,29200,14,408800,5/16/2024,10:45,Card,5,5
+Female,Member,Instant Food,7100,2,14200,5/16/2024,10:56,Card,20,7
+Female,Member,Meat,40200,13,522600,5/16/2024,10:57,Transfer,15,6
+Female,Member,Kitchen Consumption,13100,5,65500,5/16/2024,11:22,Cash,5,5
+Female,Member,Fruits,9500,9,85500,5/16/2024,11:31,Qris,30,9
+Female,Regular,Fruits,8900,12,106800,5/16/2024,11:43,Cash,15,5
+Male,Member,Dairy Product,24300,9,218700,5/16/2024,11:51,Transfer,15,6
+Male,Regular,Dessert,11000,10,110000,5/16/2024,11:59,Cash,10,6
+Female,Regular,Fruits,8900,11,97900,5/16/2024,12:11,Cash,30,9
+Male,Regular,Dairy Product,42000,13,546000,5/16/2024,12:18,Cash,15,6
+Female,Regular,Dairy Product,42000,6,252000,5/16/2024,12:30,Cash,5,5
+Male,Regular,Dessert,8700,14,121800,5/16/2024,12:37,Qris,15,6
+Female,Regular,Seafood,67800,2,135600,5/16/2024,12:42,Cash,0,5
+Female,Regular,Dairy Product,31300,13,406900,5/16/2024,12:44,Cash,15,6
+Male,Member,Kitchen Consumption,24000,13,312000,5/16/2024,12:46,Card,15,6
+Female,Member,Snack,12000,5,60000,5/16/2024,12:55,Transfer,10,5
+Male,Member,Instant Food,3400,10,34000,5/16/2024,13:04,Cash,10,5
+Female,Regular,Seafood,88700,10,887000,5/16/2024,13:12,Qris,10,6
+Female,Member,Fruits,13100,9,117900,5/16/2024,13:25,Cash,15,6
+Female,Regular,Seafood,69800,14,977200,5/16/2024,13:49,Card,5,3
+Female,Regular,Dairy Product,31300,14,438200,5/16/2024,13:52,Qris,20,8
+Female,Regular,Kitchen Consumption,6500,14,91000,5/16/2024,14:01,Cash,15,6
+Female,Regular,Vegetables,63800,6,382800,5/16/2024,14:14,Cash,0,4
+Female,Regular,Seafood,49400,7,345800,5/16/2024,14:31,Qris,0,5
+Male,Member,Instant Food,37900,9,341100,5/16/2024,14:35,Card,15,6
+Male,Regular,Meat,40200,5,201000,5/16/2024,14:57,Qris,10,5
+Male,Regular,Snack,8300,8,66400,5/16/2024,14:58,Qris,10,6
+Male,Regular,Dairy Product,22300,14,312200,5/16/2024,15:15,Card,15,6
+Female,Member,Dairy Product,25800,4,103200,5/16/2024,15:16,Qris,0,4
+Female,Member,Fruits,10000,6,60000,5/16/2024,15:24,Transfer,15,6
+Female,Member,Beverages,12100,13,157300,5/16/2024,15:38,Qris,30,9
+Male,Regular,Meat,56000,9,504000,5/16/2024,15:42,Transfer,10,5
+Female,Member,Beverages,11000,1,11000,5/16/2024,16:12,Transfer,5,5
+Female,Member,Kitchen Consumption,24000,1,24000,5/16/2024,16:16,Transfer,30,9
+Male,Member,Fruits,4000,12,48000,5/16/2024,16:22,Transfer,15,6
+Female,Member,Beverages,7800,8,62400,5/16/2024,16:30,Qris,10,5
+Female,Regular,Snack,7700,9,69300,5/16/2024,16:45,Card,30,10
+Female,Member,Fruits,12300,3,36900,5/16/2024,17:00,Cash,10,6
+Female,Regular,Snack,7700,1,7700,5/16/2024,17:07,Cash,0,5
+Female,Regular,Seafood,41200,9,370800,5/16/2024,17:18,Qris,10,6
+Female,Member,Vegetables,17600,11,193600,5/16/2024,17:26,Transfer,20,7
+Female,Member,Beverages,7800,8,62400,5/16/2024,17:30,Transfer,10,6
+Female,Regular,Meat,87900,9,791100,5/16/2024,17:46,Cash,30,9
+Female,Regular,Kitchen Consumption,21300,8,170400,5/16/2024,17:53,Transfer,30,9
+Male,Regular,Dessert,14400,10,144000,5/16/2024,17:59,Transfer,30,9
+Female,Member,Kitchen Consumption,13400,12,160800,5/16/2024,18:18,Card,20,7
+Male,Regular,Snack,7000,3,21000,5/16/2024,18:40,Card,0,5
+Male,Regular,Beverages,11000,11,121000,5/16/2024,18:55,Card,20,8
+Male,Regular,Dairy Product,42000,11,462000,5/16/2024,19:14,Card,15,6
+Female,Regular,Instant Food,7350,8,58800,5/16/2024,19:40,Cash,15,6
+Male,Member,Seafood,129300,12,1551600,5/16/2024,19:42,Card,20,8
+Male,Member,Dessert,11000,14,154000,5/16/2024,19:47,Cash,10,6
+Male,Member,Dessert,12300,10,123000,5/16/2024,19:49,Qris,30,10
+Female,Member,Dairy Product,25800,9,232200,5/16/2024,19:52,Cash,15,5
+Male,Regular,Vegetables,11200,8,89600,5/16/2024,20:01,Qris,15,6
+Female,Regular,Kitchen Consumption,9800,1,9800,5/16/2024,20:31,Card,30,9
+Male,Member,Vegetables,16900,10,169000,5/16/2024,20:48,Transfer,10,6
+Female,Regular,Dessert,14400,10,144000,5/16/2024,20:51,Qris,10,5
+Male,Member,Instant Food,37900,13,492700,5/16/2024,20:53,Transfer,5,3
+Male,Member,Dairy Product,23300,8,186400,5/16/2024,20:58,Qris,20,7
+Female,Member,Vegetables,15200,3,45600,5/16/2024,21:02,Cash,10,5
+Female,Member,Snack,7600,9,68400,5/16/2024,21:14,Qris,10,5
+Male,Member,Kitchen Consumption,2200,14,30800,5/16/2024,21:15,Qris,30,9
+Male,Member,Snack,7000,2,14000,5/16/2024,21:22,Qris,30,9
+Male,Regular,Bakery,22300,13,289900,5/16/2024,21:41,Card,15,6
+Female,Regular,Kitchen Consumption,9800,2,19600,5/16/2024,21:47,Qris,0,5
+Male,Regular,Meat,47000,8,376000,5/17/2024,8:06,Card,15,6
+Male,Member,Snack,7600,2,15200,5/17/2024,8:07,Qris,30,10
+Female,Regular,Beverages,8300,11,91300,5/17/2024,8:17,Card,15,6
+Male,Member,Instant Food,15800,2,31600,5/17/2024,8:34,Cash,0,5
+Female,Member,Bakery,8000,7,56000,5/17/2024,8:44,Cash,20,7
+Male,Regular,Kitchen Consumption,6500,10,65000,5/17/2024,8:55,Cash,10,5
+Male,Member,Bakery,43000,1,43000,5/17/2024,9:01,Qris,0,4
+Female,Member,Bakery,9800,5,49000,5/17/2024,9:35,Card,10,5
+Male,Regular,Seafood,67800,10,678000,5/17/2024,9:43,Transfer,30,9
+Male,Member,Dairy Product,34000,11,374000,5/17/2024,9:44,Transfer,10,5
+Female,Member,Seafood,69800,2,139600,5/17/2024,9:47,Cash,10,6
+Male,Regular,Dessert,9300,8,74400,5/17/2024,9:54,Card,10,5
+Female,Regular,Instant Food,10200,9,91800,5/17/2024,10:05,Qris,15,5
+Female,Regular,Kitchen Consumption,10200,6,61200,5/17/2024,10:17,Transfer,30,9
+Male,Member,Kitchen Consumption,9300,13,120900,5/17/2024,10:25,Card,5,4
+Female,Member,Dessert,19000,8,152000,5/17/2024,10:34,Cash,10,5
+Female,Member,Seafood,129300,13,1680900,5/17/2024,10:39,Transfer,20,7
+Male,Member,Seafood,67800,14,949200,5/17/2024,10:54,Transfer,15,6
+Male,Regular,Fruits,4000,9,36000,5/17/2024,11:05,Cash,10,5
+Female,Member,Seafood,67800,4,271200,5/17/2024,11:06,Transfer,20,8
+Female,Member,Vegetables,30700,8,245600,5/17/2024,11:12,Transfer,10,5
+Male,Regular,Bakery,9800,2,19600,5/17/2024,11:13,Cash,5,4
+Female,Regular,Seafood,90900,13,1181700,5/17/2024,11:21,Qris,5,5
+Female,Member,Dairy Product,23300,7,163100,5/17/2024,11:34,Transfer,0,4
+Male,Regular,Kitchen Consumption,10200,8,81600,5/17/2024,11:46,Qris,20,8
+Male,Regular,Kitchen Consumption,21300,12,255600,5/17/2024,12:00,Transfer,15,5
+Female,Regular,Seafood,41200,12,494400,5/17/2024,12:07,Transfer,15,5
+Female,Member,Kitchen Consumption,9800,6,58800,5/17/2024,12:11,Qris,5,5
+Male,Member,Dairy Product,32800,13,426400,5/17/2024,12:22,Card,15,6
+Male,Regular,Seafood,129300,5,646500,5/17/2024,12:25,Qris,5,5
+Female,Member,Meat,122400,8,979200,5/17/2024,12:42,Transfer,10,5
+Male,Regular,Seafood,90900,13,1181700,5/17/2024,12:44,Cash,15,6
+Female,Regular,Beverages,17800,2,35600,5/17/2024,12:49,Cash,0,3
+Female,Member,Dairy Product,32800,11,360800,5/17/2024,13:00,Qris,20,8
+Male,Member,Instant Food,7100,12,85200,5/17/2024,13:22,Transfer,5,4
+Male,Regular,Beverages,7800,3,23400,5/17/2024,14:11,Card,5,5
+Female,Regular,Seafood,80700,11,887700,5/17/2024,14:26,Cash,15,6
+Male,Regular,Beverages,17000,4,68000,5/17/2024,14:32,Card,30,10
+Male,Member,Kitchen Consumption,29200,12,350400,5/17/2024,14:50,Cash,10,5
+Female,Regular,Seafood,67800,11,745800,5/17/2024,15:13,Transfer,15,6
+Female,Regular,Dairy Product,21200,10,212000,5/17/2024,15:15,Cash,20,8
+Female,Member,Kitchen Consumption,21300,1,21300,5/17/2024,15:22,Card,20,7
+Male,Member,Kitchen Consumption,6500,13,84500,5/17/2024,15:25,Transfer,20,8
+Male,Regular,Snack,7000,12,84000,5/17/2024,15:55,Transfer,15,6
+Female,Regular,Bakery,8000,12,96000,5/17/2024,15:58,Cash,15,6
+Female,Regular,Instant Food,9800,10,98000,5/17/2024,16:00,Qris,10,6
+Male,Regular,Vegetables,63800,12,765600,5/17/2024,16:01,Card,15,5
+Female,Regular,Dairy Product,31300,12,375600,5/17/2024,16:03,Transfer,15,6
+Female,Member,Bakery,9800,13,127400,5/17/2024,16:13,Card,20,7
+Female,Regular,Dessert,19000,5,95000,5/17/2024,16:19,Transfer,0,5
+Female,Regular,Vegetables,16900,3,50700,5/17/2024,16:24,Transfer,5,5
+Female,Regular,Kitchen Consumption,29200,2,58400,5/17/2024,16:36,Qris,5,3
+Female,Member,Fruits,4000,9,36000,5/17/2024,16:45,Qris,10,6
+Male,Regular,Dairy Product,31300,9,281700,5/17/2024,16:46,Transfer,15,5
+Male,Regular,Bakery,7900,12,94800,5/17/2024,16:47,Transfer,15,6
+Male,Member,Dairy Product,34000,14,476000,5/17/2024,16:49,Card,15,6
+Male,Regular,Dessert,8700,7,60900,5/17/2024,17:09,Card,10,5
+Female,Member,Instant Food,6900,8,55200,5/17/2024,17:12,Transfer,15,6
+Female,Regular,Dairy Product,43700,10,437000,5/17/2024,17:35,Cash,15,6
+Male,Regular,Fruits,10000,12,120000,5/17/2024,17:59,Qris,20,7
+Female,Regular,Bakery,22300,11,245300,5/17/2024,18:10,Qris,30,9
+Female,Regular,Dairy Product,24300,4,97200,5/17/2024,18:20,Cash,10,5
+Female,Regular,Dessert,19000,3,57000,5/17/2024,18:31,Transfer,30,9
+Female,Regular,Dairy Product,21200,1,21200,5/17/2024,18:40,Card,5,3
+Female,Member,Vegetables,30700,12,368400,5/17/2024,18:43,Transfer,15,5
+Female,Regular,Dessert,17000,8,136000,5/17/2024,18:56,Transfer,15,5
+Female,Regular,Snack,7700,11,84700,5/17/2024,19:17,Transfer,5,5
+Male,Regular,Meat,40200,12,482400,5/17/2024,19:29,Cash,30,9
+Male,Member,Beverages,7800,11,85800,5/17/2024,19:32,Transfer,30,9
+Female,Regular,Fruits,13100,8,104800,5/17/2024,19:43,Card,15,6
+Male,Regular,Bakery,43000,2,86000,5/17/2024,19:45,Cash,0,5
+Male,Member,Beverages,17800,9,160200,5/17/2024,19:53,Cash,10,5
+Female,Member,Kitchen Consumption,13400,13,174200,5/17/2024,20:07,Qris,10,5
+Female,Member,Beverages,8700,1,8700,5/17/2024,20:10,Card,10,6
+Female,Member,Seafood,90900,6,545400,5/17/2024,20:28,Qris,15,5
+Male,Regular,Seafood,67800,2,135600,5/17/2024,20:47,Card,10,5
+Female,Member,Dessert,14400,2,28800,5/17/2024,20:53,Qris,0,5
+Female,Member,Fruits,6300,11,69300,5/17/2024,20:54,Card,15,6
+Female,Member,Bakery,43000,10,430000,5/17/2024,20:57,Transfer,10,5
+Female,Member,Snack,12000,13,156000,5/17/2024,21:13,Cash,30,9
+Female,Member,Dessert,21000,8,168000,5/18/2024,8:03,Card,10,6
+Male,Regular,Dairy Product,22300,8,178400,5/18/2024,8:25,Qris,30,9
+Female,Regular,Seafood,41200,9,370800,5/18/2024,8:29,Cash,10,6
+Male,Regular,Kitchen Consumption,21300,11,234300,5/18/2024,8:39,Cash,15,6
+Female,Regular,Beverages,8300,14,116200,5/18/2024,9:15,Transfer,15,6
+Female,Regular,Fruits,8400,13,109200,5/18/2024,9:16,Transfer,5,3
+Male,Member,Kitchen Consumption,13400,2,26800,5/18/2024,9:35,Transfer,0,5
+Male,Regular,Snack,9000,1,9000,5/18/2024,9:56,Transfer,0,3
+Female,Member,Dairy Product,42000,12,504000,5/18/2024,10:01,Transfer,15,6
+Male,Member,Vegetables,15200,14,212800,5/18/2024,10:08,Qris,5,5
+Male,Member,Dairy Product,24300,12,291600,5/18/2024,10:13,Card,30,9
+Female,Member,Snack,7900,10,79000,5/18/2024,10:14,Cash,20,8
+Male,Member,Fruits,12300,8,98400,5/18/2024,10:16,Qris,10,6
+Female,Regular,Dairy Product,42000,10,420000,5/18/2024,10:18,Cash,30,9
+Male,Regular,Kitchen Consumption,21300,11,234300,5/18/2024,10:31,Card,20,7
+Male,Regular,Fruits,9500,14,133000,5/18/2024,10:46,Qris,5,5
+Male,Member,Snack,23000,11,253000,5/18/2024,10:56,Cash,30,10
+Female,Regular,Instant Food,37900,6,227400,5/18/2024,11:02,Transfer,5,5
+Male,Member,Dessert,7400,10,74000,5/18/2024,11:04,Cash,10,6
+Female,Regular,Dairy Product,23300,3,69900,5/18/2024,11:05,Qris,0,4
+Male,Regular,Meat,122400,1,122400,5/18/2024,11:48,Cash,5,5
+Male,Regular,Dairy Product,42000,2,84000,5/18/2024,11:58,Card,10,5
+Female,Member,Vegetables,15200,2,30400,5/18/2024,12:06,Card,20,8
+Male,Regular,Bakery,7900,13,102700,5/18/2024,12:08,Card,30,9
+Male,Member,Fruits,6300,2,12600,5/18/2024,12:17,Qris,5,5
+Male,Regular,Seafood,67800,8,542400,5/18/2024,12:31,Cash,10,5
+Male,Regular,Bakery,7900,14,110600,5/18/2024,12:32,Transfer,15,5
+Male,Regular,Instant Food,15800,13,205400,5/18/2024,12:34,Card,20,8
+Female,Regular,Snack,7700,3,23100,5/18/2024,12:35,Cash,5,5
+Male,Regular,Meat,47000,11,517000,5/18/2024,12:36,Card,10,5
+Female,Member,Kitchen Consumption,6500,3,19500,5/18/2024,12:39,Qris,0,5
+Female,Member,Kitchen Consumption,9800,8,78400,5/18/2024,12:46,Qris,20,8
+Female,Regular,Beverages,11000,10,110000,5/18/2024,12:56,Card,20,8
+Male,Member,Fruits,9500,11,104500,5/18/2024,13:02,Qris,15,6
+Male,Regular,Bakery,9800,11,107800,5/18/2024,13:03,Qris,20,8
+Male,Member,Seafood,80700,8,645600,5/18/2024,13:55,Qris,15,6
+Male,Member,Fruits,10000,12,120000,5/18/2024,14:17,Transfer,15,6
+Male,Member,Bakery,13200,12,158400,5/18/2024,14:22,Transfer,15,5
+Female,Regular,Dairy Product,31300,9,281700,5/18/2024,14:29,Card,15,5
+Female,Member,Dessert,12300,1,12300,5/18/2024,14:42,Cash,5,4
+Male,Member,Vegetables,9200,10,92000,5/18/2024,14:43,Qris,30,9
+Female,Regular,Bakery,12100,4,48400,5/18/2024,14:56,Card,10,5
+Female,Regular,Kitchen Consumption,2200,3,6600,5/18/2024,15:16,Card,5,5
+Female,Member,Snack,9000,14,126000,5/18/2024,15:29,Card,30,9
+Female,Member,Dairy Product,43700,13,568100,5/18/2024,15:37,Card,20,7
+Male,Regular,Dairy Product,31300,3,93900,5/18/2024,15:40,Transfer,0,3
+Female,Member,Vegetables,9200,10,92000,5/18/2024,15:55,Cash,30,10
+Male,Member,Vegetables,15200,8,121600,5/18/2024,16:12,Cash,15,6
+Female,Member,Fruits,12300,1,12300,5/18/2024,16:14,Cash,10,5
+Female,Member,Bakery,24800,13,322400,5/18/2024,16:36,Qris,5,4
+Male,Regular,Bakery,9800,8,78400,5/18/2024,16:41,Qris,10,6
+Male,Regular,Beverages,6800,3,20400,5/18/2024,17:06,Transfer,10,5
+Male,Regular,Snack,7700,11,84700,5/18/2024,17:20,Card,30,9
+Female,Member,Seafood,69800,10,698000,5/18/2024,17:31,Card,15,5
+Female,Member,Snack,12000,11,132000,5/18/2024,17:58,Qris,15,5
+Female,Member,Snack,23000,8,184000,5/18/2024,18:07,Cash,10,6
+Female,Member,Instant Food,9800,10,98000,5/18/2024,18:28,Cash,10,6
+Female,Member,Dairy Product,21200,7,148400,5/18/2024,18:30,Transfer,0,4
+Male,Member,Seafood,90900,10,909000,5/18/2024,18:32,Transfer,20,8
+Male,Regular,Instant Food,37900,4,151600,5/18/2024,18:34,Transfer,10,5
+Male,Regular,Meat,122400,4,489600,5/18/2024,18:40,Cash,10,5
+Male,Regular,Dessert,12300,11,135300,5/18/2024,18:43,Card,30,9
+Male,Regular,Vegetables,63800,4,255200,5/18/2024,18:59,Cash,15,6
+Male,Member,Seafood,80700,6,484200,5/18/2024,19:16,Card,5,3
+Male,Regular,Meat,37800,9,340200,5/18/2024,19:19,Transfer,15,6
+Female,Regular,Fruits,9600,3,28800,5/18/2024,19:25,Qris,5,5
+Female,Regular,Snack,23000,4,92000,5/18/2024,19:26,Qris,15,5
+Male,Regular,Snack,7000,13,91000,5/18/2024,19:30,Transfer,5,3
+Female,Member,Seafood,80700,12,968400,5/18/2024,19:38,Card,20,7
+Female,Regular,Fruits,8400,14,117600,5/18/2024,19:50,Qris,10,6
+Female,Regular,Meat,47000,11,517000,5/18/2024,20:19,Qris,30,10
+Male,Member,Meat,37800,3,113400,5/18/2024,20:23,Card,10,6
+Female,Regular,Fruits,12300,11,135300,5/18/2024,20:35,Cash,15,6
+Male,Regular,Kitchen Consumption,13400,2,26800,5/18/2024,20:41,Card,20,7
+Male,Member,Bakery,43000,8,344000,5/18/2024,20:45,Cash,20,8
+Female,Member,Fruits,4000,9,36000,5/18/2024,21:26,Qris,10,6
+Female,Member,Instant Food,7100,9,63900,5/18/2024,21:42,Qris,10,6
+Female,Regular,Bakery,12000,9,108000,5/18/2024,21:50,Qris,10,5
+Female,Member,Vegetables,29700,10,297000,5/18/2024,21:55,Card,10,5
+Male,Regular,Instant Food,3400,10,34000,5/18/2024,21:56,Qris,30,9
+Female,Regular,Bakery,21400,8,171200,5/19/2024,8:01,Transfer,10,6
+Female,Member,Dairy Product,21200,13,275600,5/19/2024,8:15,Cash,15,6
+Male,Regular,Vegetables,63800,11,701800,5/19/2024,8:28,Transfer,20,8
+Male,Member,Bakery,13200,5,66000,5/19/2024,8:31,Transfer,5,5
+Female,Member,Snack,7000,10,70000,5/19/2024,8:38,Transfer,10,5
+Female,Member,Dessert,12300,12,147600,5/19/2024,8:39,Transfer,15,6
+Male,Regular,Instant Food,15800,9,142200,5/19/2024,8:44,Card,15,6
+Male,Member,Snack,7000,7,49000,5/19/2024,8:51,Qris,0,5
+Female,Member,Beverages,12100,9,108900,5/19/2024,8:57,Cash,20,7
+Male,Regular,Seafood,80700,1,80700,5/19/2024,9:00,Qris,0,5
+Male,Member,Kitchen Consumption,9800,10,98000,5/19/2024,9:07,Transfer,20,7
+Male,Member,Kitchen Consumption,9800,10,98000,5/19/2024,9:26,Cash,15,6
+Female,Member,Beverages,8700,11,95700,5/19/2024,9:34,Qris,20,7
+Male,Member,Snack,8300,13,107900,5/19/2024,9:36,Transfer,30,9
+Male,Member,Dessert,9300,3,27900,5/19/2024,9:40,Cash,0,5
+Female,Regular,Snack,12000,9,108000,5/19/2024,10:00,Transfer,10,5
+Male,Regular,Kitchen Consumption,2200,1,2200,5/19/2024,10:01,Cash,5,5
+Female,Regular,Beverages,7800,9,70200,5/19/2024,10:41,Cash,30,9
+Male,Regular,Vegetables,16900,12,202800,5/19/2024,10:42,Card,30,9
+Male,Member,Seafood,129300,1,129300,5/19/2024,10:43,Transfer,10,5
+Male,Member,Instant Food,7350,8,58800,5/19/2024,10:45,Cash,15,5
+Female,Member,Bakery,12000,13,156000,5/19/2024,10:51,Transfer,10,6
+Male,Regular,Dessert,8700,8,69600,5/19/2024,11:19,Card,20,7
+Female,Member,Meat,122400,2,244800,5/19/2024,11:21,Cash,0,5
+Male,Regular,Beverages,17000,5,85000,5/19/2024,11:22,Card,0,3
+Female,Member,Snack,7000,7,49000,5/19/2024,11:27,Cash,0,5
+Male,Member,Kitchen Consumption,29200,7,204400,5/19/2024,11:47,Transfer,5,4
+Female,Member,Bakery,22300,10,223000,5/19/2024,11:48,Card,20,8
+Female,Member,Dairy Product,22300,14,312200,5/19/2024,11:49,Cash,20,8
+Female,Member,Bakery,13200,4,52800,5/19/2024,11:57,Card,10,6
+Female,Regular,Snack,7000,4,28000,5/19/2024,11:59,Transfer,5,5
+Male,Regular,Seafood,41900,12,502800,5/19/2024,12:04,Qris,15,5
+Male,Regular,Instant Food,7100,11,78100,5/19/2024,12:12,Qris,15,6
+Female,Regular,Meat,47000,14,658000,5/19/2024,12:42,Transfer,20,8
+Male,Member,Dessert,9300,13,120900,5/19/2024,12:49,Transfer,30,9
+Male,Regular,Dessert,7400,13,96200,5/19/2024,12:54,Qris,20,7
+Female,Member,Kitchen Consumption,6500,10,65000,5/19/2024,12:58,Transfer,10,5
+Male,Member,Vegetables,12000,2,24000,5/19/2024,13:02,Qris,10,6
+Female,Regular,Instant Food,6900,13,89700,5/19/2024,13:06,Transfer,30,9
+Female,Member,Dairy Product,22300,9,200700,5/19/2024,13:08,Qris,15,5
+Female,Regular,Bakery,13200,2,26400,5/19/2024,13:19,Card,5,5
+Female,Regular,Fruits,9500,11,104500,5/19/2024,13:43,Cash,15,5
+Female,Regular,Dairy Product,24300,2,48600,5/19/2024,13:54,Qris,10,5
+Male,Regular,Dairy Product,23300,12,279600,5/19/2024,13:55,Qris,30,9
+Male,Regular,Meat,40200,10,402000,5/19/2024,14:14,Cash,15,5
+Male,Member,Kitchen Consumption,9800,13,127400,5/19/2024,14:15,Card,15,6
+Female,Member,Vegetables,30700,14,429800,5/19/2024,14:33,Cash,20,7
+Male,Regular,Vegetables,16900,1,16900,5/19/2024,14:36,Transfer,5,5
+Male,Member,Instant Food,6900,13,89700,5/19/2024,14:50,Cash,20,7
+Female,Regular,Beverages,17800,8,142400,5/19/2024,15:14,Qris,20,7
+Female,Regular,Seafood,41900,5,209500,5/19/2024,15:21,Qris,0,3
+Female,Member,Kitchen Consumption,29200,12,350400,5/19/2024,15:31,Card,15,6
+Female,Member,Kitchen Consumption,21300,8,170400,5/19/2024,15:39,Cash,10,5
+Female,Member,Bakery,43000,13,559000,5/19/2024,16:02,Qris,30,9
+Male,Regular,Vegetables,29700,2,59400,5/19/2024,16:09,Card,0,5
+Female,Regular,Dessert,12300,13,159900,5/19/2024,16:27,Cash,5,5
+Male,Member,Seafood,88700,11,975700,5/19/2024,16:36,Transfer,30,10
+Male,Regular,Dessert,7400,12,88800,5/19/2024,16:38,Cash,15,6
+Male,Regular,Dairy Product,22300,1,22300,5/19/2024,17:10,Qris,5,5
+Male,Member,Dessert,21000,7,147000,5/19/2024,17:12,Card,5,5
+Female,Regular,Instant Food,7100,14,99400,5/19/2024,18:02,Card,15,6
+Female,Regular,Dessert,14400,12,172800,5/19/2024,18:22,Transfer,20,8
+Male,Regular,Seafood,41200,13,535600,5/19/2024,18:32,Qris,15,6
+Male,Regular,Dairy Product,32800,13,426400,5/19/2024,18:42,Card,30,10
+Male,Member,Vegetables,11200,8,89600,5/19/2024,19:20,Cash,15,6
+Female,Member,Vegetables,12000,11,132000,5/19/2024,19:31,Cash,10,6
+Female,Regular,Fruits,10000,14,140000,5/19/2024,19:41,Qris,15,6
+Female,Regular,Dessert,9300,10,93000,5/19/2024,19:42,Card,15,6
+Male,Regular,Vegetables,30700,6,184200,5/19/2024,20:14,Cash,0,3
+Male,Member,Snack,12000,10,120000,5/19/2024,20:16,Cash,10,6
+Female,Member,Bakery,9800,9,88200,5/19/2024,20:31,Qris,20,7
+Female,Regular,Kitchen Consumption,9800,12,117600,5/19/2024,20:35,Cash,15,6
+Female,Member,Kitchen Consumption,13100,2,26200,5/19/2024,20:42,Card,0,5
+Male,Member,Kitchen Consumption,10200,9,91800,5/19/2024,20:52,Cash,20,7
+Male,Regular,Snack,23000,13,299000,5/19/2024,21:03,Cash,20,7
+Male,Member,Beverages,7800,8,62400,5/19/2024,21:06,Card,10,6
+Female,Member,Instant Food,3400,12,40800,5/19/2024,21:13,Cash,30,9
+Male,Member,Vegetables,16900,13,219700,5/19/2024,21:37,Card,20,7
+Female,Member,Seafood,49400,2,98800,5/19/2024,21:46,Cash,5,5
+Male,Member,Fruits,7500,14,105000,5/19/2024,21:59,Qris,15,6
+Female,Regular,Instant Food,10200,10,102000,5/20/2024,8:03,Card,10,6
+Male,Regular,Instant Food,6500,9,58500,5/20/2024,8:15,Card,20,7
+Male,Member,Instant Food,10300,2,20600,5/20/2024,8:35,Card,10,6
+Female,Regular,Seafood,80700,9,726300,5/20/2024,8:38,Qris,10,6
+Female,Regular,Snack,28000,8,224000,5/20/2024,8:45,Qris,10,5
+Female,Regular,Instant Food,7350,14,102900,5/20/2024,8:49,Card,30,9
+Female,Regular,Beverages,11000,8,88000,5/20/2024,8:52,Cash,10,6
+Female,Member,Dessert,17000,10,170000,5/20/2024,9:04,Card,20,8
+Male,Member,Vegetables,17600,9,158400,5/20/2024,9:06,Qris,15,6
+Female,Regular,Meat,37800,14,529200,5/20/2024,9:07,Card,15,6
+Male,Member,Kitchen Consumption,9800,9,88200,5/20/2024,9:09,Cash,15,6
+Male,Member,Dairy Product,31300,11,344300,5/20/2024,9:22,Cash,15,6
+Female,Member,Kitchen Consumption,13100,14,183400,5/20/2024,9:23,Card,20,7
+Female,Member,Kitchen Consumption,10200,14,142800,5/20/2024,9:48,Cash,30,9
+Female,Member,Bakery,13200,12,158400,5/20/2024,9:56,Card,10,5
+Female,Member,Bakery,12000,1,12000,5/20/2024,10:21,Card,0,4
+Female,Member,Meat,47000,6,282000,5/20/2024,10:33,Qris,20,7
+Female,Regular,Dairy Product,21200,10,212000,5/20/2024,10:34,Transfer,15,6
+Male,Regular,Kitchen Consumption,10200,13,132600,5/20/2024,10:41,Cash,30,9
+Female,Member,Instant Food,6900,14,96600,5/20/2024,11:04,Card,20,7
+Male,Member,Fruits,9500,4,38000,5/20/2024,11:08,Qris,15,6
+Male,Member,Snack,7600,2,15200,5/20/2024,11:14,Qris,15,6
+Male,Regular,Snack,12000,12,144000,5/20/2024,11:18,Transfer,30,9
+Male,Member,Dairy Product,23300,2,46600,5/20/2024,11:21,Transfer,0,5
+Female,Regular,Beverages,11000,13,143000,5/20/2024,11:28,Transfer,10,5
+Male,Regular,Fruits,13100,10,131000,5/20/2024,11:41,Transfer,10,6
+Male,Regular,Kitchen Consumption,10200,5,51000,5/20/2024,11:47,Card,5,5
+Female,Regular,Meat,40200,11,442200,5/20/2024,11:59,Transfer,30,9
+Male,Member,Instant Food,6500,2,13000,5/20/2024,12:31,Cash,30,10
+Male,Member,Meat,66300,7,464100,5/20/2024,12:57,Qris,5,5
+Male,Regular,Meat,89600,3,268800,5/20/2024,13:10,Card,0,5
+Female,Member,Dairy Product,22300,5,111500,5/20/2024,13:38,Transfer,5,5
+Male,Member,Kitchen Consumption,13100,1,13100,5/20/2024,13:47,Cash,30,10
+Male,Regular,Vegetables,11700,13,152100,5/20/2024,13:53,Card,15,5
+Male,Member,Bakery,24800,6,148800,5/20/2024,14:05,Card,20,7
+Female,Member,Fruits,6300,8,50400,5/20/2024,14:15,Card,10,6
+Female,Regular,Kitchen Consumption,13100,2,26200,5/20/2024,14:30,Card,0,5
+Male,Member,Beverages,17800,12,213600,5/20/2024,14:52,Qris,20,7
+Female,Member,Meat,80600,1,80600,5/20/2024,14:57,Cash,15,6
+Male,Member,Snack,7900,4,31600,5/20/2024,15:21,Card,20,8
+Male,Member,Dairy Product,24300,6,145800,5/20/2024,15:28,Transfer,10,6
+Male,Regular,Snack,7900,9,71100,5/20/2024,15:32,Qris,10,5
+Male,Regular,Dessert,8600,1,8600,5/20/2024,15:35,Card,0,4
+Female,Member,Fruits,6300,6,37800,5/20/2024,15:36,Qris,5,5
+Male,Member,Kitchen Consumption,13400,13,174200,5/20/2024,15:52,Qris,15,5
+Male,Regular,Dessert,8700,12,104400,5/20/2024,16:04,Cash,15,6
+Female,Regular,Instant Food,9800,1,9800,5/20/2024,16:22,Card,0,4
+Female,Regular,Kitchen Consumption,21300,13,276900,5/20/2024,16:37,Card,30,9
+Male,Member,Dairy Product,43700,12,524400,5/20/2024,16:50,Card,20,7
+Male,Regular,Dairy Product,23300,14,326200,5/20/2024,17:21,Qris,15,6
+Male,Regular,Beverages,7800,6,46800,5/20/2024,17:32,Qris,0,4
+Female,Regular,Bakery,12000,13,156000,5/20/2024,17:39,Cash,15,6
+Male,Member,Dessert,7400,11,81400,5/20/2024,17:44,Transfer,15,5
+Female,Regular,Kitchen Consumption,6500,11,71500,5/20/2024,17:51,Transfer,15,6
+Male,Member,Snack,7000,1,7000,5/20/2024,17:56,Transfer,10,5
+Male,Member,Instant Food,7100,10,71000,5/20/2024,18:15,Card,30,9
+Male,Member,Fruits,9600,11,105600,5/20/2024,18:18,Card,15,6
+Female,Member,Seafood,80700,3,242100,5/20/2024,18:34,Cash,10,6
+Female,Regular,Instant Food,9800,2,19600,5/20/2024,18:39,Qris,5,5
+Female,Regular,Kitchen Consumption,6500,13,84500,5/20/2024,18:43,Qris,15,6
+Male,Member,Dessert,9300,9,83700,5/20/2024,18:44,Cash,10,5
+Male,Regular,Meat,78900,4,315600,5/20/2024,18:49,Card,10,6
+Male,Regular,Dairy Product,32800,7,229600,5/20/2024,18:59,Cash,5,5
+Female,Regular,Vegetables,15200,12,182400,5/20/2024,19:06,Transfer,5,5
+Female,Regular,Seafood,129300,11,1422300,5/20/2024,19:13,Card,15,5
+Female,Member,Seafood,80700,9,726300,5/20/2024,19:32,Card,10,6
+Male,Regular,Bakery,9800,13,127400,5/20/2024,19:35,Card,5,5
+Male,Member,Dessert,17000,8,136000,5/20/2024,19:54,Card,15,6
+Male,Regular,Fruits,13100,12,157200,5/20/2024,19:55,Transfer,15,6
+Male,Regular,Instant Food,6900,9,62100,5/20/2024,19:58,Transfer,20,7
+Male,Member,Seafood,41200,8,329600,5/20/2024,20:00,Cash,15,6
+Female,Member,Fruits,8400,4,33600,5/20/2024,20:28,Qris,0,4
+Male,Member,Instant Food,7350,9,66150,5/20/2024,20:29,Cash,10,6
+Male,Regular,Kitchen Consumption,2200,9,19800,5/20/2024,20:30,Card,30,10
+Female,Member,Bakery,21400,8,171200,5/20/2024,20:40,Cash,10,6
+Female,Member,Bakery,8000,1,8000,5/20/2024,20:44,Card,20,8
+Male,Member,Dairy Product,43700,13,568100,5/20/2024,21:05,Qris,15,6
+Male,Member,Dairy Product,22300,12,267600,5/20/2024,21:10,Card,15,5
+Male,Regular,Dessert,7400,10,74000,5/20/2024,21:31,Transfer,10,5
+Male,Member,Kitchen Consumption,2200,1,2200,5/20/2024,21:50,Qris,10,5
+Female,Regular,Seafood,41200,12,494400,5/21/2024,8:11,Card,15,5
+Male,Regular,Dessert,17000,10,170000,5/21/2024,8:14,Qris,10,5
+Female,Regular,Seafood,67800,10,678000,5/21/2024,8:30,Cash,15,5
+Female,Member,Bakery,24800,13,322400,5/21/2024,8:41,Transfer,30,9
+Male,Member,Beverages,12100,11,133100,5/21/2024,8:52,Qris,20,8
+Male,Member,Vegetables,17600,10,176000,5/21/2024,8:56,Cash,30,9
+Female,Member,Fruits,4000,8,32000,5/21/2024,8:57,Card,20,8
+Female,Regular,Bakery,7900,13,102700,5/21/2024,9:03,Cash,20,8
+Male,Member,Snack,7600,9,68400,5/21/2024,9:08,Transfer,20,8
+Male,Regular,Meat,78900,14,1104600,5/21/2024,9:14,Transfer,5,5
+Female,Regular,Instant Food,6500,9,58500,5/21/2024,9:26,Qris,15,6
+Female,Regular,Beverages,6800,9,61200,5/21/2024,9:33,Card,15,5
+Female,Regular,Dairy Product,24300,1,24300,5/21/2024,9:40,Transfer,0,5
+Male,Member,Vegetables,17600,13,228800,5/21/2024,9:41,Qris,30,9
+Female,Member,Seafood,90900,2,181800,5/21/2024,10:20,Cash,0,5
+Male,Member,Instant Food,9800,6,58800,5/21/2024,10:30,Cash,0,5
+Female,Regular,Dessert,21000,9,189000,5/21/2024,11:06,Cash,15,6
+Female,Member,Instant Food,15800,5,79000,5/21/2024,11:07,Transfer,5,5
+Male,Regular,Instant Food,15800,6,94800,5/21/2024,11:18,Card,20,8
+Female,Member,Fruits,10000,12,120000,5/21/2024,11:36,Cash,20,7
+Male,Regular,Meat,122400,11,1346400,5/21/2024,11:47,Card,15,5
+Male,Regular,Fruits,7500,9,67500,5/21/2024,11:51,Cash,20,7
+Female,Member,Snack,7700,8,61600,5/21/2024,12:01,Qris,15,6
+Female,Regular,Snack,7000,13,91000,5/21/2024,12:41,Cash,20,7
+Female,Member,Instant Food,3400,2,6800,5/21/2024,12:50,Qris,10,5
+Female,Member,Dessert,21000,10,210000,5/21/2024,13:10,Cash,30,9
+Female,Regular,Instant Food,9800,13,127400,5/21/2024,13:25,Cash,5,5
+Male,Member,Instant Food,10200,8,81600,5/21/2024,13:28,Card,20,8
+Male,Regular,Vegetables,12000,6,72000,5/21/2024,13:42,Cash,0,4
+Male,Member,Fruits,13100,9,117900,5/21/2024,13:47,Qris,15,6
+Female,Regular,Snack,9000,14,126000,5/21/2024,13:56,Cash,20,8
+Female,Member,Instant Food,37900,7,265300,5/21/2024,14:05,Cash,10,6
+Male,Member,Kitchen Consumption,9800,12,117600,5/21/2024,14:30,Card,15,5
+Female,Regular,Vegetables,16900,7,118300,5/21/2024,14:49,Transfer,15,5
+Male,Member,Dessert,12300,8,98400,5/21/2024,14:57,Qris,20,8
+Male,Regular,Beverages,7800,11,85800,5/21/2024,15:17,Transfer,20,8
+Female,Member,Instant Food,10200,3,30600,5/21/2024,15:24,Cash,30,9
+Male,Member,Bakery,13200,2,26400,5/21/2024,15:33,Transfer,20,8
+Female,Regular,Dessert,17000,3,51000,5/21/2024,15:47,Qris,0,5
+Male,Regular,Meat,89600,14,1254400,5/21/2024,15:50,Cash,20,7
+Female,Member,Beverages,17000,9,153000,5/21/2024,16:13,Card,10,5
+Female,Regular,Beverages,8700,5,43500,5/21/2024,16:28,Card,10,5
+Female,Regular,Fruits,8900,4,35600,5/21/2024,16:30,Qris,5,4
+Male,Member,Instant Food,7350,3,22050,5/21/2024,16:38,Transfer,30,9
+Female,Regular,Vegetables,12000,2,24000,5/21/2024,16:40,Cash,0,5
+Female,Member,Fruits,9600,10,96000,5/21/2024,16:51,Qris,10,5
+Male,Regular,Fruits,7500,14,105000,5/21/2024,16:57,Transfer,30,9
+Male,Member,Bakery,7900,11,86900,5/21/2024,17:06,Transfer,15,6
+Female,Member,Fruits,9600,4,38400,5/21/2024,17:12,Transfer,5,3
+Male,Regular,Bakery,7900,11,86900,5/21/2024,17:34,Qris,5,5
+Female,Member,Dairy Product,32800,14,459200,5/21/2024,17:49,Cash,20,7
+Male,Regular,Seafood,88700,8,709600,5/21/2024,18:00,Qris,10,6
+Female,Regular,Bakery,13200,12,158400,5/21/2024,18:07,Qris,5,4
+Female,Member,Beverages,12100,13,157300,5/21/2024,18:08,Qris,15,6
+Male,Regular,Meat,89600,9,806400,5/21/2024,18:09,Qris,15,6
+Male,Regular,Fruits,12300,9,110700,5/21/2024,18:16,Card,10,5
+Female,Member,Instant Food,10300,6,61800,5/21/2024,18:19,Card,10,5
+Female,Member,Kitchen Consumption,10200,9,91800,5/21/2024,18:34,Cash,10,6
+Female,Regular,Instant Food,7350,8,58800,5/21/2024,18:42,Card,10,5
+Female,Regular,Kitchen Consumption,29200,9,262800,5/21/2024,18:47,Transfer,10,6
+Female,Member,Dairy Product,24300,9,218700,5/21/2024,18:51,Card,30,10
+Female,Regular,Dairy Product,42000,1,42000,5/21/2024,18:53,Transfer,0,5
+Male,Regular,Seafood,69800,2,139600,5/21/2024,19:07,Transfer,30,10
+Female,Member,Dairy Product,22300,1,22300,5/21/2024,19:17,Transfer,20,8
+Male,Member,Dessert,17000,8,136000,5/21/2024,19:50,Cash,10,5
+Male,Regular,Kitchen Consumption,10200,13,132600,5/21/2024,19:54,Card,10,5
+Female,Member,Dairy Product,25800,12,309600,5/21/2024,19:57,Transfer,20,8
+Female,Regular,Dessert,9300,5,46500,5/21/2024,19:58,Transfer,10,5
+Female,Member,Fruits,10000,8,80000,5/21/2024,19:59,Cash,10,5
+Female,Member,Beverages,12000,2,24000,5/21/2024,20:07,Qris,5,5
+Male,Regular,Dessert,12300,1,12300,5/21/2024,20:08,Card,20,8
+Female,Regular,Seafood,69800,13,907400,5/21/2024,20:11,Qris,30,9
+Male,Member,Fruits,9600,7,67200,5/21/2024,20:21,Card,10,6
+Male,Regular,Fruits,10000,8,80000,5/21/2024,20:27,Transfer,10,6
+Male,Regular,Beverages,11000,13,143000,5/21/2024,20:53,Qris,20,8
+Male,Regular,Kitchen Consumption,21300,11,234300,5/21/2024,20:58,Card,15,5
+Male,Regular,Vegetables,29700,11,326700,5/21/2024,21:12,Cash,30,9
+Male,Regular,Snack,7700,1,7700,5/21/2024,21:42,Card,15,5
+Male,Member,Kitchen Consumption,21300,2,42600,5/21/2024,21:47,Transfer,30,9
+Female,Regular,Fruits,9600,6,57600,5/21/2024,21:53,Qris,5,4
+Male,Member,Fruits,8400,8,67200,5/22/2024,8:00,Cash,10,5
+Female,Regular,Snack,9000,2,18000,5/22/2024,8:02,Card,10,6
+Male,Member,Beverages,11000,11,121000,5/22/2024,8:11,Card,30,9
+Male,Member,Snack,7900,12,94800,5/22/2024,8:15,Card,15,5
+Female,Regular,Fruits,7500,7,52500,5/22/2024,8:49,Card,5,4
+Female,Regular,Kitchen Consumption,9800,8,78400,5/22/2024,8:59,Qris,10,5
+Male,Member,Kitchen Consumption,2200,13,28600,5/22/2024,9:14,Qris,10,6
+Male,Member,Dessert,21000,8,168000,5/22/2024,9:34,Cash,20,7
+Female,Member,Meat,37800,13,491400,5/22/2024,9:50,Card,20,7
+Female,Member,Instant Food,37900,11,416900,5/22/2024,10:03,Card,20,8
+Female,Member,Instant Food,15800,1,15800,5/22/2024,10:07,Transfer,0,5
+Male,Regular,Dairy Product,24300,11,267300,5/22/2024,10:10,Card,30,9
+Male,Regular,Seafood,44000,5,220000,5/22/2024,10:48,Transfer,5,4
+Female,Member,Snack,8300,8,66400,5/22/2024,10:50,Cash,20,7
+Male,Regular,Dessert,17000,3,51000,5/22/2024,10:54,Cash,10,6
+Male,Member,Instant Food,7350,12,88200,5/22/2024,10:56,Card,20,8
+Female,Member,Seafood,129300,10,1293000,5/22/2024,10:57,Cash,15,5
+Female,Member,Seafood,90900,13,1181700,5/22/2024,10:58,Card,30,9
+Female,Regular,Beverages,6800,7,47600,5/22/2024,11:00,Cash,5,3
+Male,Member,Seafood,49400,10,494000,5/22/2024,11:12,Card,10,6
+Female,Regular,Bakery,22300,10,223000,5/22/2024,11:18,Card,10,6
+Female,Member,Kitchen Consumption,9300,5,46500,5/22/2024,11:38,Cash,20,8
+Male,Regular,Seafood,44000,1,44000,5/22/2024,12:08,Cash,20,8
+Male,Regular,Fruits,12300,2,24600,5/22/2024,12:09,Card,5,5
+Male,Regular,Instant Food,7350,9,66150,5/22/2024,12:17,Cash,15,5
+Male,Regular,Snack,7900,2,15800,5/22/2024,12:47,Cash,15,6
+Male,Member,Bakery,24800,12,297600,5/22/2024,12:56,Qris,20,8
+Male,Regular,Bakery,9800,13,127400,5/22/2024,13:03,Card,30,9
+Female,Regular,Kitchen Consumption,24000,11,264000,5/22/2024,13:20,Qris,10,6
+Male,Regular,Kitchen Consumption,2200,11,24200,5/22/2024,13:37,Qris,5,5
+Female,Regular,Dessert,19000,9,171000,5/22/2024,13:59,Qris,10,5
+Male,Regular,Fruits,6300,13,81900,5/22/2024,14:02,Cash,10,6
+Female,Regular,Snack,7000,14,98000,5/22/2024,14:25,Cash,20,7
+Female,Member,Beverages,17000,8,136000,5/22/2024,14:28,Card,30,9
+Male,Member,Seafood,80700,9,726300,5/22/2024,14:31,Transfer,15,6
+Female,Regular,Beverages,8700,3,26100,5/22/2024,14:47,Cash,20,8
+Male,Member,Beverages,12000,9,108000,5/22/2024,14:52,Transfer,30,10
+Male,Regular,Dairy Product,31300,8,250400,5/22/2024,15:08,Cash,10,6
+Male,Regular,Bakery,12100,1,12100,5/22/2024,15:46,Cash,20,8
+Female,Regular,Dessert,7400,10,74000,5/22/2024,15:50,Card,15,5
+Male,Regular,Fruits,7500,13,97500,5/22/2024,15:51,Card,15,6
+Female,Member,Dairy Product,42000,1,42000,5/22/2024,15:54,Cash,0,4
+Female,Member,Beverages,8700,6,52200,5/22/2024,16:30,Cash,10,6
+Female,Regular,Vegetables,30700,13,399100,5/22/2024,16:36,Transfer,5,5
+Female,Member,Dairy Product,21200,9,190800,5/22/2024,16:54,Qris,10,6
+Male,Regular,Fruits,9500,1,9500,5/22/2024,16:55,Transfer,5,3
+Female,Member,Snack,23000,11,253000,5/22/2024,16:58,Transfer,10,6
+Female,Member,Seafood,69800,1,69800,5/22/2024,17:17,Card,5,5
+Male,Regular,Beverages,8300,14,116200,5/22/2024,17:18,Qris,10,6
+Male,Member,Dessert,17000,14,238000,5/22/2024,17:56,Card,15,5
+Female,Regular,Seafood,67800,6,406800,5/22/2024,17:59,Cash,10,5
+Female,Regular,Instant Food,6500,12,78000,5/22/2024,18:22,Cash,15,6
+Female,Member,Fruits,12300,10,123000,5/22/2024,18:23,Cash,10,5
+Male,Member,Vegetables,9200,7,64400,5/22/2024,18:30,Qris,5,4
+Female,Regular,Instant Food,15800,10,158000,5/22/2024,18:40,Qris,10,5
+Female,Member,Beverages,12000,13,156000,5/22/2024,18:45,Cash,15,6
+Male,Regular,Seafood,129300,10,1293000,5/22/2024,18:55,Cash,20,7
+Female,Regular,Instant Food,7350,10,73500,5/22/2024,19:19,Transfer,15,6
+Female,Member,Instant Food,10200,1,10200,5/22/2024,19:27,Cash,0,4
+Female,Regular,Dessert,11000,14,154000,5/22/2024,19:46,Cash,15,5
+Male,Regular,Bakery,13200,12,158400,5/22/2024,19:54,Cash,10,5
+Male,Member,Vegetables,16900,12,202800,5/22/2024,19:59,Card,5,5
+Female,Member,Bakery,43000,5,215000,5/22/2024,20:20,Card,0,5
+Male,Regular,Dairy Product,42000,6,252000,5/22/2024,20:26,Transfer,0,5
+Male,Regular,Dairy Product,22300,14,312200,5/22/2024,20:32,Qris,15,5
+Female,Regular,Beverages,8700,12,104400,5/22/2024,20:34,Qris,15,6
+Male,Regular,Snack,9000,7,63000,5/22/2024,20:42,Qris,30,9
+Female,Regular,Beverages,14500,1,14500,5/22/2024,20:44,Qris,0,5
+Female,Member,Instant Food,7350,11,80850,5/22/2024,20:47,Cash,20,8
+Male,Member,Kitchen Consumption,6500,12,78000,5/22/2024,20:49,Cash,30,9
+Female,Member,Snack,7900,4,31600,5/22/2024,21:06,Card,0,3
+Male,Member,Beverages,12100,9,108900,5/22/2024,21:17,Transfer,15,5
+Female,Member,Dairy Product,43700,10,437000,5/22/2024,8:02,Transfer,10,6
+Female,Member,Dairy Product,31300,13,406900,5/23/2024,8:07,Transfer,15,6
+Male,Regular,Snack,12000,6,72000,5/23/2024,8:08,Qris,0,4
+Male,Member,Dairy Product,22300,10,223000,5/23/2024,8:26,Card,10,6
+Male,Member,Instant Food,3400,11,37400,5/23/2024,8:29,Card,5,5
+Female,Member,Dairy Product,23300,3,69900,5/23/2024,8:52,Card,5,5
+Male,Regular,Vegetables,29700,11,326700,5/23/2024,8:57,Qris,20,8
+Male,Regular,Bakery,7900,1,7900,5/23/2024,9:10,Card,5,4
+Female,Regular,Snack,12000,12,144000,5/23/2024,9:15,Cash,15,6
+Male,Regular,Beverages,14500,11,159500,5/23/2024,9:22,Qris,20,8
+Female,Member,Beverages,12100,10,121000,5/23/2024,9:29,Cash,10,6
+Female,Member,Bakery,8000,11,88000,5/23/2024,9:40,Transfer,15,6
+Male,Member,Vegetables,15200,7,106400,5/23/2024,9:45,Card,5,5
+Female,Member,Snack,28000,1,28000,5/23/2024,10:01,Card,15,6
+Male,Regular,Dairy Product,24300,13,315900,5/23/2024,10:10,Cash,15,6
+Male,Regular,Snack,12000,9,108000,5/23/2024,10:14,Card,15,6
+Female,Regular,Kitchen Consumption,2200,11,24200,5/23/2024,10:33,Qris,10,6
+Female,Member,Dairy Product,31300,10,313000,5/23/2024,10:36,Qris,10,5
+Female,Member,Bakery,12100,10,121000,5/23/2024,11:11,Cash,30,9
+Male,Regular,Beverages,14500,8,116000,5/23/2024,11:20,Card,30,9
+Female,Regular,Beverages,8700,11,95700,5/23/2024,11:21,Cash,20,7
+Female,Regular,Seafood,69800,8,558400,5/23/2024,11:24,Transfer,15,5
+Male,Member,Bakery,9800,5,49000,5/23/2024,11:35,Card,10,6
+Female,Regular,Instant Food,3400,9,30600,5/23/2024,11:46,Qris,10,5
+Female,Regular,Dairy Product,43700,13,568100,5/23/2024,12:24,Card,15,6
+Female,Regular,Kitchen Consumption,10200,13,132600,5/23/2024,12:30,Qris,30,9
+Male,Regular,Beverages,14500,14,203000,5/23/2024,12:35,Qris,15,6
+Male,Regular,Seafood,67800,10,678000,5/23/2024,12:38,Transfer,10,6
+Female,Regular,Meat,122400,9,1101600,5/23/2024,12:52,Transfer,10,5
+Female,Regular,Instant Food,15800,12,189600,5/23/2024,13:03,Transfer,15,6
+Male,Regular,Meat,78900,14,1104600,5/23/2024,13:04,Card,15,6
+Male,Member,Fruits,12300,9,110700,5/23/2024,13:18,Cash,10,6
+Male,Regular,Dessert,19000,2,38000,5/23/2024,13:21,Transfer,10,6
+Female,Regular,Dessert,19000,12,228000,5/23/2024,13:31,Card,15,5
+Female,Member,Dessert,21000,8,168000,5/23/2024,13:56,Cash,15,5
+Female,Member,Bakery,7900,13,102700,5/23/2024,13:58,Transfer,15,6
+Male,Regular,Dairy Product,31300,12,375600,5/23/2024,14:06,Cash,5,5
+Male,Member,Seafood,49400,13,642200,5/23/2024,14:10,Cash,5,3
+Female,Regular,Fruits,8900,9,80100,5/23/2024,14:11,Transfer,10,5
+Female,Member,Kitchen Consumption,9800,12,117600,5/23/2024,14:13,Qris,20,7
+Male,Member,Kitchen Consumption,24000,10,240000,5/23/2024,14:20,Cash,10,5
+Male,Member,Vegetables,29700,9,267300,5/23/2024,14:21,Card,15,6
+Female,Member,Fruits,13100,11,144100,5/23/2024,15:58,Card,20,7
+Male,Member,Kitchen Consumption,24000,13,312000,5/23/2024,15:59,Transfer,15,6
+Female,Member,Snack,12000,14,168000,5/23/2024,16:02,Card,5,5
+Male,Member,Beverages,12100,14,169400,5/23/2024,16:07,Card,15,5
+Female,Regular,Kitchen Consumption,2200,6,13200,5/23/2024,16:12,Card,0,4
+Male,Member,Snack,23000,3,69000,5/23/2024,16:28,Card,5,5
+Male,Regular,Instant Food,10300,8,82400,5/23/2024,16:40,Transfer,10,5
+Female,Regular,Instant Food,37900,4,151600,5/23/2024,16:43,Qris,0,5
+Female,Regular,Dairy Product,43700,5,218500,5/23/2024,16:46,Qris,10,6
+Female,Member,Dairy Product,31300,8,250400,5/23/2024,16:51,Transfer,10,5
+Male,Regular,Meat,40200,14,562800,5/23/2024,17:00,Qris,15,6
+Male,Member,Vegetables,16900,13,219700,5/23/2024,17:06,Transfer,15,5
+Female,Member,Instant Food,37900,12,454800,5/23/2024,17:14,Qris,20,8
+Male,Member,Bakery,12000,9,108000,5/23/2024,17:15,Qris,10,5
+Male,Regular,Instant Food,7350,4,29400,5/23/2024,17:30,Transfer,10,6
+Male,Regular,Beverages,7800,8,62400,5/23/2024,17:34,Cash,10,6
+Male,Member,Dairy Product,21200,12,254400,5/23/2024,17:47,Transfer,15,6
+Male,Regular,Instant Food,7100,12,85200,5/23/2024,17:57,Qris,10,6
+Male,Member,Seafood,129300,9,1163700,5/23/2024,18:02,Transfer,10,6
+Female,Member,Dessert,19000,8,152000,5/23/2024,18:34,Transfer,30,9
+Female,Regular,Beverages,14500,14,203000,5/23/2024,18:35,Card,20,8
+Female,Member,Fruits,10000,6,60000,5/23/2024,18:52,Cash,0,5
+Female,Member,Vegetables,11200,8,89600,5/23/2024,18:57,Qris,30,10
+Female,Regular,Meat,89600,2,179200,5/23/2024,18:59,Card,10,6
+Female,Regular,Snack,23000,10,230000,5/23/2024,19:09,Qris,10,6
+Male,Regular,Seafood,90900,11,999900,5/23/2024,19:18,Transfer,15,6
+Female,Regular,Meat,66300,9,596700,5/23/2024,19:29,Qris,15,6
+Male,Member,Beverages,12000,8,96000,5/23/2024,19:30,Transfer,15,5
+Male,Regular,Seafood,69800,11,767800,5/23/2024,19:32,Cash,20,7
+Female,Member,Vegetables,16900,7,118300,5/23/2024,20:02,Transfer,0,4
+Female,Regular,Kitchen Consumption,24000,10,240000,5/23/2024,20:07,Qris,10,6
+Male,Member,Seafood,49400,1,49400,5/23/2024,20:47,Qris,0,3
+Male,Member,Instant Food,37900,11,416900,5/23/2024,21:12,Card,30,10
+Male,Member,Kitchen Consumption,9300,1,9300,5/23/2024,21:14,Card,0,4
+Female,Member,Dessert,8600,14,120400,5/23/2024,21:39,Card,15,6
+Male,Member,Bakery,7900,10,79000,5/23/2024,21:43,Cash,10,6
+Female,Regular,Bakery,13200,7,92400,5/23/2024,21:52,Qris,0,5
+Male,Member,Seafood,41200,1,41200,5/23/2024,22:00,Cash,20,7
+Male,Member,Beverages,6800,9,61200,5/24/2024,8:01,Transfer,15,6
+Male,Regular,Instant Food,6500,6,39000,5/24/2024,8:08,Card,5,5
+Female,Regular,Dessert,17000,7,119000,5/24/2024,8:10,Transfer,0,5
+Female,Regular,Meat,66300,5,331500,5/24/2024,8:20,Cash,5,5
+Male,Regular,Dairy Product,32800,12,393600,5/24/2024,8:25,Cash,15,6
+Male,Member,Kitchen Consumption,29200,8,233600,5/24/2024,8:30,Transfer,20,8
+Female,Regular,Snack,7600,10,76000,5/24/2024,8:34,Card,20,7
+Male,Member,Fruits,9500,12,114000,5/24/2024,8:36,Transfer,30,9
+Male,Member,Seafood,80700,14,1129800,5/24/2024,9:02,Qris,15,6
+Female,Member,Vegetables,63800,1,63800,5/24/2024,9:03,Transfer,5,5
+Male,Member,Snack,7000,13,91000,5/24/2024,9:09,Cash,5,5
+Male,Member,Kitchen Consumption,29200,14,408800,5/24/2024,9:38,Qris,15,6
+Female,Regular,Kitchen Consumption,13400,10,134000,5/24/2024,9:42,Transfer,30,9
+Female,Member,Seafood,88700,8,709600,5/24/2024,10:07,Qris,15,5
+Male,Regular,Dessert,7400,10,74000,5/24/2024,10:09,Cash,20,7
+Female,Regular,Fruits,7500,1,7500,5/24/2024,10:20,Qris,0,3
+Female,Member,Dessert,11000,8,88000,5/24/2024,10:46,Qris,10,6
+Male,Member,Bakery,21400,12,256800,5/24/2024,10:52,Cash,30,9
+Male,Member,Vegetables,11700,11,128700,5/24/2024,10:53,Transfer,20,8
+Male,Member,Dessert,14400,2,28800,5/24/2024,11:06,Card,0,5
+Female,Member,Fruits,9500,3,28500,5/24/2024,11:08,Card,15,5
+Female,Member,Seafood,67800,13,881400,5/24/2024,11:14,Qris,20,7
+Female,Regular,Snack,7600,8,60800,5/24/2024,11:17,Card,20,8
+Female,Regular,Beverages,6800,6,40800,5/24/2024,11:36,Transfer,10,5
+Female,Regular,Dairy Product,43700,2,87400,5/24/2024,12:15,Qris,0,5
+Male,Regular,Beverages,12100,14,169400,5/24/2024,12:44,Card,15,6
+Male,Regular,Fruits,9500,2,19000,5/24/2024,12:50,Transfer,10,6
+Female,Regular,Beverages,12100,2,24200,5/24/2024,12:55,Transfer,20,8
+Female,Member,Dessert,17000,13,221000,5/24/2024,12:56,Qris,5,4
+Male,Member,Vegetables,12000,6,72000,5/24/2024,13:00,Cash,20,8
+Female,Member,Seafood,67800,10,678000,5/24/2024,13:12,Cash,10,5
+Male,Regular,Fruits,13100,13,170300,5/24/2024,13:23,Cash,15,5
+Male,Regular,Vegetables,9200,9,82800,5/24/2024,13:48,Transfer,10,6
+Male,Regular,Fruits,10000,8,80000,5/24/2024,13:59,Transfer,10,6
+Male,Member,Vegetables,15200,9,136800,5/24/2024,14:04,Transfer,30,10
+Male,Regular,Fruits,9600,3,28800,5/24/2024,14:12,Transfer,15,6
+Female,Member,Snack,7900,13,102700,5/24/2024,14:14,Qris,15,6
+Female,Regular,Fruits,12300,8,98400,5/24/2024,14:18,Transfer,10,6
+Male,Regular,Dessert,12300,2,24600,5/24/2024,14:19,Cash,10,5
+Female,Member,Instant Food,7100,2,14200,5/24/2024,14:35,Card,15,6
+Female,Member,Bakery,7900,12,94800,5/24/2024,14:38,Card,15,6
+Male,Member,Meat,66300,13,861900,5/24/2024,14:41,Qris,20,7
+Male,Member,Dairy Product,21200,10,212000,5/24/2024,15:00,Cash,30,9
+Female,Regular,Bakery,21400,1,21400,5/24/2024,15:11,Card,30,9
+Female,Member,Beverages,11000,12,132000,5/24/2024,15:21,Qris,15,6
+Male,Member,Beverages,17000,12,204000,5/24/2024,15:24,Qris,15,6
+Female,Member,Fruits,8400,8,67200,5/24/2024,15:35,Transfer,10,5
+Male,Member,Fruits,13100,10,131000,5/24/2024,15:41,Qris,30,9
+Male,Regular,Snack,28000,8,224000,5/24/2024,16:16,Card,20,7
+Female,Member,Vegetables,11200,8,89600,5/24/2024,16:37,Card,10,5
+Female,Member,Snack,8300,6,49800,5/24/2024,16:39,Qris,20,7
+Male,Regular,Seafood,80700,1,80700,5/24/2024,16:46,Qris,5,4
+Female,Regular,Bakery,24800,9,223200,5/24/2024,16:49,Qris,15,6
+Male,Regular,Snack,8300,10,83000,5/24/2024,16:55,Card,10,5
+Male,Member,Snack,7700,11,84700,5/24/2024,17:14,Qris,30,10
+Female,Regular,Dessert,8700,9,78300,5/24/2024,17:48,Cash,10,5
+Female,Member,Beverages,8700,7,60900,5/24/2024,17:53,Transfer,0,3
+Female,Member,Snack,12000,12,144000,5/24/2024,18:03,Qris,15,6
+Female,Regular,Dairy Product,21200,8,169600,5/24/2024,18:36,Cash,10,5
+Male,Regular,Dairy Product,21200,13,275600,5/24/2024,18:50,Cash,15,6
+Male,Member,Snack,7900,13,102700,5/24/2024,18:54,Cash,15,5
+Male,Member,Fruits,8900,2,17800,5/24/2024,19:00,Transfer,0,5
+Female,Member,Meat,78900,13,1025700,5/24/2024,19:02,Transfer,15,5
+Female,Regular,Seafood,69800,8,558400,5/24/2024,19:03,Card,10,6
+Male,Regular,Vegetables,11700,9,105300,5/24/2024,19:09,Transfer,10,5
+Female,Member,Beverages,12000,11,132000,5/24/2024,19:25,Cash,20,7
+Male,Member,Kitchen Consumption,9800,9,88200,5/24/2024,19:27,Cash,10,5
+Male,Member,Dessert,8600,4,34400,5/24/2024,19:37,Qris,5,5
+Female,Member,Kitchen Consumption,21300,12,255600,5/24/2024,19:43,Transfer,30,9
+Male,Regular,Fruits,4000,3,12000,5/24/2024,19:46,Transfer,0,3
+Male,Member,Dessert,8600,10,86000,5/24/2024,19:54,Transfer,10,6
+Female,Regular,Fruits,6300,14,88200,5/24/2024,20:09,Transfer,15,6
+Female,Regular,Dairy Product,34000,14,476000,5/24/2024,20:40,Cash,15,6
+Male,Regular,Fruits,10000,8,80000,5/24/2024,21:12,Card,15,6
+Male,Regular,Beverages,17800,11,195800,5/24/2024,21:14,Qris,30,9
+Male,Member,Seafood,44000,3,132000,5/24/2024,21:19,Cash,10,5
+Female,Regular,Bakery,21400,11,235400,5/24/2024,21:34,Qris,30,9
+Male,Regular,Beverages,17000,10,170000,5/24/2024,21:51,Cash,10,5
+Male,Regular,Meat,40200,14,562800,5/24/2024,21:53,Card,30,9
+Female,Regular,Beverages,8700,12,104400,5/24/2024,21:56,Qris,10,5
+Male,Member,Bakery,8000,14,112000,5/25/2024,8:14,Cash,30,9
+Female,Member,Kitchen Consumption,24000,14,336000,5/25/2024,8:34,Cash,15,6
+Male,Regular,Snack,7000,4,28000,5/25/2024,8:37,Card,5,5
+Male,Member,Vegetables,12000,4,48000,5/25/2024,8:45,Cash,5,3
+Female,Member,Vegetables,63800,2,127600,5/25/2024,8:47,Transfer,5,5
+Male,Member,Snack,9000,2,18000,5/25/2024,9:06,Cash,15,5
+Male,Member,Dairy Product,25800,11,283800,5/25/2024,9:30,Qris,15,6
+Female,Regular,Instant Food,6900,4,27600,5/25/2024,10:04,Transfer,30,9
+Female,Member,Beverages,14500,1,14500,5/25/2024,10:17,Card,0,5
+Male,Member,Kitchen Consumption,29200,8,233600,5/25/2024,10:20,Card,10,6
+Female,Regular,Dessert,8700,12,104400,5/25/2024,10:24,Card,5,3
+Male,Regular,Dairy Product,42000,12,504000,5/25/2024,10:25,Transfer,30,10
+Male,Regular,Kitchen Consumption,13400,9,120600,5/25/2024,10:43,Transfer,15,6
+Male,Member,Dessert,19000,9,171000,5/25/2024,11:00,Cash,10,6
+Female,Member,Seafood,90900,12,1090800,5/25/2024,11:04,Qris,20,8
+Female,Member,Seafood,90900,2,181800,5/25/2024,11:15,Cash,0,5
+Male,Regular,Vegetables,9200,8,73600,5/25/2024,11:18,Qris,10,5
+Male,Member,Snack,8300,1,8300,5/25/2024,11:21,Qris,30,9
+Female,Regular,Fruits,4000,10,40000,5/25/2024,11:38,Cash,15,6
+Male,Regular,Dairy Product,22300,9,200700,5/25/2024,12:32,Cash,20,7
+Female,Member,Fruits,6300,9,56700,5/25/2024,12:44,Cash,15,5
+Male,Member,Fruits,10000,10,100000,5/25/2024,12:53,Qris,15,5
+Female,Member,Seafood,88700,10,887000,5/25/2024,12:59,Qris,20,8
+Male,Regular,Vegetables,30700,12,368400,5/25/2024,13:06,Cash,20,8
+Female,Regular,Fruits,9600,7,67200,5/25/2024,13:15,Cash,0,4
+Female,Regular,Snack,12000,12,144000,5/25/2024,13:22,Transfer,20,8
+Female,Regular,Meat,40200,8,321600,5/25/2024,13:28,Card,20,7
+Male,Member,Beverages,12100,14,169400,5/25/2024,13:30,Transfer,15,6
+Female,Member,Beverages,12100,5,60500,5/25/2024,13:42,Cash,10,6
+Male,Member,Instant Food,6500,12,78000,5/25/2024,13:54,Card,30,9
+Female,Member,Bakery,12100,11,133100,5/25/2024,14:11,Cash,10,6
+Female,Regular,Kitchen Consumption,9800,8,78400,5/25/2024,14:16,Qris,10,5
+Male,Member,Seafood,49400,4,197600,5/25/2024,14:20,Card,10,6
+Male,Regular,Meat,37800,9,340200,5/25/2024,14:47,Card,10,6
+Female,Regular,Kitchen Consumption,2200,14,30800,5/25/2024,14:49,Qris,15,6
+Female,Regular,Instant Food,3400,10,34000,5/25/2024,15:01,Cash,10,6
+Male,Regular,Kitchen Consumption,10200,5,51000,5/25/2024,15:07,Card,15,6
+Female,Regular,Instant Food,9800,6,58800,5/25/2024,15:09,Qris,5,3
+Female,Member,Meat,89600,8,716800,5/25/2024,15:15,Cash,10,6
+Female,Regular,Seafood,67800,13,881400,5/25/2024,15:17,Qris,20,8
+Male,Member,Meat,66300,14,928200,5/25/2024,15:24,Qris,10,6
+Female,Member,Kitchen Consumption,9800,8,78400,5/25/2024,16:01,Card,10,5
+Female,Member,Fruits,13100,2,26200,5/25/2024,16:02,Cash,5,5
+Male,Member,Dessert,7400,5,37000,5/25/2024,16:09,Cash,5,3
+Male,Member,Fruits,8900,10,89000,5/25/2024,16:40,Transfer,10,5
+Female,Regular,Kitchen Consumption,9300,13,120900,5/25/2024,16:42,Transfer,15,6
+Male,Member,Seafood,129300,9,1163700,5/25/2024,16:56,Qris,10,6
+Male,Member,Beverages,8300,11,91300,5/25/2024,17:07,Card,30,9
+Female,Regular,Snack,7000,10,70000,5/25/2024,17:12,Transfer,30,10
+Male,Member,Bakery,21400,10,214000,5/25/2024,17:13,Cash,30,9
+Male,Regular,Beverages,12100,5,60500,5/25/2024,17:25,Card,20,8
+Male,Regular,Dairy Product,23300,10,233000,5/25/2024,17:43,Qris,10,6
+Female,Member,Fruits,4000,11,44000,5/25/2024,17:45,Qris,5,5
+Male,Regular,Dairy Product,34000,7,238000,5/25/2024,17:46,Cash,30,9
+Female,Regular,Kitchen Consumption,6500,13,84500,5/25/2024,18:08,Qris,15,5
+Male,Regular,Instant Food,6900,9,62100,5/25/2024,18:16,Cash,10,6
+Male,Regular,Snack,9000,11,99000,5/25/2024,18:22,Cash,15,6
+Male,Regular,Kitchen Consumption,9800,2,19600,5/25/2024,18:24,Card,30,9
+Male,Regular,Bakery,12000,10,120000,5/25/2024,18:27,Cash,30,9
+Female,Member,Fruits,13100,13,170300,5/25/2024,18:55,Cash,10,6
+Female,Regular,Snack,12000,12,144000,5/25/2024,18:57,Qris,10,6
+Male,Member,Beverages,17800,11,195800,5/25/2024,19:39,Qris,15,6
+Male,Member,Fruits,8900,4,35600,5/25/2024,19:40,Transfer,10,6
+Female,Member,Snack,7600,9,68400,5/25/2024,19:41,Transfer,15,6
+Male,Member,Seafood,69800,9,628200,5/25/2024,19:45,Cash,30,9
+Female,Regular,Seafood,44000,1,44000,5/25/2024,19:51,Card,5,5
+Male,Regular,Fruits,8400,9,75600,5/25/2024,19:58,Qris,30,9
+Female,Member,Dairy Product,24300,10,243000,5/25/2024,20:00,Transfer,10,6
+Male,Member,Kitchen Consumption,24000,7,168000,5/25/2024,20:06,Qris,10,5
+Male,Member,Vegetables,12000,10,120000,5/25/2024,20:11,Transfer,10,5
+Female,Regular,Meat,87900,6,527400,5/25/2024,20:16,Card,5,5
+Male,Regular,Dairy Product,32800,9,295200,5/25/2024,20:20,Qris,10,6
+Female,Member,Dessert,14400,9,129600,5/25/2024,20:37,Qris,10,5
+Female,Member,Meat,56000,3,168000,5/25/2024,20:45,Qris,5,5
+Male,Member,Seafood,88700,7,620900,5/25/2024,20:51,Card,10,5
+Female,Regular,Beverages,6800,13,88400,5/25/2024,20:52,Qris,30,9
+Male,Regular,Dessert,7400,4,29600,5/25/2024,20:55,Cash,30,10
+Male,Regular,Bakery,24800,8,198400,5/25/2024,21:03,Cash,10,6
+Female,Regular,Vegetables,11700,5,58500,5/25/2024,21:09,Cash,10,5
+Female,Regular,Snack,,14,0,5/25/2024,21:37,Cash,10,6

@@ -1,5 +1,5 @@
 {% extends 'base.html' %} {% block content %}
-<h1>Orders</h1>
+<h1>Order</h1>
 <br />
 <a
   href="/order/create"
@@ -20,18 +20,19 @@
   <thead class="table-light">
     <tr>
       <th>Order ID</th>
+      <th>Date</th>
+      <th>Time</th>
       <th>Customer Name</th>
       <th>Customer Type</th>
       <th>Gender</th>
-      <th>Product Name</th>
       <th>Product Category</th>
+      <th>Product Name</th>
       <th>Price</th>
       <th>Quantity</th>
       <th>Total Price</th>
-      <th>Date</th>
-      <th>Time</th>
-      <th>Payment</th>
       <th>Discount</th>
+      <th>Payment</th>
+      <th>Satisfaction</th>
       <th>Action</th>
     </tr>
 </thead>
@@ -39,18 +40,19 @@
     {% for order in data %}
     <tr>
       <td>{{order.id}}</td>
+      <td>{{order.date|date:"SHORT_DATE_FORMAT"}}</td>
+      <td>{{order.time|time:"H:i"}}</td>
       <td>{{order.customer.name}}</td>
       <td>{{order.customer.customer_type}}</td>
       <td>{{order.customer.gender}}</td>
+      <td>{{order.product.product_category}}</td>
       <td>{{order.product.name}}</td>
-      <td>{{order.product.category}}</td>
-      <td>{{order.product.price}}</td>
+      <td>{{order.product.unit_price}}</td>
       <td>{{order.quantity}}</td>
-      <td>{{order.total_price}}</td>
-      <td>{{order.date|date:"SHORT_DATE_FORMAT"}}</td>
-      <td>{{order.time|time:"H:i"}}</td>
-      <td>{{order.payment_type}}</td>
+      <td>{{order.total}}</td>
       <td>{{order.discount}}</td>
+      <td>{{order.payment_type}}</td>
+      <td>{{order.satisfaction}}</td>
       <td>
         <button
           type="button"

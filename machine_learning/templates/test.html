@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>test</title>
+</head>
+<body>
+    <h1>Test</h1>
+    <hr>
+    {% if result %}
+        <h1>Tingkat kepuasan Pelanggan adalah {{result}}</h1>
+    {% endif %}
+
+    <form method="post" action="{% url 'predictor' %}">
+      {% csrf_token %}
+      <input type="text" name="customer_type" placeholder="Customer Type" required="required" />
+      <input type="text" name="gender" placeholder="Gender" required="required" />
+      <input type="text" name="product_category" placeholder="Product Category" required="required" />
+      <input type="number" name="unit_price" placeholder="Price" required="required" />
+      <input type="number" name="quantity" placeholder="Quantity" required="required" />
+      <input type="text" name="payment_type" placeholder="Payment" required="required" />
+      <input type="number" name="total" placeholder="Total" required="required" />
+      <input type="number" name="discount" placeholder="Discount" required="required" />
+      <button type="submit" class="btn btn-primary btn-block btn-large">Predict</button>
+    </form>
+</body>
+</html>

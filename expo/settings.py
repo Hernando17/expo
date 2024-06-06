@@ -28,7 +28,7 @@ SECRET_KEY = 'django-insecure-7n534)bsd^!t1gwx@i6lxk*6vit&488!jr^^ka&1-+49im$9#v
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['kelompok3expo.azurewebsites.net']
 
 CSRF_COOKIE_SECURE = True
 
@@ -93,10 +93,10 @@ WSGI_APPLICATION = 'expo.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'expo',
-        'USER': 'root',
-        'PASSWORD': '',
-        'HOST': 'localhost',   
+        'NAME': 'kelompok3expo',
+        'USER': 'beval',
+        'PASSWORD': 'Kelompok3expo',
+        'HOST': 'kelompok3expo.mysql.database.azure.com',   
         'PORT': '3306',
     }
 }
